@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv date="20260612022355 +0800" Author="Doubebly">
+<tv date="20260613014101 +0800" Author="Doubebly">
   <channel id="4gtv-4gtv003">
     <display-name>民視第一台</display-name>
   </channel>
@@ -562,7 +562,7 @@
     <title>元氣加油站【普】(E2601)</title>
   </programme>
   <programme channel="4gtv-4gtv002" start="20260612020000 +0800" stop="20260612023000 +0800">
-    <title>消費高手【普】(E7963)</title>
+    <title>消費高手【普】(E7913)</title>
   </programme>
   <programme channel="4gtv-4gtv002" start="20260612023000 +0800" stop="20260612030000 +0800">
     <title>元氣加油站【普】(E2964)</title>
@@ -580,7 +580,7 @@
     <title>美鳳有約【普】(E5311)</title>
   </programme>
   <programme channel="4gtv-4gtv002" start="20260612053000 +0800" stop="20260612060000 +0800">
-    <title>消費高手【普】(E7738)</title>
+    <title>消費高手【普】(E7980)</title>
   </programme>
   <programme channel="4gtv-4gtv002" start="20260612060000 +0800" stop="20260612070000 +0800">
     <title>民視六點晨間新聞【普】</title>
@@ -601,7 +601,7 @@
     <title>消費高手【普】(E7976)</title>
   </programme>
   <programme channel="4gtv-4gtv002" start="20260612103000 +0800" stop="20260612110000 +0800">
-    <title>消費高手【普】(E7722)</title>
+    <title>消費高手【普】(E7913)</title>
   </programme>
   <programme channel="4gtv-4gtv002" start="20260612110000 +0800" stop="20260612113000 +0800">
     <title>元氣加油站【普】(E2964)</title>
@@ -670,7 +670,7 @@
     <title>元氣加油站【普】(E3033)</title>
   </programme>
   <programme channel="4gtv-4gtv002" start="20260613020000 +0800" stop="20260613023000 +0800">
-    <title>消費高手【普】(E7946)</title>
+    <title>消費高手【普】(E7980)</title>
   </programme>
   <programme channel="4gtv-4gtv002" start="20260613023000 +0800" stop="20260613030000 +0800">
     <title>元氣加油站【普】(E2730)</title>
@@ -679,7 +679,7 @@
     <title>元氣加油站【普】(E3067)</title>
   </programme>
   <programme channel="4gtv-4gtv002" start="20260613033000 +0800" stop="20260613040000 +0800">
-    <title>消費高手【普】(E7990)</title>
+    <title>消費高手【普】(E7913)</title>
   </programme>
   <programme channel="4gtv-4gtv002" start="20260613040000 +0800" stop="20260613043000 +0800">
     <title>美鳳有約【普】(E5302)</title>
@@ -703,7 +703,7 @@
     <title>美鳳有約【普】(E5265)</title>
   </programme>
   <programme channel="4gtv-4gtv002" start="20260613083000 +0800" stop="20260613090000 +0800">
-    <title>消費高手【普】(E7722)</title>
+    <title>消費高手【普】(E7913)</title>
   </programme>
   <programme channel="4gtv-4gtv002" start="20260613090000 +0800" stop="20260613093000 +0800">
     <title>元氣加油站【普】(E3043)</title>
@@ -4332,6 +4332,12 @@
   <programme channel="4gtv-4gtv079" start="20260614220000 +0800" stop="20260614230000 +0800">
     <title>GUGAK THE MUSIC OF KOREA(普)</title>
   </programme>
+  <programme channel="4gtv-4gtv079" start="20260614230000 +0800" stop="20260614233000 +0800">
+    <title>PREMIUM COLLECTION(普)</title>
+  </programme>
+  <programme channel="4gtv-4gtv079" start="20260614233000 +0800" stop="20260615000000 +0800">
+    <title>DIPLOMATS ARCHIVE: HIDDEN STORIES(普)</title>
+  </programme>
   <channel id="4gtv-live112">
     <display-name>Global Trekker</display-name>
   </channel>
@@ -6589,10 +6595,10 @@
     <title>貓頭鷹探險隊</title>
   </programme>
   <programme channel="litv-xinchuang20" start="20260612070000 +0800" stop="20260612073000 +0800">
-    <title>歡迎來到Wiggle Town</title>
+    <title>大眼萌娃</title>
   </programme>
   <programme channel="litv-xinchuang20" start="20260612073000 +0800" stop="20260612080000 +0800">
-    <title>歡迎來到Wiggle Town</title>
+    <title>大眼萌娃</title>
   </programme>
   <programme channel="litv-xinchuang20" start="20260612080000 +0800" stop="20260612083000 +0800">
     <title>妙妙一家親</title>
@@ -6730,10 +6736,10 @@
     <title>貓頭鷹探險隊</title>
   </programme>
   <programme channel="litv-xinchuang20" start="20260613070000 +0800" stop="20260613073000 +0800">
-    <title>歡迎來到Wiggle Town</title>
+    <title>大眼萌娃</title>
   </programme>
   <programme channel="litv-xinchuang20" start="20260613073000 +0800" stop="20260613080000 +0800">
-    <title>歡迎來到Wiggle Town</title>
+    <title>大眼萌娃</title>
   </programme>
   <programme channel="litv-xinchuang20" start="20260613080000 +0800" stop="20260613083000 +0800">
     <title>妙妙一家親</title>
@@ -6871,10 +6877,10 @@
     <title>貓頭鷹探險隊</title>
   </programme>
   <programme channel="litv-xinchuang20" start="20260614070000 +0800" stop="20260614073000 +0800">
-    <title>歡迎來到Wiggle Town</title>
+    <title>大眼萌娃</title>
   </programme>
   <programme channel="litv-xinchuang20" start="20260614073000 +0800" stop="20260614080000 +0800">
-    <title>歡迎來到Wiggle Town</title>
+    <title>大眼萌娃</title>
   </programme>
   <programme channel="litv-xinchuang20" start="20260614080000 +0800" stop="20260614083000 +0800">
     <title>妙妙一家親</title>
@@ -10597,7 +10603,7 @@
     <title>財富新鏡界(普)</title>
   </programme>
   <programme channel="4gtv-4gtv075" start="20260613100000 +0800" stop="20260613110000 +0800">
-    <title>鏡新聞調查報告(普)</title>
+    <title>野球魂 鏡訪台將(普)</title>
   </programme>
   <programme channel="4gtv-4gtv075" start="20260613110000 +0800" stop="20260613115500 +0800">
     <title>1100整點新聞(普)</title>
@@ -10702,7 +10708,7 @@
     <title>財富新鏡界(普)</title>
   </programme>
   <programme channel="4gtv-4gtv075" start="20260614223000 +0800" stop="20260614233000 +0800">
-    <title>百大醫言堂(普)</title>
+    <title>野球魂 鏡訪台將(普)</title>
   </programme>
   <programme channel="4gtv-4gtv075" start="20260614233000 +0800" stop="20260615000000 +0800">
     <title>另一種注目(護)</title>
@@ -10714,13 +10720,16 @@
     <title>東森夜線新聞</title>
   </programme>
   <programme channel="4gtv-4gtv152" start="20260612010000 +0800" stop="20260612030000 +0800">
-    <title>東森晚間新聞</title>
+    <title>關鍵時刻</title>
   </programme>
-  <programme channel="4gtv-4gtv152" start="20260612030000 +0800" stop="20260612050000 +0800">
+  <programme channel="4gtv-4gtv152" start="20260612030000 +0800" stop="20260612040000 +0800">
+    <title>東森夜線新聞</title>
+  </programme>
+  <programme channel="4gtv-4gtv152" start="20260612040000 +0800" stop="20260612050000 +0800">
     <title>東森世界日報</title>
   </programme>
   <programme channel="4gtv-4gtv152" start="20260612050000 +0800" stop="20260612060000 +0800">
-    <title>東森夜線新聞</title>
+    <title>東森世界日報</title>
   </programme>
   <programme channel="4gtv-4gtv152" start="20260612060000 +0800" stop="20260612090000 +0800">
     <title>Hello 台灣</title>
@@ -10747,13 +10756,16 @@
     <title>東森夜線新聞</title>
   </programme>
   <programme channel="4gtv-4gtv152" start="20260613010000 +0800" stop="20260613030000 +0800">
-    <title>東森晚間新聞</title>
+    <title>關鍵時刻</title>
   </programme>
-  <programme channel="4gtv-4gtv152" start="20260613030000 +0800" stop="20260613050000 +0800">
+  <programme channel="4gtv-4gtv152" start="20260613030000 +0800" stop="20260613040000 +0800">
+    <title>東森夜線新聞</title>
+  </programme>
+  <programme channel="4gtv-4gtv152" start="20260613040000 +0800" stop="20260613050000 +0800">
     <title>東森世界日報</title>
   </programme>
   <programme channel="4gtv-4gtv152" start="20260613050000 +0800" stop="20260613060000 +0800">
-    <title>東森夜線新聞</title>
+    <title>東森世界日報</title>
   </programme>
   <programme channel="4gtv-4gtv152" start="20260613060000 +0800" stop="20260613074000 +0800">
     <title>Hello 台灣</title>
@@ -10783,22 +10795,22 @@
     <title>台灣啟示錄</title>
   </programme>
   <programme channel="4gtv-4gtv152" start="20260613230000 +0800" stop="20260614000000 +0800">
-    <title>台灣1001個故事</title>
-  </programme>
-  <programme channel="4gtv-4gtv152" start="20260614000000 +0800" stop="20260614023000 +0800">
-    <title>東森夜線精選</title>
-  </programme>
-  <programme channel="4gtv-4gtv152" start="20260614023000 +0800" stop="20260614030000 +0800">
     <title>東森夜線新聞</title>
   </programme>
+  <programme channel="4gtv-4gtv152" start="20260614000000 +0800" stop="20260614023000 +0800">
+    <title>東森新聞精選</title>
+  </programme>
+  <programme channel="4gtv-4gtv152" start="20260614023000 +0800" stop="20260614030000 +0800">
+    <title>東森晚間新聞</title>
+  </programme>
   <programme channel="4gtv-4gtv152" start="20260614030000 +0800" stop="20260614040000 +0800">
-    <title>東森世界日報</title>
+    <title>東森晚間新聞</title>
   </programme>
   <programme channel="4gtv-4gtv152" start="20260614040000 +0800" stop="20260614050000 +0800">
     <title>台灣cheers</title>
   </programme>
   <programme channel="4gtv-4gtv152" start="20260614050000 +0800" stop="20260614060000 +0800">
-    <title>東森夜線新聞</title>
+    <title>東森世界日報</title>
   </programme>
   <programme channel="4gtv-4gtv152" start="20260614060000 +0800" stop="20260614090000 +0800">
     <title>Hello 台灣</title>
@@ -12729,14 +12741,20 @@
   <programme channel="litv-longturn14" start="20260613185500 +0800" stop="20260613195500 +0800">
     <title>寰宇全球新聞(普)</title>
   </programme>
-  <programme channel="litv-longturn14" start="20260613195500 +0800" stop="20260613205500 +0800">
+  <programme channel="litv-longturn14" start="20260613195500 +0800" stop="20260613202500 +0800">
+    <title>一起打卡吧(普)</title>
+  </programme>
+  <programme channel="litv-longturn14" start="20260613202500 +0800" stop="20260613205500 +0800">
     <title>寰宇整點新聞(普)</title>
   </programme>
-  <programme channel="litv-longturn14" start="20260613205500 +0800" stop="20260613215500 +0800">
-    <title>Linking 368 Taiwan(普)</title>
+  <programme channel="litv-longturn14" start="20260613205500 +0800" stop="20260613212500 +0800">
+    <title>寰宇全視界(普)</title>
+  </programme>
+  <programme channel="litv-longturn14" start="20260613212500 +0800" stop="20260613215500 +0800">
+    <title>國際快易通(普)</title>
   </programme>
   <programme channel="litv-longturn14" start="20260613215500 +0800" stop="20260613225500 +0800">
-    <title>國際快易通(普)</title>
+    <title>Linking 368 Taiwan(普)</title>
   </programme>
   <programme channel="litv-longturn14" start="20260613225500 +0800" stop="20260613235500 +0800">
     <title>寰宇全球新聞(普)</title>
@@ -12745,10 +12763,10 @@
     <title>寰宇全球新聞(普)</title>
   </programme>
   <programme channel="litv-longturn14" start="20260614005500 +0800" stop="20260614015500 +0800">
-    <title>寰宇整點新聞(普)</title>
+    <title>寰宇全球新聞(普)</title>
   </programme>
   <programme channel="litv-longturn14" start="20260614015500 +0800" stop="20260614025500 +0800">
-    <title>國際快易通(普)</title>
+    <title>寰宇全球新聞(普)</title>
   </programme>
   <programme channel="litv-longturn14" start="20260614025500 +0800" stop="20260614035500 +0800">
     <title>寰宇全球新聞(普)</title>
@@ -12757,10 +12775,10 @@
     <title>寰宇全球新聞(普)</title>
   </programme>
   <programme channel="litv-longturn14" start="20260614045500 +0800" stop="20260614055500 +0800">
-    <title>寰宇整點新聞(普)</title>
+    <title>寰宇全球新聞(普)</title>
   </programme>
   <programme channel="litv-longturn14" start="20260614055500 +0800" stop="20260614065500 +0800">
-    <title>國際快易通(普)</title>
+    <title>寰宇全球新聞(普)</title>
   </programme>
   <programme channel="litv-longturn14" start="20260614065500 +0800" stop="20260614075500 +0800">
     <title>寰宇全球新聞(普)</title>
@@ -12783,11 +12801,14 @@
   <programme channel="litv-longturn14" start="20260614125500 +0800" stop="20260614135500 +0800">
     <title>寰宇全球現場(普)</title>
   </programme>
-  <programme channel="litv-longturn14" start="20260614135500 +0800" stop="20260614145500 +0800">
-    <title>寰宇全球現場(普)</title>
+  <programme channel="litv-longturn14" start="20260614135500 +0800" stop="20260614142500 +0800">
+    <title>寰宇全視界(普)</title>
+  </programme>
+  <programme channel="litv-longturn14" start="20260614142500 +0800" stop="20260614145500 +0800">
+    <title>國際快易通(普)</title>
   </programme>
   <programme channel="litv-longturn14" start="20260614145500 +0800" stop="20260614155500 +0800">
-    <title>寰宇全球現場(普)</title>
+    <title>Linking 368 Taiwan(普)</title>
   </programme>
   <programme channel="litv-longturn14" start="20260614155500 +0800" stop="20260614165500 +0800">
     <title>寰宇全球現場(普)</title>
@@ -12802,7 +12823,7 @@
     <title>寰宇全球新聞(普)</title>
   </programme>
   <programme channel="litv-longturn14" start="20260614195500 +0800" stop="20260614205500 +0800">
-    <title>寰宇整點新聞(普)</title>
+    <title>台灣啟示錄(普)</title>
   </programme>
   <programme channel="litv-longturn14" start="20260614205500 +0800" stop="20260614215500 +0800">
     <title>寰宇整點新聞(普)</title>
@@ -15394,10 +15415,10 @@
     <title>11點熱吵店</title>
   </programme>
   <programme channel="4gtv-4gtv068" start="20260612210000 +0800" stop="20260612220000 +0800">
-    <title>今日宜加油</title>
+    <title>拜託ATM</title>
   </programme>
   <programme channel="4gtv-4gtv068" start="20260612220000 +0800" stop="20260612230000 +0800">
-    <title>今日宜加油</title>
+    <title>食尚玩家</title>
   </programme>
   <programme channel="4gtv-4gtv068" start="20260612230000 +0800" stop="20260613000000 +0800">
     <title>11點熱吵店</title>
@@ -15406,10 +15427,10 @@
     <title>女人我最大</title>
   </programme>
   <programme channel="4gtv-4gtv068" start="20260613010000 +0800" stop="20260613020000 +0800">
-    <title>今日宜加油</title>
+    <title>拜託ATM</title>
   </programme>
   <programme channel="4gtv-4gtv068" start="20260613020000 +0800" stop="20260613030000 +0800">
-    <title>今日宜加油</title>
+    <title>食尚玩家</title>
   </programme>
   <programme channel="4gtv-4gtv068" start="20260613030000 +0800" stop="20260613040000 +0800">
     <title>11點熱吵店</title>
@@ -22545,8 +22566,14 @@
   <programme channel="litv-xinchuang05" start="20260612163000 +0800" stop="20260612190000 +0800">
     <title>2026 PGA德州公開賽 第二天(普)</title>
   </programme>
-  <programme channel="litv-xinchuang05" start="20260612190000 +0800" stop="20260613000000 +0800">
+  <programme channel="litv-xinchuang05" start="20260612190000 +0800" stop="20260612220000 +0800">
     <title>2026 歐巡荷蘭公開賽第一天(普)</title>
+  </programme>
+  <programme channel="litv-xinchuang05" start="20260612220000 +0800" stop="20260612233000 +0800">
+    <title>2026 奧地利公開賽 第四天(普)</title>
+  </programme>
+  <programme channel="litv-xinchuang05" start="20260612233000 +0800" stop="20260613000000 +0800">
+    <title>2026 安特衛普公開賽 精華(普)</title>
   </programme>
   <programme channel="litv-xinchuang05" start="20260613000000 +0800" stop="20260613030000 +0800">
     <title>2026 PGA德州公開賽 第二天(普)</title>
@@ -22620,10 +22647,10 @@
   <programme channel="litv-xinchuang06" start="20260612120000 +0800" stop="20260612140000 +0800">
     <title>2026 LPGA福特錦標賽 第一天(普)</title>
   </programme>
-  <programme channel="litv-xinchuang06" start="20260612140000 +0800" stop="20260612163000 +0800">
+  <programme channel="litv-xinchuang06" start="20260612140000 +0800" stop="20260612160000 +0800">
     <title>2026 LPGA美洲公開賽 第二天(普)</title>
   </programme>
-  <programme channel="litv-xinchuang06" start="20260612163000 +0800" stop="20260612210000 +0800">
+  <programme channel="litv-xinchuang06" start="20260612160000 +0800" stop="20260612210000 +0800">
     <title>2026 LPGA美國女子公開賽 第四天(普)</title>
   </programme>
   <programme channel="litv-xinchuang06" start="20260612210000 +0800" stop="20260613000000 +0800">
@@ -22690,7 +22717,7 @@
     <display-name>博斯運動一台</display-name>
   </channel>
   <programme channel="litv-xinchuang07" start="20260612000000 +0800" stop="20260612010000 +0800">
-    <title>LIVE2026利貝馬男網賽十六強1900-0100(普)</title>
+    <title>LIVE2026利貝馬男網賽十六強1830-0100(普)</title>
   </programme>
   <programme channel="litv-xinchuang07" start="20260612010000 +0800" stop="20260612040000 +0800">
     <title>2026歐冠女排聯賽第四輪 LEG6瓦基弗銀行vs 斯坎迪奇(普)</title>
@@ -22912,7 +22939,7 @@
     <title>2026蒙地卡羅大師賽 4強 ALC vs VAC(普)</title>
   </programme>
   <programme channel="litv-xinchuang09" start="20260612100000 +0800" stop="20260612120000 +0800">
-    <title>2026法國網球公開賽 8強(普)</title>
+    <title>2026馬德里大師賽 16強 CER vs BLO(普)</title>
   </programme>
   <programme channel="litv-xinchuang09" start="20260612120000 +0800" stop="20260612170000 +0800">
     <title>首播 2026斯圖加特男網賽 16強(普)</title>
@@ -22933,7 +22960,7 @@
     <title>2026馬德里大師賽 16強 LEH vs MUS(普)</title>
   </programme>
   <programme channel="litv-xinchuang09" start="20260613090000 +0800" stop="20260613120000 +0800">
-    <title>2026法國網球公開賽 4強(普)</title>
+    <title>2026蒙地卡羅大師賽 決賽 ALC vs SIN(普)</title>
   </programme>
   <programme channel="litv-xinchuang09" start="20260613120000 +0800" stop="20260613180000 +0800">
     <title>首播 2026斯圖加特男網賽 8強(普)</title>
@@ -22942,43 +22969,46 @@
     <title>LIVE 2026斯圖加特男網賽 4強(普)</title>
   </programme>
   <programme channel="litv-xinchuang09" start="20260613220000 +0800" stop="20260614000000 +0800">
-    <title>2026法國網球公開賽 4強(普)</title>
-  </programme>
-  <programme channel="litv-xinchuang09" start="20260614000000 +0800" stop="20260614010000 +0800">
-    <title>2026法國網球公開賽 4強(普)</title>
-  </programme>
-  <programme channel="litv-xinchuang09" start="20260614010000 +0800" stop="20260614033000 +0800">
     <title>2026羅馬大師賽 8強 RUU vs KHA(普)</title>
   </programme>
-  <programme channel="litv-xinchuang09" start="20260614033000 +0800" stop="20260614053000 +0800">
+  <programme channel="litv-xinchuang09" start="20260614000000 +0800" stop="20260614003000 +0800">
+    <title>2026羅馬大師賽 8強 RUU vs KHA(普)</title>
+  </programme>
+  <programme channel="litv-xinchuang09" start="20260614003000 +0800" stop="20260614023000 +0800">
     <title>2026馬德里大師賽 16強 SIN vs NOR(普)</title>
   </programme>
-  <programme channel="litv-xinchuang09" start="20260614053000 +0800" stop="20260614073000 +0800">
-    <title>2026漢堡男網賽16強 HUM vs KHA(普)</title>
+  <programme channel="litv-xinchuang09" start="20260614023000 +0800" stop="20260614043000 +0800">
+    <title>2026漢堡男網賽 16強 HUM vs KHA(普)</title>
   </programme>
-  <programme channel="litv-xinchuang09" start="20260614073000 +0800" stop="20260614080000 +0800">
-    <title>網球雜誌(普)</title>
+  <programme channel="litv-xinchuang09" start="20260614043000 +0800" stop="20260614070000 +0800">
+    <title>2026羅馬大師賽 8強 RUU vs KHA(普)</title>
   </programme>
-  <programme channel="litv-xinchuang09" start="20260614080000 +0800" stop="20260614110000 +0800">
-    <title>2026法國網球公開賽 4強(普)</title>
+  <programme channel="litv-xinchuang09" start="20260614070000 +0800" stop="20260614090000 +0800">
+    <title>2026馬德里大師賽 16強 SIN vs NOR(普)</title>
+  </programme>
+  <programme channel="litv-xinchuang09" start="20260614090000 +0800" stop="20260614110000 +0800">
+    <title>2026馬德里大師賽 16強 SIN vs NOR(普)</title>
   </programme>
   <programme channel="litv-xinchuang09" start="20260614110000 +0800" stop="20260614120000 +0800">
-    <title>2026法網第13天精華(普)</title>
+    <title>2026蒙地卡羅大師賽精華(普)</title>
   </programme>
   <programme channel="litv-xinchuang09" start="20260614120000 +0800" stop="20260614160000 +0800">
     <title>首播 2026斯圖加特男網賽 4強(普)</title>
   </programme>
-  <programme channel="litv-xinchuang09" start="20260614160000 +0800" stop="20260614190000 +0800">
-    <title>2026法國網球公開賽 4強(普)</title>
+  <programme channel="litv-xinchuang09" start="20260614160000 +0800" stop="20260614163000 +0800">
+    <title>網球雜誌(普)</title>
+  </programme>
+  <programme channel="litv-xinchuang09" start="20260614163000 +0800" stop="20260614190000 +0800">
+    <title>2026羅馬大師賽 8強 RUU vs KHA(普)</title>
   </programme>
   <programme channel="litv-xinchuang09" start="20260614190000 +0800" stop="20260614200000 +0800">
-    <title>2026法網第13天精華(普)</title>
+    <title>2026蒙地卡羅大師賽精華(普)</title>
   </programme>
   <programme channel="litv-xinchuang09" start="20260614200000 +0800" stop="20260614220000 +0800">
     <title>LIVE 2026斯圖加特男網賽 決賽(普)</title>
   </programme>
   <programme channel="litv-xinchuang09" start="20260614220000 +0800" stop="20260615000000 +0800">
-    <title>2026法國網球公開賽 決賽(普)</title>
+    <title>2026羅馬大師賽 8強 SIN vs RUB(普)</title>
   </programme>
   <channel id="litv-xinchuang08">
     <display-name>博斯運動二台</display-name>
@@ -23124,8 +23154,14 @@
   <programme channel="litv-xinchuang04" start="20260612113000 +0800" stop="20260612120000 +0800">
     <title>WTA新視界(普)</title>
   </programme>
-  <programme channel="litv-xinchuang04" start="20260612120000 +0800" stop="20260612183000 +0800">
-    <title>首播2026倫敦女網賽16強(普)</title>
+  <programme channel="litv-xinchuang04" start="20260612120000 +0800" stop="20260612140000 +0800">
+    <title>2026馬德里女網賽決賽AND vs KOS(普)</title>
+  </programme>
+  <programme channel="litv-xinchuang04" start="20260612140000 +0800" stop="20260612163000 +0800">
+    <title>2026史特拉斯堡女網賽16強NAV vs JOV(普)</title>
+  </programme>
+  <programme channel="litv-xinchuang04" start="20260612163000 +0800" stop="20260612183000 +0800">
+    <title>2026林茲女網賽8強POT vs TAG(普)</title>
   </programme>
   <programme channel="litv-xinchuang04" start="20260612183000 +0800" stop="20260613000000 +0800">
     <title>LIVE2026倫敦女網賽8強1830-0230(普)</title>
@@ -32658,11 +32694,8 @@
   <programme channel="4gtv-4gtv049" start="20260613170000 +0800" stop="20260613173000 +0800">
     <title>MAMAMOO: Where Are We Now?#第3集【普】</title>
   </programme>
-  <programme channel="4gtv-4gtv049" start="20260613173000 +0800" stop="20260613180000 +0800">
+  <programme channel="4gtv-4gtv049" start="20260613173000 +0800" stop="20260613183000 +0800">
     <title>MAMAMOO: Where Are We Now?#第4集【普】</title>
-  </programme>
-  <programme channel="4gtv-4gtv049" start="20260613180000 +0800" stop="20260613183000 +0800">
-    <title>絕美地球：義大利波托菲諾自然公園到杜林【普】</title>
   </programme>
   <programme channel="4gtv-4gtv049" start="20260613183000 +0800" stop="20260613190000 +0800">
     <title>絕美地球：南非龍山山脈到血河戰役遺址【普】</title>
@@ -32685,11 +32718,8 @@
   <programme channel="4gtv-4gtv049" start="20260614010000 +0800" stop="20260614013000 +0800">
     <title>MAMAMOO: Where Are We Now?#第3集【普】</title>
   </programme>
-  <programme channel="4gtv-4gtv049" start="20260614013000 +0800" stop="20260614020000 +0800">
+  <programme channel="4gtv-4gtv049" start="20260614013000 +0800" stop="20260614023000 +0800">
     <title>MAMAMOO: Where Are We Now?#第4集【普】</title>
-  </programme>
-  <programme channel="4gtv-4gtv049" start="20260614020000 +0800" stop="20260614023000 +0800">
-    <title>絕美地球：義大利波托菲諾自然公園到杜林【普】</title>
   </programme>
   <programme channel="4gtv-4gtv049" start="20260614023000 +0800" stop="20260614030000 +0800">
     <title>絕美地球：南非龍山山脈到血河戰役遺址【普】</title>
@@ -32715,11 +32745,8 @@
   <programme channel="4gtv-4gtv049" start="20260614110000 +0800" stop="20260614113000 +0800">
     <title>MAMAMOO: Where Are We Now?#第3集【普】</title>
   </programme>
-  <programme channel="4gtv-4gtv049" start="20260614113000 +0800" stop="20260614120000 +0800">
+  <programme channel="4gtv-4gtv049" start="20260614113000 +0800" stop="20260614123000 +0800">
     <title>MAMAMOO: Where Are We Now?#第4集【普】</title>
-  </programme>
-  <programme channel="4gtv-4gtv049" start="20260614120000 +0800" stop="20260614123000 +0800">
-    <title>絕美地球：義大利波托菲諾自然公園到杜林【普】</title>
   </programme>
   <programme channel="4gtv-4gtv049" start="20260614123000 +0800" stop="20260614130000 +0800">
     <title>絕美地球：南非龍山山脈到血河戰役遺址【普】</title>
@@ -35269,7 +35296,7 @@
     <title>Direct Talk(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260612024300 +0800" stop="20260612025500 +0800">
-    <title>NHK World Selection(普)</title>
+    <title>Trails to Oishii Tokyo 10min.(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260612025500 +0800" stop="20260612030000 +0800">
     <title>Ukiyo-e Edo-Life(普)</title>
@@ -35326,7 +35353,7 @@
     <title>NHK Newsline(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260612103000 +0800" stop="20260612110000 +0800">
-    <title>NHK World Selection(普)</title>
+    <title>Voices of the Blind Songstresses(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260612110000 +0800" stop="20260612113000 +0800">
     <title>NHK Newsline(普)</title>
@@ -35356,7 +35383,7 @@
     <title>Newsline Asia 24(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260612153000 +0800" stop="20260612160000 +0800">
-    <title>NHK World Selection(普)</title>
+    <title>Voices of the Blind Songstresses(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260612160000 +0800" stop="20260612163000 +0800">
     <title>NHK Newsline(普)</title>
@@ -35398,7 +35425,7 @@
     <title>NHK Newsline(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260612213000 +0800" stop="20260612220000 +0800">
-    <title>NHK World Selection(普)</title>
+    <title>Voices of the Blind Songstresses(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260612220000 +0800" stop="20260612223000 +0800">
     <title>NHK Newsline(普)</title>
@@ -35440,7 +35467,7 @@
     <title>Medical Frontiers(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260613033000 +0800" stop="20260613040000 +0800">
-    <title>NHK World Selection(普)</title>
+    <title>Voices of the Blind Songstresses(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260613040000 +0800" stop="20260613043000 +0800">
     <title>NHK Newsline(普)</title>
@@ -35482,7 +35509,7 @@
     <title>NHK Newsline(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260613091000 +0800" stop="20260613100000 +0800">
-    <title>NHK World Showcase(普)</title>
+    <title>Barakan Discovers Tosa(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260613100000 +0800" stop="20260613101000 +0800">
     <title>NHK Newsline(普)</title>
@@ -35505,8 +35532,14 @@
   <programme channel="4gtv-live168" start="20260613120000 +0800" stop="20260613121000 +0800">
     <title>NHK Newsline(普)</title>
   </programme>
-  <programme channel="4gtv-live168" start="20260613121000 +0800" stop="20260613130000 +0800">
-    <title>Time and Tide(普)</title>
+  <programme channel="4gtv-live168" start="20260613121000 +0800" stop="20260613124000 +0800">
+    <title>Mount Fuji Truth(普)</title>
+  </programme>
+  <programme channel="4gtv-live168" start="20260613124000 +0800" stop="20260613125500 +0800">
+    <title>Cinematic Journey(普)</title>
+  </programme>
+  <programme channel="4gtv-live168" start="20260613125500 +0800" stop="20260613130000 +0800">
+    <title>Ukiyo-e Edo-Life(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260613130000 +0800" stop="20260613131000 +0800">
     <title>NHK Newsline(普)</title>
@@ -35530,13 +35563,19 @@
     <title>NHK Newsline(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260613151000 +0800" stop="20260613160000 +0800">
-    <title>NHK World Showcase(普)</title>
+    <title>Barakan Discovers Tosa(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260613160000 +0800" stop="20260613161000 +0800">
     <title>NHK Newsline(普)</title>
   </programme>
-  <programme channel="4gtv-live168" start="20260613161000 +0800" stop="20260613170000 +0800">
-    <title>Time and Tide(普)</title>
+  <programme channel="4gtv-live168" start="20260613161000 +0800" stop="20260613164000 +0800">
+    <title>Mount Fuji Truth(普)</title>
+  </programme>
+  <programme channel="4gtv-live168" start="20260613164000 +0800" stop="20260613165500 +0800">
+    <title>Cinematic Journey(普)</title>
+  </programme>
+  <programme channel="4gtv-live168" start="20260613165500 +0800" stop="20260613170000 +0800">
+    <title>Ukiyo-e Edo-Life(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260613170000 +0800" stop="20260613171000 +0800">
     <title>NHK Newsline(普)</title>
@@ -35578,7 +35617,7 @@
     <title>NHK Newsline(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260613211000 +0800" stop="20260613220000 +0800">
-    <title>NHK World Showcase(普)</title>
+    <title>Barakan Discovers Tosa(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260613220000 +0800" stop="20260613221000 +0800">
     <title>NHK Newsline(普)</title>
@@ -35601,8 +35640,14 @@
   <programme channel="4gtv-live168" start="20260614000000 +0800" stop="20260614001000 +0800">
     <title>NHK Newsline(普)</title>
   </programme>
-  <programme channel="4gtv-live168" start="20260614001000 +0800" stop="20260614010000 +0800">
-    <title>Time and Tide(普)</title>
+  <programme channel="4gtv-live168" start="20260614001000 +0800" stop="20260614004000 +0800">
+    <title>Mount Fuji Truth(普)</title>
+  </programme>
+  <programme channel="4gtv-live168" start="20260614004000 +0800" stop="20260614005500 +0800">
+    <title>Cinematic Journey(普)</title>
+  </programme>
+  <programme channel="4gtv-live168" start="20260614005500 +0800" stop="20260614010000 +0800">
+    <title>Ukiyo-e Edo-Life(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260614010000 +0800" stop="20260614011000 +0800">
     <title>NHK Newsline(普)</title>
@@ -35626,7 +35671,7 @@
     <title>NHK Newsline(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260614031000 +0800" stop="20260614040000 +0800">
-    <title>NHK World Showcase(普)</title>
+    <title>Barakan Discovers Tosa(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260614040000 +0800" stop="20260614041000 +0800">
     <title>NHK Newsline(普)</title>
@@ -35649,8 +35694,14 @@
   <programme channel="4gtv-live168" start="20260614060000 +0800" stop="20260614061000 +0800">
     <title>NHK Newsline(普)</title>
   </programme>
-  <programme channel="4gtv-live168" start="20260614061000 +0800" stop="20260614070000 +0800">
-    <title>Time and Tide(普)</title>
+  <programme channel="4gtv-live168" start="20260614061000 +0800" stop="20260614064000 +0800">
+    <title>Mount Fuji Truth(普)</title>
+  </programme>
+  <programme channel="4gtv-live168" start="20260614064000 +0800" stop="20260614065500 +0800">
+    <title>Cinematic Journey(普)</title>
+  </programme>
+  <programme channel="4gtv-live168" start="20260614065500 +0800" stop="20260614070000 +0800">
+    <title>Ukiyo-e Edo-Life(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260614070000 +0800" stop="20260614071000 +0800">
     <title>NHK Newsline(普)</title>
@@ -35664,14 +35715,17 @@
   <programme channel="4gtv-live168" start="20260614073000 +0800" stop="20260614080000 +0800">
     <title>Kabuki Kool(普)</title>
   </programme>
-  <programme channel="4gtv-live168" start="20260614080000 +0800" stop="20260614090000 +0800">
+  <programme channel="4gtv-live168" start="20260614080000 +0800" stop="20260614085000 +0800">
     <title>Documentary 360(普)</title>
+  </programme>
+  <programme channel="4gtv-live168" start="20260614085000 +0800" stop="20260614090000 +0800">
+    <title>Gourmet in the Park(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260614090000 +0800" stop="20260614091000 +0800">
     <title>NHK Newsline(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260614091000 +0800" stop="20260614100000 +0800">
-    <title>NHK World Showcase(普)</title>
+    <title>The Perfect 2-Hour Guide(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260614100000 +0800" stop="20260614101000 +0800">
     <title>NHK Newsline(普)</title>
@@ -35710,7 +35764,7 @@
     <title>NHK Newsline(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260614131000 +0800" stop="20260614132500 +0800">
-    <title>NHK World Selection(普)</title>
+    <title>Ramen Japan(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260614132500 +0800" stop="20260614133000 +0800">
     <title>Core Kyoto Mini(普)</title>
@@ -35731,7 +35785,7 @@
     <title>NHK Newsline(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260614151000 +0800" stop="20260614160000 +0800">
-    <title>NHK World Showcase(普)</title>
+    <title>The Perfect 2-Hour Guide(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260614160000 +0800" stop="20260614161000 +0800">
     <title>NHK Newsline(普)</title>
@@ -35770,7 +35824,7 @@
     <title>NHK Newsline(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260614191000 +0800" stop="20260614192500 +0800">
-    <title>NHK World Selection(普)</title>
+    <title>Ramen Japan(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260614192500 +0800" stop="20260614193000 +0800">
     <title>Core Kyoto Mini(普)</title>
@@ -35791,7 +35845,7 @@
     <title>NHK Newsline(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260614211000 +0800" stop="20260614220000 +0800">
-    <title>NHK World Showcase(普)</title>
+    <title>The Perfect 2-Hour Guide(普)</title>
   </programme>
   <programme channel="4gtv-live168" start="20260614220000 +0800" stop="20260614221000 +0800">
     <title>NHK Newsline(普)</title>
@@ -36252,10 +36306,10 @@
   <programme channel="4gtv-live146" start="20260613053000 +0800" stop="20260613054500 +0800">
     <title>News(普)</title>
   </programme>
-  <programme channel="4gtv-live146" start="20260613054500 +0800" stop="20260613055000 +0800">
+  <programme channel="4gtv-live146" start="20260613054500 +0800" stop="20260613055100 +0800">
     <title>Focus(普)</title>
   </programme>
-  <programme channel="4gtv-live146" start="20260613055000 +0800" stop="20260613060000 +0800">
+  <programme channel="4gtv-live146" start="20260613055100 +0800" stop="20260613060000 +0800">
     <title>Sports(普)</title>
   </programme>
   <programme channel="4gtv-live146" start="20260613060000 +0800" stop="20260613061000 +0800">
@@ -36402,16 +36456,16 @@
   <programme channel="4gtv-live146" start="20260613181600 +0800" stop="20260613183000 +0800">
     <title>Arts24(普)</title>
   </programme>
-  <programme channel="4gtv-live146" start="20260613183000 +0800" stop="20260613184500 +0800">
+  <programme channel="4gtv-live146" start="20260613183000 +0800" stop="20260613184400 +0800">
     <title>News(普)</title>
   </programme>
-  <programme channel="4gtv-live146" start="20260613184500 +0800" stop="20260613184600 +0800">
+  <programme channel="4gtv-live146" start="20260613184400 +0800" stop="20260613184500 +0800">
     <title>News(普)</title>
   </programme>
-  <programme channel="4gtv-live146" start="20260613184600 +0800" stop="20260613185100 +0800">
+  <programme channel="4gtv-live146" start="20260613184500 +0800" stop="20260613185000 +0800">
     <title>Focus(普)</title>
   </programme>
-  <programme channel="4gtv-live146" start="20260613185100 +0800" stop="20260613190000 +0800">
+  <programme channel="4gtv-live146" start="20260613185000 +0800" stop="20260613190000 +0800">
     <title>Sports(普)</title>
   </programme>
   <programme channel="4gtv-live146" start="20260613190000 +0800" stop="20260613191500 +0800">
@@ -36771,16 +36825,16 @@
   <programme channel="4gtv-live146" start="20260614181600 +0800" stop="20260614183000 +0800">
     <title>Arts24(普)</title>
   </programme>
-  <programme channel="4gtv-live146" start="20260614183000 +0800" stop="20260614184500 +0800">
+  <programme channel="4gtv-live146" start="20260614183000 +0800" stop="20260614184400 +0800">
     <title>News(普)</title>
   </programme>
-  <programme channel="4gtv-live146" start="20260614184500 +0800" stop="20260614184600 +0800">
+  <programme channel="4gtv-live146" start="20260614184400 +0800" stop="20260614184500 +0800">
     <title>News(普)</title>
   </programme>
-  <programme channel="4gtv-live146" start="20260614184600 +0800" stop="20260614185100 +0800">
+  <programme channel="4gtv-live146" start="20260614184500 +0800" stop="20260614185000 +0800">
     <title>Focus(普)</title>
   </programme>
-  <programme channel="4gtv-live146" start="20260614185100 +0800" stop="20260614190000 +0800">
+  <programme channel="4gtv-live146" start="20260614185000 +0800" stop="20260614190000 +0800">
     <title>Sports(普)</title>
   </programme>
   <programme channel="4gtv-live146" start="20260614190000 +0800" stop="20260614191500 +0800">
@@ -36819,10 +36873,10 @@
   <programme channel="4gtv-live146" start="20260614210000 +0800" stop="20260614210900 +0800">
     <title>News(普)</title>
   </programme>
-  <programme channel="4gtv-live146" start="20260614210900 +0800" stop="20260614211400 +0800">
+  <programme channel="4gtv-live146" start="20260614210900 +0800" stop="20260614211500 +0800">
     <title>Tech 24(普)</title>
   </programme>
-  <programme channel="4gtv-live146" start="20260614211400 +0800" stop="20260614213000 +0800">
+  <programme channel="4gtv-live146" start="20260614211500 +0800" stop="20260614213000 +0800">
     <title>Across Africa(普)</title>
   </programme>
   <programme channel="4gtv-live146" start="20260614213000 +0800" stop="20260614213900 +0800">
@@ -39531,18 +39585,6 @@
   <channel id="nnews-zh">
     <display-name>倪珍播新聞</display-name>
   </channel>
-  <programme channel="nnews-zh" start="20260612000000 +0800" stop="20260612060000 +0800">
-    <title>晚安新聞</title>
-  </programme>
-  <programme channel="nnews-zh" start="20260612060000 +0800" stop="20260612120000 +0800">
-    <title>早安新聞</title>
-  </programme>
-  <programme channel="nnews-zh" start="20260612120000 +0800" stop="20260612180000 +0800">
-    <title>午安新聞</title>
-  </programme>
-  <programme channel="nnews-zh" start="20260612180000 +0800" stop="20260613000000 +0800">
-    <title>晚安新聞</title>
-  </programme>
   <programme channel="nnews-zh" start="20260613000000 +0800" stop="20260613060000 +0800">
     <title>晚安新聞</title>
   </programme>
@@ -39585,85 +39627,21 @@
   <programme channel="nnews-zh" start="20260616060000 +0800" stop="20260616120000 +0800">
     <title>早安新聞</title>
   </programme>
+  <programme channel="nnews-zh" start="20260616120000 +0800" stop="20260616180000 +0800">
+    <title>午安新聞</title>
+  </programme>
+  <programme channel="nnews-zh" start="20260616180000 +0800" stop="20260617000000 +0800">
+    <title>晚安新聞</title>
+  </programme>
+  <programme channel="nnews-zh" start="20260617000000 +0800" stop="20260617060000 +0800">
+    <title>晚安新聞</title>
+  </programme>
+  <programme channel="nnews-zh" start="20260617060000 +0800" stop="20260617120000 +0800">
+    <title>早安新聞</title>
+  </programme>
   <channel id="4gtv-4gtv158">
     <display-name>寰宇財經台</display-name>
   </channel>
-  <programme channel="4gtv-4gtv158" start="20260612020000 +0800" stop="20260612030000 +0800">
-    <title>寰宇追追追</title>
-  </programme>
-  <programme channel="4gtv-4gtv158" start="20260612030000 +0800" stop="20260612040000 +0800">
-    <title>巷弄美食家</title>
-  </programme>
-  <programme channel="4gtv-4gtv158" start="20260612040000 +0800" stop="20260612050000 +0800">
-    <title>小食光台味誌</title>
-  </programme>
-  <programme channel="4gtv-4gtv158" start="20260612050000 +0800" stop="20260612060000 +0800">
-    <title>超自然實驗室</title>
-  </programme>
-  <programme channel="4gtv-4gtv158" start="20260612060000 +0800" stop="20260612070000 +0800">
-    <title>巷弄美食家</title>
-  </programme>
-  <programme channel="4gtv-4gtv158" start="20260612070000 +0800" stop="20260612080000 +0800">
-    <title>理財達人秀</title>
-    <description>全台灣最精采好懂的理財影片！保險、股市、房地產、基金、投資觀念，最實用的知識一看就通！投資新手到專家的討論園地。</description>
-  </programme>
-  <programme channel="4gtv-4gtv158" start="20260612080000 +0800" stop="20260612090000 +0800">
-    <title>財經透視線</title>
-  </programme>
-  <programme channel="4gtv-4gtv158" start="20260612090000 +0800" stop="20260612100000 +0800">
-    <title>台股線上</title>
-  </programme>
-  <programme channel="4gtv-4gtv158" start="20260612100000 +0800" stop="20260612110000 +0800">
-    <title>台股線上</title>
-  </programme>
-  <programme channel="4gtv-4gtv158" start="20260612110000 +0800" stop="20260612120000 +0800">
-    <title>台股線上</title>
-  </programme>
-  <programme channel="4gtv-4gtv158" start="20260612120000 +0800" stop="20260612130000 +0800">
-    <title>台股線上</title>
-  </programme>
-  <programme channel="4gtv-4gtv158" start="20260612130000 +0800" stop="20260612140000 +0800">
-    <title>台股線上</title>
-  </programme>
-  <programme channel="4gtv-4gtv158" start="20260612140000 +0800" stop="20260612150000 +0800">
-    <title>巷弄美食家</title>
-  </programme>
-  <programme channel="4gtv-4gtv158" start="20260612150000 +0800" stop="20260612160000 +0800">
-    <title>小食光台味誌</title>
-  </programme>
-  <programme channel="4gtv-4gtv158" start="20260612160000 +0800" stop="20260612170000 +0800">
-    <title>超自然實驗室</title>
-  </programme>
-  <programme channel="4gtv-4gtv158" start="20260612170000 +0800" stop="20260612180000 +0800">
-    <title>台灣職人誌</title>
-  </programme>
-  <programme channel="4gtv-4gtv158" start="20260612180000 +0800" stop="20260612190000 +0800">
-    <title>銅板美食呷透透</title>
-    <description>東森新聞製播的美食特輯，記者深入台灣各地，尋找令人回味無窮的美食記憶，介紹各種好吃又便宜的店家。</description>
-  </programme>
-  <programme channel="4gtv-4gtv158" start="20260612190000 +0800" stop="20260612200000 +0800">
-    <title>股動錢潮</title>
-    <description>擁有財經專業播報資歷主持人們共同為觀眾掌握產業變化及趨勢、判斷新方向。提供最即時的國際重點新聞、資本市場、兩岸經貿、產業訊息，報導最新最熱門的產業趨勢，並加入各種專題報導。</description>
-  </programme>
-  <programme channel="4gtv-4gtv158" start="20260612200000 +0800" stop="20260612210000 +0800">
-    <title>理財達人秀</title>
-    <description>全台灣最精采好懂的理財影片！保險、股市、房地產、基金、投資觀念，最實用的知識一看就通！投資新手到專家的討論園地。</description>
-  </programme>
-  <programme channel="4gtv-4gtv158" start="20260612210000 +0800" stop="20260612220000 +0800">
-    <title>股動錢潮</title>
-    <description>擁有財經專業播報資歷主持人們共同為觀眾掌握產業變化及趨勢、判斷新方向。提供最即時的國際重點新聞、資本市場、兩岸經貿、產業訊息，報導最新最熱門的產業趨勢，並加入各種專題報導。</description>
-  </programme>
-  <programme channel="4gtv-4gtv158" start="20260612220000 +0800" stop="20260612230000 +0800">
-    <title>寶傑點兵</title>
-  </programme>
-  <programme channel="4gtv-4gtv158" start="20260612230000 +0800" stop="20260613000000 +0800">
-    <title>理財達人秀</title>
-    <description>全台灣最精采好懂的理財影片！保險、股市、房地產、基金、投資觀念，最實用的知識一看就通！投資新手到專家的討論園地。</description>
-  </programme>
-  <programme channel="4gtv-4gtv158" start="20260613000000 +0800" stop="20260613010000 +0800">
-    <title>股動錢潮</title>
-    <description>擁有財經專業播報資歷主持人們共同為觀眾掌握產業變化及趨勢、判斷新方向。提供最即時的國際重點新聞、資本市場、兩岸經貿、產業訊息，報導最新最熱門的產業趨勢，並加入各種專題報導。</description>
-  </programme>
   <programme channel="4gtv-4gtv158" start="20260613010000 +0800" stop="20260613020000 +0800">
     <title>超自然實驗室</title>
   </programme>
@@ -39943,135 +39921,88 @@
   <programme channel="4gtv-4gtv158" start="20260616150000 +0800" stop="20260616160000 +0800">
     <title>小食光台味誌</title>
   </programme>
+  <programme channel="4gtv-4gtv158" start="20260616160000 +0800" stop="20260616170000 +0800">
+    <title>超自然實驗室</title>
+  </programme>
+  <programme channel="4gtv-4gtv158" start="20260616170000 +0800" stop="20260616180000 +0800">
+    <title>台灣職人誌</title>
+  </programme>
+  <programme channel="4gtv-4gtv158" start="20260616180000 +0800" stop="20260616190000 +0800">
+    <title>銅板美食呷透透</title>
+    <description>東森新聞製播的美食特輯，記者深入台灣各地，尋找令人回味無窮的美食記憶，介紹各種好吃又便宜的店家。</description>
+  </programme>
+  <programme channel="4gtv-4gtv158" start="20260616190000 +0800" stop="20260616200000 +0800">
+    <title>股動錢潮</title>
+    <description>擁有財經專業播報資歷主持人們共同為觀眾掌握產業變化及趨勢、判斷新方向。提供最即時的國際重點新聞、資本市場、兩岸經貿、產業訊息，報導最新最熱門的產業趨勢，並加入各種專題報導。</description>
+  </programme>
+  <programme channel="4gtv-4gtv158" start="20260616200000 +0800" stop="20260616210000 +0800">
+    <title>理財達人秀</title>
+    <description>全台灣最精采好懂的理財影片！保險、股市、房地產、基金、投資觀念，最實用的知識一看就通！投資新手到專家的討論園地。</description>
+  </programme>
+  <programme channel="4gtv-4gtv158" start="20260616210000 +0800" stop="20260616220000 +0800">
+    <title>兆華艾綸說</title>
+  </programme>
+  <programme channel="4gtv-4gtv158" start="20260616220000 +0800" stop="20260616230000 +0800">
+    <title>寶傑點兵</title>
+  </programme>
+  <programme channel="4gtv-4gtv158" start="20260616230000 +0800" stop="20260617000000 +0800">
+    <title>理財達人秀</title>
+    <description>全台灣最精采好懂的理財影片！保險、股市、房地產、基金、投資觀念，最實用的知識一看就通！投資新手到專家的討論園地。</description>
+  </programme>
+  <programme channel="4gtv-4gtv158" start="20260617000000 +0800" stop="20260617010000 +0800">
+    <title>股動錢潮</title>
+    <description>擁有財經專業播報資歷主持人們共同為觀眾掌握產業變化及趨勢、判斷新方向。提供最即時的國際重點新聞、資本市場、兩岸經貿、產業訊息，報導最新最熱門的產業趨勢，並加入各種專題報導。</description>
+  </programme>
+  <programme channel="4gtv-4gtv158" start="20260617010000 +0800" stop="20260617020000 +0800">
+    <title>超自然實驗室</title>
+  </programme>
+  <programme channel="4gtv-4gtv158" start="20260617020000 +0800" stop="20260617030000 +0800">
+    <title>寰宇追追追</title>
+  </programme>
+  <programme channel="4gtv-4gtv158" start="20260617030000 +0800" stop="20260617040000 +0800">
+    <title>巷弄美食家</title>
+  </programme>
+  <programme channel="4gtv-4gtv158" start="20260617040000 +0800" stop="20260617050000 +0800">
+    <title>小食光台味誌</title>
+  </programme>
+  <programme channel="4gtv-4gtv158" start="20260617050000 +0800" stop="20260617060000 +0800">
+    <title>超自然實驗室</title>
+  </programme>
+  <programme channel="4gtv-4gtv158" start="20260617060000 +0800" stop="20260617070000 +0800">
+    <title>理財達人秀</title>
+    <description>全台灣最精采好懂的理財影片！保險、股市、房地產、基金、投資觀念，最實用的知識一看就通！投資新手到專家的討論園地。</description>
+  </programme>
+  <programme channel="4gtv-4gtv158" start="20260617070000 +0800" stop="20260617080000 +0800">
+    <title>理財達人秀</title>
+    <description>全台灣最精采好懂的理財影片！保險、股市、房地產、基金、投資觀念，最實用的知識一看就通！投資新手到專家的討論園地。</description>
+  </programme>
+  <programme channel="4gtv-4gtv158" start="20260617080000 +0800" stop="20260617090000 +0800">
+    <title>財經透視線</title>
+  </programme>
+  <programme channel="4gtv-4gtv158" start="20260617090000 +0800" stop="20260617100000 +0800">
+    <title>台股線上</title>
+  </programme>
+  <programme channel="4gtv-4gtv158" start="20260617100000 +0800" stop="20260617110000 +0800">
+    <title>台股線上</title>
+  </programme>
+  <programme channel="4gtv-4gtv158" start="20260617110000 +0800" stop="20260617120000 +0800">
+    <title>台股線上</title>
+  </programme>
+  <programme channel="4gtv-4gtv158" start="20260617120000 +0800" stop="20260617130000 +0800">
+    <title>台股線上</title>
+  </programme>
+  <programme channel="4gtv-4gtv158" start="20260617130000 +0800" stop="20260617140000 +0800">
+    <title>台股線上</title>
+  </programme>
+  <programme channel="4gtv-4gtv158" start="20260617140000 +0800" stop="20260617150000 +0800">
+    <title>巷弄美食家</title>
+  </programme>
+  <programme channel="4gtv-4gtv158" start="20260617150000 +0800" stop="20260617160000 +0800">
+    <title>小食光台味誌</title>
+  </programme>
   <channel id="4gtv-4gtv104">
     <display-name>第1商業台</display-name>
   </channel>
-  <programme channel="4gtv-4gtv104" start="20260612020000 +0800" stop="20260612023000 +0800">
-    <title>股市第一線-顧德投顧-李冠嶔分析師</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612023000 +0800" stop="20260612030000 +0800">
-    <title>月薪翻倍計畫-顧德投顧-黃紫東分析師</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612030000 +0800" stop="20260612033000 +0800">
-    <title>阪田戰法-寶得富-顧奎國分析師</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612033000 +0800" stop="20260612040000 +0800">
-    <title>股市強強滾-亞洲投顧-鄭偉群分析師</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612040000 +0800" stop="20260612043000 +0800">
-    <title>旗開得勝-顧德投顧-張家豪分析師</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612043000 +0800" stop="20260612050000 +0800">
-    <title>期股衝衝衝-寶得富-翁士峻分析師</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612050000 +0800" stop="20260612053000 +0800">
-    <title>股市強強滾-亞洲投顧-鄭偉群分析師</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612053000 +0800" stop="20260612060000 +0800">
-    <title>台股Lunchtime-亞洲投顧-王兆立分析師</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612060000 +0800" stop="20260612063000 +0800">
-    <title>期股衝衝衝-寶得富-翁士俊分析師</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612063000 +0800" stop="20260612070000 +0800">
-    <title>王博賺錢策略室-顧德投顧-王建文分析師</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612070000 +0800" stop="20260612073000 +0800">
-    <title>阪田戰法-寶得富-顧奎國分析師</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612073000 +0800" stop="20260612080000 +0800">
-    <title>股市全攻略-豐銀投顧-龔鴻彬分析師</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612080000 +0800" stop="20260612083000 +0800">
-    <title>財經資訊</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612083000 +0800" stop="20260612093000 +0800">
-    <title>財經資訊</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612093000 +0800" stop="20260612100000 +0800">
-    <title>財經資訊</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612100000 +0800" stop="20260612103000 +0800">
-    <title>財經資訊</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612103000 +0800" stop="20260612110000 +0800">
-    <title>財經資訊</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612110000 +0800" stop="20260612120000 +0800">
-    <title>財經資訊</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612120000 +0800" stop="20260612130000 +0800">
-    <title>財經資訊</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612130000 +0800" stop="20260612140000 +0800">
-    <title>財經資訊</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612140000 +0800" stop="20260612143000 +0800">
-    <title>股市吳限鑽-寶得富-吳曉松分析師</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612143000 +0800" stop="20260612150000 +0800">
-    <title>啟發投顧精選</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612150000 +0800" stop="20260612153000 +0800">
-    <title>阪田戰法-寶得富-顧奎國分析師</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612153000 +0800" stop="20260612160000 +0800">
-    <title>期股衝衝衝-寶得富-翁士峻分析師</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612160000 +0800" stop="20260612163000 +0800">
-    <title>股市全攻略-豐銀投顧-龔鴻彬分析師</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612163000 +0800" stop="20260612170000 +0800">
-    <title>汪海華_操盤的智慧</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612170000 +0800" stop="20260612173000 +0800">
-    <title>股市第一線-顧德投顧-李冠嶔分析師</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612173000 +0800" stop="20260612180000 +0800">
-    <title>月薪翻倍計畫-顧德投顧-黃紫東分析師</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612180000 +0800" stop="20260612183000 +0800">
-    <title>阪田戰法-寶得富-顧奎國分析師</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612183000 +0800" stop="20260612190000 +0800">
-    <title>股市強強滾-亞洲投顧-鄭偉群分析師</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612190000 +0800" stop="20260612193000 +0800">
-    <title>旗開得勝-顧德投顧-張家豪分析師</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612193000 +0800" stop="20260612200000 +0800">
-    <title>期股衝衝衝-寶得富-翁士峻分析師</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612200000 +0800" stop="20260612203000 +0800">
-    <title>國家寶藏-啟發投顧-林國寶分析師</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612203000 +0800" stop="20260612210000 +0800">
-    <title>股市強強滾-亞洲投顧-鄭偉群分析師</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612210000 +0800" stop="20260612213000 +0800">
-    <title>台股Lunchtime-亞洲投顧-王兆立分析師</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612213000 +0800" stop="20260612220000 +0800">
-    <title>股市吳限鑽-寶得富-吳曉松分析師</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612220000 +0800" stop="20260612223000 +0800">
-    <title>啟發投顧精選</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612223000 +0800" stop="20260612230000 +0800">
-    <title>王博賺錢策略室-顧德投顧-王建文分析師</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612230000 +0800" stop="20260612233000 +0800">
-    <title>阪田戰法-寶得富-顧奎國分析師</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260612233000 +0800" stop="20260613000000 +0800">
-    <title>期股衝衝衝-寶得富-翁士俊分析師</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260613000000 +0800" stop="20260613003000 +0800">
-    <title>股市吳限鑽-寶得富-吳曉松分析師</title>
-  </programme>
-  <programme channel="4gtv-4gtv104" start="20260613003000 +0800" stop="20260613010000 +0800">
-    <title>阪田戰法-寶得富-顧奎國分析師</title>
-  </programme>
   <programme channel="4gtv-4gtv104" start="20260613010000 +0800" stop="20260613013000 +0800">
     <title>期股衝衝衝-寶得富-翁士峻分析師</title>
   </programme>
@@ -40546,147 +40477,141 @@
   <programme channel="4gtv-4gtv104" start="20260616153000 +0800" stop="20260616160000 +0800">
     <title>期股衝衝衝-寶得富-翁士峻分析師</title>
   </programme>
+  <programme channel="4gtv-4gtv104" start="20260616160000 +0800" stop="20260616163000 +0800">
+    <title>股市全攻略-豐銀投顧-龔鴻彬分析師</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260616163000 +0800" stop="20260616170000 +0800">
+    <title>汪海華_操盤的智慧</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260616170000 +0800" stop="20260616173000 +0800">
+    <title>股市第一線-顧德投顧-李冠嶔分析師</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260616173000 +0800" stop="20260616180000 +0800">
+    <title>月薪翻倍計畫-顧德投顧-黃紫東分析師</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260616180000 +0800" stop="20260616183000 +0800">
+    <title>阪田戰法-寶得富-顧奎國分析師</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260616183000 +0800" stop="20260616190000 +0800">
+    <title>股市強強滾-亞洲投顧-鄭偉群分析師</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260616190000 +0800" stop="20260616193000 +0800">
+    <title>旗開得勝-顧德投顧-張家豪分析師</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260616193000 +0800" stop="20260616200000 +0800">
+    <title>期股衝衝衝-寶得富-翁士峻分析師</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260616200000 +0800" stop="20260616203000 +0800">
+    <title>國家寶藏-啟發投顧-林國寶分析師</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260616203000 +0800" stop="20260616210000 +0800">
+    <title>股市強強滾-亞洲投顧-鄭偉群分析師</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260616210000 +0800" stop="20260616213000 +0800">
+    <title>台股Lunchtime-亞洲投顧-王兆立分析師</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260616213000 +0800" stop="20260616220000 +0800">
+    <title>股市吳限鑽-寶得富-吳曉松分析師</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260616220000 +0800" stop="20260616223000 +0800">
+    <title>啟發投顧精選</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260616223000 +0800" stop="20260616230000 +0800">
+    <title>王博賺錢策略室-顧德投顧-王建文分析師</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260616230000 +0800" stop="20260616233000 +0800">
+    <title>阪田戰法-寶得富-顧奎國分析師</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260616233000 +0800" stop="20260617000000 +0800">
+    <title>期股衝衝衝-寶得富-翁士俊分析師</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260617000000 +0800" stop="20260617003000 +0800">
+    <title>股市吳限鑽-寶得富-吳曉松分析師</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260617003000 +0800" stop="20260617010000 +0800">
+    <title>阪田戰法-寶得富-顧奎國分析師</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260617010000 +0800" stop="20260617013000 +0800">
+    <title>期股衝衝衝-寶得富-翁士峻分析師</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260617013000 +0800" stop="20260617020000 +0800">
+    <title>股市吳限鑽-寶得富-吳曉松分析師</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260617020000 +0800" stop="20260617023000 +0800">
+    <title>股市第一線-顧德投顧-李冠嶔分析師</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260617023000 +0800" stop="20260617030000 +0800">
+    <title>月薪翻倍計畫-顧德投顧-黃紫東分析師</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260617030000 +0800" stop="20260617033000 +0800">
+    <title>阪田戰法-寶得富-顧奎國分析師</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260617033000 +0800" stop="20260617040000 +0800">
+    <title>股市強強滾-亞洲投顧-鄭偉群分析師</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260617040000 +0800" stop="20260617043000 +0800">
+    <title>旗開得勝-顧德投顧-張家豪分析師</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260617043000 +0800" stop="20260617050000 +0800">
+    <title>期股衝衝衝-寶得富-翁士峻分析師</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260617050000 +0800" stop="20260617053000 +0800">
+    <title>股市強強滾-亞洲投顧-鄭偉群分析師</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260617053000 +0800" stop="20260617060000 +0800">
+    <title>台股Lunchtime-亞洲投顧-王兆立分析師</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260617060000 +0800" stop="20260617063000 +0800">
+    <title>期股衝衝衝-寶得富-翁士俊分析師</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260617063000 +0800" stop="20260617070000 +0800">
+    <title>王博賺錢策略室-顧德投顧-王建文分析師</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260617070000 +0800" stop="20260617073000 +0800">
+    <title>阪田戰法-寶得富-顧奎國分析師</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260617073000 +0800" stop="20260617080000 +0800">
+    <title>股市全攻略-豐銀投顧-龔鴻彬分析師</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260617080000 +0800" stop="20260617083000 +0800">
+    <title>財經資訊</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260617083000 +0800" stop="20260617093000 +0800">
+    <title>財經資訊</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260617093000 +0800" stop="20260617100000 +0800">
+    <title>財經資訊</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260617100000 +0800" stop="20260617103000 +0800">
+    <title>財經資訊</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260617103000 +0800" stop="20260617110000 +0800">
+    <title>財經資訊</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260617110000 +0800" stop="20260617120000 +0800">
+    <title>財經資訊</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260617120000 +0800" stop="20260617130000 +0800">
+    <title>財經資訊</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260617130000 +0800" stop="20260617140000 +0800">
+    <title>財經資訊</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260617140000 +0800" stop="20260617143000 +0800">
+    <title>股市吳限鑽-寶得富-吳曉松分析師</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260617143000 +0800" stop="20260617150000 +0800">
+    <title>啟發投顧精選</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260617150000 +0800" stop="20260617153000 +0800">
+    <title>阪田戰法-寶得富-顧奎國分析師</title>
+  </programme>
+  <programme channel="4gtv-4gtv104" start="20260617153000 +0800" stop="20260617160000 +0800">
+    <title>期股衝衝衝-寶得富-翁士峻分析師</title>
+  </programme>
   <channel id="daystar">
     <display-name>DayStar</display-name>
   </channel>
-  <programme channel="daystar" start="20260612020000 +0800" stop="20260612023000 +0800">
-    <title>The Winner's Way with Mac Hammond</title>
-  </programme>
-  <programme channel="daystar" start="20260612023000 +0800" stop="20260612030000 +0800">
-    <title>Religious Programming</title>
-  </programme>
-  <programme channel="daystar" start="20260612030000 +0800" stop="20260612033000 +0800">
-    <title>Dr. Sam</title>
-  </programme>
-  <programme channel="daystar" start="20260612033000 +0800" stop="20260612040000 +0800">
-    <title>Kenneth Copeland</title>
-    <description>Religious programming</description>
-  </programme>
-  <programme channel="daystar" start="20260612040000 +0800" stop="20260612043000 +0800">
-    <title>Healing Time with Dr. Doug Weiss</title>
-  </programme>
-  <programme channel="daystar" start="20260612043000 +0800" stop="20260612050000 +0800">
-    <title>Joni Table Talk</title>
-  </programme>
-  <programme channel="daystar" start="20260612050000 +0800" stop="20260612060000 +0800">
-    <title>Ministry Now</title>
-  </programme>
-  <programme channel="daystar" start="20260612060000 +0800" stop="20260612063000 +0800">
-    <title>Reflections</title>
-  </programme>
-  <programme channel="daystar" start="20260612063000 +0800" stop="20260612070000 +0800">
-    <title>Jesus the Healer with Nancy Dufresne</title>
-  </programme>
-  <programme channel="daystar" start="20260612070000 +0800" stop="20260612073000 +0800">
-    <title>Reflections</title>
-  </programme>
-  <programme channel="daystar" start="20260612073000 +0800" stop="20260612080000 +0800">
-    <title>Reflections</title>
-  </programme>
-  <programme channel="daystar" start="20260612080000 +0800" stop="20260612083000 +0800">
-    <title>Reflections</title>
-  </programme>
-  <programme channel="daystar" start="20260612083000 +0800" stop="20260612093000 +0800">
-    <title>Reflections</title>
-  </programme>
-  <programme channel="daystar" start="20260612093000 +0800" stop="20260612100000 +0800">
-    <title>Reflections</title>
-  </programme>
-  <programme channel="daystar" start="20260612100000 +0800" stop="20260612103000 +0800">
-    <title>Kingdom Connection with Jentezen Franklin</title>
-  </programme>
-  <programme channel="daystar" start="20260612103000 +0800" stop="20260612110000 +0800">
-    <title>Prophecy Live</title>
-  </programme>
-  <programme channel="daystar" start="20260612110000 +0800" stop="20260612113000 +0800">
-    <title>Joni Table Talk</title>
-  </programme>
-  <programme channel="daystar" start="20260612113000 +0800" stop="20260612120000 +0800">
-    <title>Joel Osteen</title>
-  </programme>
-  <programme channel="daystar" start="20260612120000 +0800" stop="20260612123000 +0800">
-    <title>Life Today with James  Betty Robison</title>
-  </programme>
-  <programme channel="daystar" start="20260612123000 +0800" stop="20260612130000 +0800">
-    <title>Gospel Truth with Andrew Wommack</title>
-  </programme>
-  <programme channel="daystar" start="20260612130000 +0800" stop="20260612133000 +0800">
-    <title>Jewish Voice with Jonathan Bernis</title>
-  </programme>
-  <programme channel="daystar" start="20260612133000 +0800" stop="20260612140000 +0800">
-    <title>Jesus the Healer with Nancy Dufresne</title>
-  </programme>
-  <programme channel="daystar" start="20260612140000 +0800" stop="20260612143000 +0800">
-    <title>Kenneth Copeland</title>
-    <description>Religious programming</description>
-  </programme>
-  <programme channel="daystar" start="20260612143000 +0800" stop="20260612150000 +0800">
-    <title>CREFLO DOLLARCREFLO DOLLAR</title>
-    <description>Religious programming</description>
-  </programme>
-  <programme channel="daystar" start="20260612150000 +0800" stop="20260612153000 +0800">
-    <title>Reflections</title>
-  </programme>
-  <programme channel="daystar" start="20260612153000 +0800" stop="20260612160000 +0800">
-    <title>Rick Renner</title>
-  </programme>
-  <programme channel="daystar" start="20260612160000 +0800" stop="20260612163000 +0800">
-    <title>Marcus Lamb</title>
-  </programme>
-  <programme channel="daystar" start="20260612163000 +0800" stop="20260612170000 +0800">
-    <title>Marcus Lamb</title>
-  </programme>
-  <programme channel="daystar" start="20260612170000 +0800" stop="20260612173000 +0800">
-    <title>Gary Keesee, Fixing the Money Thing</title>
-  </programme>
-  <programme channel="daystar" start="20260612173000 +0800" stop="20260612180000 +0800">
-    <title>Jewish Voice with Jonathan Bernis</title>
-  </programme>
-  <programme channel="daystar" start="20260612180000 +0800" stop="20260612183000 +0800">
-    <title>Sid Roth's It's Supernatural!</title>
-  </programme>
-  <programme channel="daystar" start="20260612183000 +0800" stop="20260612190000 +0800">
-    <title>Today with Marilyn and Sarah</title>
-  </programme>
-  <programme channel="daystar" start="20260612190000 +0800" stop="20260612193000 +0800">
-    <title>Prophecy Live</title>
-  </programme>
-  <programme channel="daystar" start="20260612193000 +0800" stop="20260612200000 +0800">
-    <title>Larry  Tiz Huch</title>
-  </programme>
-  <programme channel="daystar" start="20260612200000 +0800" stop="20260612203000 +0800">
-    <title>Rick Renner</title>
-  </programme>
-  <programme channel="daystar" start="20260612203000 +0800" stop="20260612210000 +0800">
-    <title>Believers' Walk of Faith with Bill Winston</title>
-  </programme>
-  <programme channel="daystar" start="20260612210000 +0800" stop="20260612213000 +0800">
-    <title>PSB Prophetic Sound Broadcast with Shawn Baker</title>
-  </programme>
-  <programme channel="daystar" start="20260612213000 +0800" stop="20260612220000 +0800">
-    <title>Dr. David Jeremiah</title>
-  </programme>
-  <programme channel="daystar" start="20260612220000 +0800" stop="20260612223000 +0800">
-    <title>Bearded Bible Brothers</title>
-  </programme>
-  <programme channel="daystar" start="20260612223000 +0800" stop="20260612230000 +0800">
-    <title>Love a Child</title>
-  </programme>
-  <programme channel="daystar" start="20260612230000 +0800" stop="20260612233000 +0800">
-    <title>Samuel Rodriguez</title>
-  </programme>
-  <programme channel="daystar" start="20260612233000 +0800" stop="20260613000000 +0800">
-    <title>Breakthrough with Rod Parsley</title>
-  </programme>
-  <programme channel="daystar" start="20260613000000 +0800" stop="20260613003000 +0800">
-    <title>Gospel Truth with Andrew Wommack</title>
-  </programme>
-  <programme channel="daystar" start="20260613003000 +0800" stop="20260613010000 +0800">
-    <title>Joni Table Talk</title>
-  </programme>
-  <programme channel="daystar" start="20260613010000 +0800" stop="20260613013000 +0800">
-    <title>Marcus Lamb</title>
-  </programme>
   <programme channel="daystar" start="20260613013000 +0800" stop="20260613020000 +0800">
     <title>Marcus Lamb</title>
   </programme>
@@ -41174,101 +41099,144 @@
   <programme channel="daystar" start="20260616153000 +0800" stop="20260616160000 +0800">
     <title>Rick Renner</title>
   </programme>
+  <programme channel="daystar" start="20260616160000 +0800" stop="20260616170000 +0800">
+    <title>Ministry Now</title>
+  </programme>
+  <programme channel="daystar" start="20260616170000 +0800" stop="20260616173000 +0800">
+    <title>Gary Keesee, Fixing the Money Thing</title>
+  </programme>
+  <programme channel="daystar" start="20260616173000 +0800" stop="20260616180000 +0800">
+    <title>Larry  Tiz Huch</title>
+  </programme>
+  <programme channel="daystar" start="20260616180000 +0800" stop="20260616183000 +0800">
+    <title>Sid Roth's It's Supernatural!</title>
+  </programme>
+  <programme channel="daystar" start="20260616183000 +0800" stop="20260616190000 +0800">
+    <title>Today with Marilyn and Sarah</title>
+  </programme>
+  <programme channel="daystar" start="20260616190000 +0800" stop="20260616193000 +0800">
+    <title>Prophecy Live</title>
+  </programme>
+  <programme channel="daystar" start="20260616193000 +0800" stop="20260616200000 +0800">
+    <title>James A. McMenis</title>
+  </programme>
+  <programme channel="daystar" start="20260616200000 +0800" stop="20260616203000 +0800">
+    <title>Rick Renner</title>
+  </programme>
+  <programme channel="daystar" start="20260616203000 +0800" stop="20260616210000 +0800">
+    <title>Believers' Walk of Faith with Bill Winston</title>
+  </programme>
+  <programme channel="daystar" start="20260616210000 +0800" stop="20260616213000 +0800">
+    <title>PSB Prophetic Sound Broadcast with Shawn Baker</title>
+  </programme>
+  <programme channel="daystar" start="20260616213000 +0800" stop="20260616220000 +0800">
+    <title>Dr. David Jeremiah</title>
+  </programme>
+  <programme channel="daystar" start="20260616220000 +0800" stop="20260616223000 +0800">
+    <title>Healing Time with Dr. Doug Weiss</title>
+  </programme>
+  <programme channel="daystar" start="20260616223000 +0800" stop="20260616230000 +0800">
+    <title>Paula Today</title>
+  </programme>
+  <programme channel="daystar" start="20260616230000 +0800" stop="20260616233000 +0800">
+    <title>Talk Truth</title>
+  </programme>
+  <programme channel="daystar" start="20260616233000 +0800" stop="20260617000000 +0800">
+    <title>Breakthrough with Rod Parsley</title>
+  </programme>
+  <programme channel="daystar" start="20260617000000 +0800" stop="20260617003000 +0800">
+    <title>Gospel Truth with Andrew Wommack</title>
+  </programme>
+  <programme channel="daystar" start="20260617003000 +0800" stop="20260617010000 +0800">
+    <title>Joni Table Talk</title>
+  </programme>
+  <programme channel="daystar" start="20260617010000 +0800" stop="20260617020000 +0800">
+    <title>Ministry Now</title>
+  </programme>
+  <programme channel="daystar" start="20260617020000 +0800" stop="20260617023000 +0800">
+    <title>The Jewish Jesus</title>
+  </programme>
+  <programme channel="daystar" start="20260617023000 +0800" stop="20260617030000 +0800">
+    <title>Faith Is the Victory</title>
+  </programme>
+  <programme channel="daystar" start="20260617030000 +0800" stop="20260617033000 +0800">
+    <title>Joel Osteen</title>
+  </programme>
+  <programme channel="daystar" start="20260617033000 +0800" stop="20260617040000 +0800">
+    <title>Kenneth Copeland</title>
+    <description>Religious programming</description>
+  </programme>
+  <programme channel="daystar" start="20260617040000 +0800" stop="20260617043000 +0800">
+    <title>Healing Time with Dr. Doug Weiss</title>
+  </programme>
+  <programme channel="daystar" start="20260617043000 +0800" stop="20260617050000 +0800">
+    <title>Joni Table Talk</title>
+  </programme>
+  <programme channel="daystar" start="20260617050000 +0800" stop="20260617060000 +0800">
+    <title>Ministry Now</title>
+  </programme>
+  <programme channel="daystar" start="20260617060000 +0800" stop="20260617063000 +0800">
+    <title>Reflections</title>
+  </programme>
+  <programme channel="daystar" start="20260617063000 +0800" stop="20260617070000 +0800">
+    <title>Jesus the Healer with Nancy Dufresne</title>
+  </programme>
+  <programme channel="daystar" start="20260617070000 +0800" stop="20260617073000 +0800">
+    <title>Reflections</title>
+  </programme>
+  <programme channel="daystar" start="20260617073000 +0800" stop="20260617083000 +0800">
+    <title>Reflections</title>
+  </programme>
+  <programme channel="daystar" start="20260617083000 +0800" stop="20260617093000 +0800">
+    <title>Reflections</title>
+  </programme>
+  <programme channel="daystar" start="20260617093000 +0800" stop="20260617100000 +0800">
+    <title>Reflections</title>
+  </programme>
+  <programme channel="daystar" start="20260617100000 +0800" stop="20260617103000 +0800">
+    <title>Kingdom Connection with Jentezen Franklin</title>
+  </programme>
+  <programme channel="daystar" start="20260617103000 +0800" stop="20260617110000 +0800">
+    <title>Prophecy Live</title>
+  </programme>
+  <programme channel="daystar" start="20260617110000 +0800" stop="20260617113000 +0800">
+    <title>Joni Table Talk</title>
+  </programme>
+  <programme channel="daystar" start="20260617113000 +0800" stop="20260617120000 +0800">
+    <title>Joel Osteen</title>
+  </programme>
+  <programme channel="daystar" start="20260617120000 +0800" stop="20260617123000 +0800">
+    <title>Life Today with James  Betty Robison</title>
+  </programme>
+  <programme channel="daystar" start="20260617123000 +0800" stop="20260617130000 +0800">
+    <title>Gospel Truth with Andrew Wommack</title>
+  </programme>
+  <programme channel="daystar" start="20260617130000 +0800" stop="20260617133000 +0800">
+    <title>Time with Denise Renner</title>
+  </programme>
+  <programme channel="daystar" start="20260617133000 +0800" stop="20260617140000 +0800">
+    <title>Jesus the Healer with Nancy Dufresne</title>
+  </programme>
+  <programme channel="daystar" start="20260617140000 +0800" stop="20260617143000 +0800">
+    <title>Kenneth Copeland</title>
+    <description>Religious programming</description>
+  </programme>
+  <programme channel="daystar" start="20260617143000 +0800" stop="20260617150000 +0800">
+    <title>CREFLO DOLLARCREFLO DOLLAR</title>
+    <description>Religious programming</description>
+  </programme>
+  <programme channel="daystar" start="20260617150000 +0800" stop="20260617153000 +0800">
+    <title>Jewish Voice with Jonathan Bernis</title>
+  </programme>
+  <programme channel="daystar" start="20260617153000 +0800" stop="20260617160000 +0800">
+    <title>Rick Renner</title>
+  </programme>
   <channel id="litv-xinchuang19">
     <display-name>Smart知識台</display-name>
   </channel>
-  <programme channel="litv-xinchuang19" start="20260612020000 +0800" stop="20260612030000 +0800">
-    <title>健康2.0</title>
-    <description>在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</description>
-  </programme>
-  <programme channel="litv-xinchuang19" start="20260612030000 +0800" stop="20260612040000 +0800">
-    <title>全民星攻略Super Night</title>
-    <description>東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</description>
-  </programme>
-  <programme channel="litv-xinchuang19" start="20260612040000 +0800" stop="20260612050000 +0800">
-    <title>健康2.0</title>
-    <description>在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</description>
-  </programme>
-  <programme channel="litv-xinchuang19" start="20260612050000 +0800" stop="20260612060000 +0800">
-    <title>全民星攻略Super Night</title>
-    <description>東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</description>
-  </programme>
-  <programme channel="litv-xinchuang19" start="20260612060000 +0800" stop="20260612070000 +0800">
-    <title>健康2.0</title>
-    <description>在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</description>
-  </programme>
-  <programme channel="litv-xinchuang19" start="20260612070000 +0800" stop="20260612080000 +0800">
-    <title>全民星攻略Super Night</title>
-    <description>東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</description>
-  </programme>
-  <programme channel="litv-xinchuang19" start="20260612080000 +0800" stop="20260612090000 +0800">
-    <title>健康2.0</title>
-    <description>在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</description>
-  </programme>
-  <programme channel="litv-xinchuang19" start="20260612090000 +0800" stop="20260612100000 +0800">
-    <title>全民星攻略Super Night</title>
-    <description>東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</description>
-  </programme>
-  <programme channel="litv-xinchuang19" start="20260612100000 +0800" stop="20260612110000 +0800">
-    <title>健康2.0</title>
-    <description>在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</description>
-  </programme>
-  <programme channel="litv-xinchuang19" start="20260612110000 +0800" stop="20260612120000 +0800">
-    <title>全民星攻略Super Night</title>
-    <description>東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</description>
-  </programme>
-  <programme channel="litv-xinchuang19" start="20260612120000 +0800" stop="20260612130000 +0800">
-    <title>健康2.0</title>
-    <description>在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</description>
-  </programme>
-  <programme channel="litv-xinchuang19" start="20260612130000 +0800" stop="20260612140000 +0800">
-    <title>全民星攻略Super Night</title>
-    <description>東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</description>
-  </programme>
-  <programme channel="litv-xinchuang19" start="20260612140000 +0800" stop="20260612150000 +0800">
-    <title>健康2.0</title>
-    <description>在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</description>
-  </programme>
-  <programme channel="litv-xinchuang19" start="20260612150000 +0800" stop="20260612160000 +0800">
-    <title>全民星攻略Super Night</title>
-    <description>東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</description>
-  </programme>
-  <programme channel="litv-xinchuang19" start="20260612160000 +0800" stop="20260612170000 +0800">
-    <title>健康2.0</title>
-    <description>在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</description>
-  </programme>
-  <programme channel="litv-xinchuang19" start="20260612170000 +0800" stop="20260612180000 +0800">
-    <title>全民星攻略Super Night</title>
-    <description>東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</description>
-  </programme>
-  <programme channel="litv-xinchuang19" start="20260612180000 +0800" stop="20260612190000 +0800">
-    <title>健康2.0</title>
-    <description>在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</description>
-  </programme>
-  <programme channel="litv-xinchuang19" start="20260612190000 +0800" stop="20260612200000 +0800">
-    <title>全民星攻略Super Night</title>
-    <description>東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</description>
-  </programme>
-  <programme channel="litv-xinchuang19" start="20260612200000 +0800" stop="20260612210000 +0800">
-    <title>政治狠狠問</title>
-    <description>各黨新生代意見領袖在擂台上針砭時政！藍、綠、白政治名嘴交鋒性的辯論、加上知識性的內容，政治不再各說各話，拿道理、講證據。勝負誰決定？請你來當裁判長。</description>
-  </programme>
-  <programme channel="litv-xinchuang19" start="20260612210000 +0800" stop="20260612220000 +0800">
-    <title>消失的國界</title>
-    <description>由三立主播李天怡主持，為你解析世界各國的經濟和社會狀況。</description>
-  </programme>
-  <programme channel="litv-xinchuang19" start="20260612220000 +0800" stop="20260612230000 +0800">
-    <title>全民星攻略Super Night</title>
-    <description>東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</description>
-  </programme>
-  <programme channel="litv-xinchuang19" start="20260612230000 +0800" stop="20260613000000 +0800">
-    <title>健康2.0</title>
-    <description>在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</description>
-  </programme>
-  <programme channel="litv-xinchuang19" start="20260613000000 +0800" stop="20260613010000 +0800">
-    <title>請問今晚住誰家#582</title>
-    <description>明星打工旅遊實境秀，由竇智孔和黃鐙輝、王傳一與陳漢典倆倆搭檔輪流主持。一組進行終極任務及特色餐會大挑戰，記錄台灣真實生活風貌。另一組則組成型男打工團，接手觀眾委託打工，有求必應，探索有趣的在地生活，在歡笑與實踐中獲取知識。</description>
-  </programme>
+  <channel id="litv-xinchuang19">
+    <display-name>Smart知識台</display-name>
+  </channel>
   <programme channel="litv-xinchuang19" start="20260613010000 +0800" stop="20260613020000 +0800">
     <title>請問今晚住誰家#582</title>
     <description>明星打工旅遊實境秀，由竇智孔和黃鐙輝、王傳一與陳漢典倆倆搭檔輪流主持。一組進行終極任務及特色餐會大挑戰，記錄台灣真實生活風貌。另一組則組成型男打工團，接手觀眾委託打工，有求必應，探索有趣的在地生活，在歡笑與實踐中獲取知識。</description>
@@ -41618,109 +41586,105 @@
     <title>全民星攻略Super Night</title>
     <description>東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</description>
   </programme>
+  <programme channel="litv-xinchuang19" start="20260616160000 +0800" stop="20260616170000 +0800">
+    <title>健康2.0</title>
+    <description>在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</description>
+  </programme>
+  <programme channel="litv-xinchuang19" start="20260616170000 +0800" stop="20260616180000 +0800">
+    <title>全民星攻略Super Night</title>
+    <description>東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</description>
+  </programme>
+  <programme channel="litv-xinchuang19" start="20260616180000 +0800" stop="20260616190000 +0800">
+    <title>健康2.0</title>
+    <description>在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</description>
+  </programme>
+  <programme channel="litv-xinchuang19" start="20260616190000 +0800" stop="20260616200000 +0800">
+    <title>全民星攻略Super Night</title>
+    <description>東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</description>
+  </programme>
+  <programme channel="litv-xinchuang19" start="20260616200000 +0800" stop="20260616210000 +0800">
+    <title>政治狠狠問</title>
+    <description>各黨新生代意見領袖在擂台上針砭時政！藍、綠、白政治名嘴交鋒性的辯論、加上知識性的內容，政治不再各說各話，拿道理、講證據。勝負誰決定？請你來當裁判長。</description>
+  </programme>
+  <programme channel="litv-xinchuang19" start="20260616210000 +0800" stop="20260616220000 +0800">
+    <title>永康情報局</title>
+    <description>聚焦全球最受矚目的地緣政治、國際情勢、財經脈動與產業變化，從新聞表象深入事件核心，帶你看見世界局勢背後真正的權力邏輯。</description>
+  </programme>
+  <programme channel="litv-xinchuang19" start="20260616220000 +0800" stop="20260616230000 +0800">
+    <title>全民星攻略Super Night</title>
+    <description>東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</description>
+  </programme>
+  <programme channel="litv-xinchuang19" start="20260616230000 +0800" stop="20260617000000 +0800">
+    <title>健康2.0</title>
+    <description>在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</description>
+  </programme>
+  <programme channel="litv-xinchuang19" start="20260617000000 +0800" stop="20260617010000 +0800">
+    <title>健康2.0</title>
+    <description>在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</description>
+  </programme>
+  <programme channel="litv-xinchuang19" start="20260617010000 +0800" stop="20260617020000 +0800">
+    <title>全民星攻略Super Night</title>
+    <description>東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</description>
+  </programme>
+  <programme channel="litv-xinchuang19" start="20260617020000 +0800" stop="20260617030000 +0800">
+    <title>健康2.0</title>
+    <description>在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</description>
+  </programme>
+  <programme channel="litv-xinchuang19" start="20260617030000 +0800" stop="20260617040000 +0800">
+    <title>全民星攻略Super Night</title>
+    <description>東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</description>
+  </programme>
+  <programme channel="litv-xinchuang19" start="20260617040000 +0800" stop="20260617050000 +0800">
+    <title>健康2.0</title>
+    <description>在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</description>
+  </programme>
+  <programme channel="litv-xinchuang19" start="20260617050000 +0800" stop="20260617060000 +0800">
+    <title>全民星攻略Super Night</title>
+    <description>東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</description>
+  </programme>
+  <programme channel="litv-xinchuang19" start="20260617060000 +0800" stop="20260617070000 +0800">
+    <title>健康2.0</title>
+    <description>在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</description>
+  </programme>
+  <programme channel="litv-xinchuang19" start="20260617070000 +0800" stop="20260617080000 +0800">
+    <title>全民星攻略Super Night</title>
+    <description>東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</description>
+  </programme>
+  <programme channel="litv-xinchuang19" start="20260617080000 +0800" stop="20260617090000 +0800">
+    <title>健康2.0</title>
+    <description>在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</description>
+  </programme>
+  <programme channel="litv-xinchuang19" start="20260617090000 +0800" stop="20260617100000 +0800">
+    <title>全民星攻略Super Night</title>
+    <description>東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</description>
+  </programme>
+  <programme channel="litv-xinchuang19" start="20260617100000 +0800" stop="20260617110000 +0800">
+    <title>健康2.0</title>
+    <description>在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</description>
+  </programme>
+  <programme channel="litv-xinchuang19" start="20260617110000 +0800" stop="20260617120000 +0800">
+    <title>全民星攻略Super Night</title>
+    <description>東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</description>
+  </programme>
+  <programme channel="litv-xinchuang19" start="20260617120000 +0800" stop="20260617130000 +0800">
+    <title>健康2.0</title>
+    <description>在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</description>
+  </programme>
+  <programme channel="litv-xinchuang19" start="20260617130000 +0800" stop="20260617140000 +0800">
+    <title>全民星攻略Super Night</title>
+    <description>東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</description>
+  </programme>
+  <programme channel="litv-xinchuang19" start="20260617140000 +0800" stop="20260617150000 +0800">
+    <title>健康2.0</title>
+    <description>在節目中，將以各種深入淺出的方式，檢測時下流行的健康產品的效用，示範健康烹調與運動方法，並與觀眾分享照顧家人的健康資訊與心得。</description>
+  </programme>
+  <programme channel="litv-xinchuang19" start="20260617150000 +0800" stop="20260617160000 +0800">
+    <title>全民星攻略Super Night</title>
+    <description>東森綜合台全新益智實境節目，「全民星攻略」，由館長曾國城擔任把關者，考驗著每個來挑戰九宮格益智遊戲藝人明星。想要攻略九宮格關卡，透過創意聯想、邏輯推理、理想分析，才有機會獲取智慧星幣，帶走夢幻大獎。</description>
+  </programme>
   <channel id="litv-xinchuang22">
     <display-name>台灣戲劇台</display-name>
   </channel>
-  <programme channel="litv-xinchuang22" start="20260612020000 +0800" stop="20260612030000 +0800">
-    <title>台灣啟示錄</title>
-    <description>為您統整介紹台灣社會近年來重大案件與名人軼事的始末，以及相關的新聞分析與報導。</description>
-  </programme>
-  <programme channel="litv-xinchuang22" start="20260612030000 +0800" stop="20260612043000 +0800">
-    <title>藍色水玲瓏</title>
-    <description>推出全新三大系列，分別為陰陽有情天、夜迷離及神秘記事簿，劇情有動人的人世間的親情，至死不渝的男女情愛，天理報應的因果事件等，這些充斥在社會上的愛恨情仇，令人匪夷所思的事件，帶來另一種不同的詮釋角度。</description>
-  </programme>
-  <programme channel="litv-xinchuang22" start="20260612043000 +0800" stop="20260612060000 +0800">
-    <title>藍色水玲瓏</title>
-    <description>推出全新三大系列，分別為陰陽有情天、夜迷離及神秘記事簿，劇情有動人的人世間的親情，至死不渝的男女情愛，天理報應的因果事件等，這些充斥在社會上的愛恨情仇，令人匪夷所思的事件，帶來另一種不同的詮釋角度。</description>
-  </programme>
-  <programme channel="litv-xinchuang22" start="20260612060000 +0800" stop="20260612063000 +0800">
-    <title>鳥來伯與十三姨</title>
-    <description>鳥來伯，個性平和，雜貨店老闆。觀念保守念舊，期望子女們都能出人頭地，因自尊心強常委屈自己；淑女，鳥來伯之妻，大事小事瑣事一手包辦，是一位堅忍愛家的標準台灣女性；鳥來嬤，家中的首席長者，個性強悍，死愛面子。看鳥家人如何努力經營著老舊的雜貨店以維持生計，同時也維持著家庭的團結與和諧…</description>
-  </programme>
-  <programme channel="litv-xinchuang22" start="20260612063000 +0800" stop="20260612070000 +0800">
-    <title>鳥來伯與十三姨</title>
-    <description>鳥來伯，個性平和，雜貨店老闆。觀念保守念舊，期望子女們都能出人頭地，因自尊心強常委屈自己；淑女，鳥來伯之妻，大事小事瑣事一手包辦，是一位堅忍愛家的標準台灣女性；鳥來嬤，家中的首席長者，個性強悍，死愛面子。看鳥家人如何努力經營著老舊的雜貨店以維持生計，同時也維持著家庭的團結與和諧…</description>
-  </programme>
-  <programme channel="litv-xinchuang22" start="20260612070000 +0800" stop="20260612080000 +0800">
-    <title>冰火五重天</title>
-    <description>主持人白冰冰藉著每位來賓的小故事，帶領大家發現、了解及解讀社會的各種現象，並延伸至與觀眾切身相關的話題。</description>
-  </programme>
-  <programme channel="litv-xinchuang22" start="20260612080000 +0800" stop="20260612090000 +0800">
-    <title>冰火五重天</title>
-    <description>主持人白冰冰藉著每位來賓的小故事，帶領大家發現、了解及解讀社會的各種現象，並延伸至與觀眾切身相關的話題。</description>
-  </programme>
-  <programme channel="litv-xinchuang22" start="20260612090000 +0800" stop="20260612103000 +0800">
-    <title>藍色水玲瓏</title>
-    <description>推出全新三大系列，分別為陰陽有情天、夜迷離及神秘記事簿，劇情有動人的人世間的親情，至死不渝的男女情愛，天理報應的因果事件等，這些充斥在社會上的愛恨情仇，令人匪夷所思的事件，帶來另一種不同的詮釋角度。</description>
-  </programme>
-  <programme channel="litv-xinchuang22" start="20260612103000 +0800" stop="20260612120000 +0800">
-    <title>藍色水玲瓏</title>
-    <description>推出全新三大系列，分別為陰陽有情天、夜迷離及神秘記事簿，劇情有動人的人世間的親情，至死不渝的男女情愛，天理報應的因果事件等，這些充斥在社會上的愛恨情仇，令人匪夷所思的事件，帶來另一種不同的詮釋角度。</description>
-  </programme>
-  <programme channel="litv-xinchuang22" start="20260612120000 +0800" stop="20260612130000 +0800">
-    <title>關鍵時刻</title>
-    <description>行政院勞工委員會勞工安全衛生研究所製作的3D立體動畫「關鍵時刻」，於第十八屆世界職業安全衛生大會榮獲國際安全衛生影片首獎，大會並以「非常創新的手法」盛讚得獎單位-行政院勞委會勞工安全衛生研究所，對於職場安全衛生教育宣導所做出的貢獻。</description>
-  </programme>
-  <programme channel="litv-xinchuang22" start="20260612130000 +0800" stop="20260612140000 +0800">
-    <title>台灣啟示錄</title>
-    <description>為您統整介紹台灣社會近年來重大案件與名人軼事的始末，以及相關的新聞分析與報導。</description>
-  </programme>
-  <programme channel="litv-xinchuang22" start="20260612140000 +0800" stop="20260612150000 +0800">
-    <title>台灣啟示錄</title>
-    <description>為您統整介紹台灣社會近年來重大案件與名人軼事的始末，以及相關的新聞分析與報導。</description>
-  </programme>
-  <programme channel="litv-xinchuang22" start="20260612150000 +0800" stop="20260612160000 +0800">
-    <title>包青天</title>
-    <description>仁宗皇帝在位期間，包拯（金超群）升任開封府府尹執掌京畿，剛直耿介、鐵面無私、明察秋毫、斷案如神，百姓愛戴敬仰尊稱為“包青天”。並有公孫策（范鴻軒）與南俠展昭（何家勁）一文一武兩員大將，使得包拯屢破奇案屢建奇功。</description>
-  </programme>
-  <programme channel="litv-xinchuang22" start="20260612160000 +0800" stop="20260612170000 +0800">
-    <title>包青天</title>
-    <description>仁宗皇帝在位期間，包拯（金超群）升任開封府府尹執掌京畿，剛直耿介、鐵面無私、明察秋毫、斷案如神，百姓愛戴敬仰尊稱為“包青天”。並有公孫策（范鴻軒）與南俠展昭（何家勁）一文一武兩員大將，使得包拯屢破奇案屢建奇功。</description>
-  </programme>
-  <programme channel="litv-xinchuang22" start="20260612170000 +0800" stop="20260612173000 +0800">
-    <title>鳥來伯與十三姨</title>
-    <description>鳥來伯，個性平和，雜貨店老闆。觀念保守念舊，期望子女們都能出人頭地，因自尊心強常委屈自己；淑女，鳥來伯之妻，大事小事瑣事一手包辦，是一位堅忍愛家的標準台灣女性；鳥來嬤，家中的首席長者，個性強悍，死愛面子。看鳥家人如何努力經營著老舊的雜貨店以維持生計，同時也維持著家庭的團結與和諧…</description>
-  </programme>
-  <programme channel="litv-xinchuang22" start="20260612173000 +0800" stop="20260612180000 +0800">
-    <title>鳥來伯與十三姨</title>
-    <description>鳥來伯，個性平和，雜貨店老闆。觀念保守念舊，期望子女們都能出人頭地，因自尊心強常委屈自己；淑女，鳥來伯之妻，大事小事瑣事一手包辦，是一位堅忍愛家的標準台灣女性；鳥來嬤，家中的首席長者，個性強悍，死愛面子。看鳥家人如何努力經營著老舊的雜貨店以維持生計，同時也維持著家庭的團結與和諧…</description>
-  </programme>
-  <programme channel="litv-xinchuang22" start="20260612180000 +0800" stop="20260612183000 +0800">
-    <title>鳥來伯與十三姨</title>
-    <description>鳥來伯，個性平和，雜貨店老闆。觀念保守念舊，期望子女們都能出人頭地，因自尊心強常委屈自己；淑女，鳥來伯之妻，大事小事瑣事一手包辦，是一位堅忍愛家的標準台灣女性；鳥來嬤，家中的首席長者，個性強悍，死愛面子。看鳥家人如何努力經營著老舊的雜貨店以維持生計，同時也維持著家庭的團結與和諧…</description>
-  </programme>
-  <programme channel="litv-xinchuang22" start="20260612183000 +0800" stop="20260612190000 +0800">
-    <title>鳥來伯與十三姨</title>
-    <description>鳥來伯，個性平和，雜貨店老闆。觀念保守念舊，期望子女們都能出人頭地，因自尊心強常委屈自己；淑女，鳥來伯之妻，大事小事瑣事一手包辦，是一位堅忍愛家的標準台灣女性；鳥來嬤，家中的首席長者，個性強悍，死愛面子。看鳥家人如何努力經營著老舊的雜貨店以維持生計，同時也維持著家庭的團結與和諧…</description>
-  </programme>
-  <programme channel="litv-xinchuang22" start="20260612190000 +0800" stop="20260612200000 +0800">
-    <title>包青天</title>
-    <description>仁宗皇帝在位期間，包拯（金超群）升任開封府府尹執掌京畿，剛直耿介、鐵面無私、明察秋毫、斷案如神，百姓愛戴敬仰尊稱為“包青天”。並有公孫策（范鴻軒）與南俠展昭（何家勁）一文一武兩員大將，使得包拯屢破奇案屢建奇功。</description>
-  </programme>
-  <programme channel="litv-xinchuang22" start="20260612200000 +0800" stop="20260612210000 +0800">
-    <title>包青天</title>
-    <description>仁宗皇帝在位期間，包拯（金超群）升任開封府府尹執掌京畿，剛直耿介、鐵面無私、明察秋毫、斷案如神，百姓愛戴敬仰尊稱為“包青天”。並有公孫策（范鴻軒）與南俠展昭（何家勁）一文一武兩員大將，使得包拯屢破奇案屢建奇功。</description>
-  </programme>
-  <programme channel="litv-xinchuang22" start="20260612210000 +0800" stop="20260612223000 +0800">
-    <title>藍色水玲瓏</title>
-    <description>推出全新三大系列，分別為陰陽有情天、夜迷離及神秘記事簿，劇情有動人的人世間的親情，至死不渝的男女情愛，天理報應的因果事件等，這些充斥在社會上的愛恨情仇，令人匪夷所思的事件，帶來另一種不同的詮釋角度。</description>
-  </programme>
-  <programme channel="litv-xinchuang22" start="20260612223000 +0800" stop="20260613000000 +0800">
-    <title>藍色水玲瓏</title>
-    <description>推出全新三大系列，分別為陰陽有情天、夜迷離及神秘記事簿，劇情有動人的人世間的親情，至死不渝的男女情愛，天理報應的因果事件等，這些充斥在社會上的愛恨情仇，令人匪夷所思的事件，帶來另一種不同的詮釋角度。</description>
-  </programme>
-  <programme channel="litv-xinchuang22" start="20260613000000 +0800" stop="20260613003000 +0800">
-    <title>鳥來伯與十三姨</title>
-    <description>鳥來伯，個性平和，雜貨店老闆。觀念保守念舊，期望子女們都能出人頭地，因自尊心強常委屈自己；淑女，鳥來伯之妻，大事小事瑣事一手包辦，是一位堅忍愛家的標準台灣女性；鳥來嬤，家中的首席長者，個性強悍，死愛面子。看鳥家人如何努力經營著老舊的雜貨店以維持生計，同時也維持著家庭的團結與和諧…</description>
-  </programme>
-  <programme channel="litv-xinchuang22" start="20260613003000 +0800" stop="20260613010000 +0800">
-    <title>鳥來伯與十三姨</title>
-    <description>鳥來伯，個性平和，雜貨店老闆。觀念保守念舊，期望子女們都能出人頭地，因自尊心強常委屈自己；淑女，鳥來伯之妻，大事小事瑣事一手包辦，是一位堅忍愛家的標準台灣女性；鳥來嬤，家中的首席長者，個性強悍，死愛面子。看鳥家人如何努力經營著老舊的雜貨店以維持生計，同時也維持著家庭的團結與和諧…</description>
-  </programme>
-  <programme channel="litv-xinchuang22" start="20260613010000 +0800" stop="20260613013000 +0800">
-    <title>鳥來伯與十三姨</title>
-    <description>鳥來伯，個性平和，雜貨店老闆。觀念保守念舊，期望子女們都能出人頭地，因自尊心強常委屈自己；淑女，鳥來伯之妻，大事小事瑣事一手包辦，是一位堅忍愛家的標準台灣女性；鳥來嬤，家中的首席長者，個性強悍，死愛面子。看鳥家人如何努力經營著老舊的雜貨店以維持生計，同時也維持著家庭的團結與和諧…</description>
-  </programme>
   <programme channel="litv-xinchuang22" start="20260613013000 +0800" stop="20260613020000 +0800">
     <title>鳥來伯與十三姨</title>
     <description>鳥來伯，個性平和，雜貨店老闆。觀念保守念舊，期望子女們都能出人頭地，因自尊心強常委屈自己；淑女，鳥來伯之妻，大事小事瑣事一手包辦，是一位堅忍愛家的標準台灣女性；鳥來嬤，家中的首席長者，個性強悍，死愛面子。看鳥家人如何努力經營著老舊的雜貨店以維持生計，同時也維持著家庭的團結與和諧…</description>
@@ -42089,197 +42053,109 @@
     <title>包青天</title>
     <description>仁宗皇帝在位期間，包拯（金超群）升任開封府府尹執掌京畿，剛直耿介、鐵面無私、明察秋毫、斷案如神，百姓愛戴敬仰尊稱為“包青天”。並有公孫策（范鴻軒）與南俠展昭（何家勁）一文一武兩員大將，使得包拯屢破奇案屢建奇功。</description>
   </programme>
+  <programme channel="litv-xinchuang22" start="20260616160000 +0800" stop="20260616170000 +0800">
+    <title>包青天</title>
+    <description>仁宗皇帝在位期間，包拯（金超群）升任開封府府尹執掌京畿，剛直耿介、鐵面無私、明察秋毫、斷案如神，百姓愛戴敬仰尊稱為“包青天”。並有公孫策（范鴻軒）與南俠展昭（何家勁）一文一武兩員大將，使得包拯屢破奇案屢建奇功。</description>
+  </programme>
+  <programme channel="litv-xinchuang22" start="20260616170000 +0800" stop="20260616173000 +0800">
+    <title>鳥來伯與十三姨</title>
+    <description>鳥來伯，個性平和，雜貨店老闆。觀念保守念舊，期望子女們都能出人頭地，因自尊心強常委屈自己；淑女，鳥來伯之妻，大事小事瑣事一手包辦，是一位堅忍愛家的標準台灣女性；鳥來嬤，家中的首席長者，個性強悍，死愛面子。看鳥家人如何努力經營著老舊的雜貨店以維持生計，同時也維持著家庭的團結與和諧…</description>
+  </programme>
+  <programme channel="litv-xinchuang22" start="20260616173000 +0800" stop="20260616180000 +0800">
+    <title>鳥來伯與十三姨</title>
+    <description>鳥來伯，個性平和，雜貨店老闆。觀念保守念舊，期望子女們都能出人頭地，因自尊心強常委屈自己；淑女，鳥來伯之妻，大事小事瑣事一手包辦，是一位堅忍愛家的標準台灣女性；鳥來嬤，家中的首席長者，個性強悍，死愛面子。看鳥家人如何努力經營著老舊的雜貨店以維持生計，同時也維持著家庭的團結與和諧…</description>
+  </programme>
+  <programme channel="litv-xinchuang22" start="20260616180000 +0800" stop="20260616183000 +0800">
+    <title>鳥來伯與十三姨</title>
+    <description>鳥來伯，個性平和，雜貨店老闆。觀念保守念舊，期望子女們都能出人頭地，因自尊心強常委屈自己；淑女，鳥來伯之妻，大事小事瑣事一手包辦，是一位堅忍愛家的標準台灣女性；鳥來嬤，家中的首席長者，個性強悍，死愛面子。看鳥家人如何努力經營著老舊的雜貨店以維持生計，同時也維持著家庭的團結與和諧…</description>
+  </programme>
+  <programme channel="litv-xinchuang22" start="20260616183000 +0800" stop="20260616190000 +0800">
+    <title>鳥來伯與十三姨</title>
+    <description>鳥來伯，個性平和，雜貨店老闆。觀念保守念舊，期望子女們都能出人頭地，因自尊心強常委屈自己；淑女，鳥來伯之妻，大事小事瑣事一手包辦，是一位堅忍愛家的標準台灣女性；鳥來嬤，家中的首席長者，個性強悍，死愛面子。看鳥家人如何努力經營著老舊的雜貨店以維持生計，同時也維持著家庭的團結與和諧…</description>
+  </programme>
+  <programme channel="litv-xinchuang22" start="20260616190000 +0800" stop="20260616200000 +0800">
+    <title>包青天</title>
+    <description>仁宗皇帝在位期間，包拯（金超群）升任開封府府尹執掌京畿，剛直耿介、鐵面無私、明察秋毫、斷案如神，百姓愛戴敬仰尊稱為“包青天”。並有公孫策（范鴻軒）與南俠展昭（何家勁）一文一武兩員大將，使得包拯屢破奇案屢建奇功。</description>
+  </programme>
+  <programme channel="litv-xinchuang22" start="20260616200000 +0800" stop="20260616210000 +0800">
+    <title>包青天</title>
+    <description>仁宗皇帝在位期間，包拯（金超群）升任開封府府尹執掌京畿，剛直耿介、鐵面無私、明察秋毫、斷案如神，百姓愛戴敬仰尊稱為“包青天”。並有公孫策（范鴻軒）與南俠展昭（何家勁）一文一武兩員大將，使得包拯屢破奇案屢建奇功。</description>
+  </programme>
+  <programme channel="litv-xinchuang22" start="20260616210000 +0800" stop="20260616223000 +0800">
+    <title>藍色水玲瓏</title>
+    <description>推出全新三大系列，分別為陰陽有情天、夜迷離及神秘記事簿，劇情有動人的人世間的親情，至死不渝的男女情愛，天理報應的因果事件等，這些充斥在社會上的愛恨情仇，令人匪夷所思的事件，帶來另一種不同的詮釋角度。</description>
+  </programme>
+  <programme channel="litv-xinchuang22" start="20260616223000 +0800" stop="20260617000000 +0800">
+    <title>藍色水玲瓏</title>
+    <description>推出全新三大系列，分別為陰陽有情天、夜迷離及神秘記事簿，劇情有動人的人世間的親情，至死不渝的男女情愛，天理報應的因果事件等，這些充斥在社會上的愛恨情仇，令人匪夷所思的事件，帶來另一種不同的詮釋角度。</description>
+  </programme>
+  <programme channel="litv-xinchuang22" start="20260617000000 +0800" stop="20260617003000 +0800">
+    <title>鳥來伯與十三姨</title>
+    <description>鳥來伯，個性平和，雜貨店老闆。觀念保守念舊，期望子女們都能出人頭地，因自尊心強常委屈自己；淑女，鳥來伯之妻，大事小事瑣事一手包辦，是一位堅忍愛家的標準台灣女性；鳥來嬤，家中的首席長者，個性強悍，死愛面子。看鳥家人如何努力經營著老舊的雜貨店以維持生計，同時也維持著家庭的團結與和諧…</description>
+  </programme>
+  <programme channel="litv-xinchuang22" start="20260617003000 +0800" stop="20260617010000 +0800">
+    <title>鳥來伯與十三姨</title>
+    <description>鳥來伯，個性平和，雜貨店老闆。觀念保守念舊，期望子女們都能出人頭地，因自尊心強常委屈自己；淑女，鳥來伯之妻，大事小事瑣事一手包辦，是一位堅忍愛家的標準台灣女性；鳥來嬤，家中的首席長者，個性強悍，死愛面子。看鳥家人如何努力經營著老舊的雜貨店以維持生計，同時也維持著家庭的團結與和諧…</description>
+  </programme>
+  <programme channel="litv-xinchuang22" start="20260617010000 +0800" stop="20260617020000 +0800">
+    <title>台灣啟示錄</title>
+    <description>為您統整介紹台灣社會近年來重大案件與名人軼事的始末，以及相關的新聞分析與報導。</description>
+  </programme>
+  <programme channel="litv-xinchuang22" start="20260617020000 +0800" stop="20260617030000 +0800">
+    <title>台灣啟示錄</title>
+    <description>為您統整介紹台灣社會近年來重大案件與名人軼事的始末，以及相關的新聞分析與報導。</description>
+  </programme>
+  <programme channel="litv-xinchuang22" start="20260617030000 +0800" stop="20260617043000 +0800">
+    <title>藍色水玲瓏</title>
+    <description>推出全新三大系列，分別為陰陽有情天、夜迷離及神秘記事簿，劇情有動人的人世間的親情，至死不渝的男女情愛，天理報應的因果事件等，這些充斥在社會上的愛恨情仇，令人匪夷所思的事件，帶來另一種不同的詮釋角度。</description>
+  </programme>
+  <programme channel="litv-xinchuang22" start="20260617043000 +0800" stop="20260617060000 +0800">
+    <title>藍色水玲瓏</title>
+    <description>推出全新三大系列，分別為陰陽有情天、夜迷離及神秘記事簿，劇情有動人的人世間的親情，至死不渝的男女情愛，天理報應的因果事件等，這些充斥在社會上的愛恨情仇，令人匪夷所思的事件，帶來另一種不同的詮釋角度。</description>
+  </programme>
+  <programme channel="litv-xinchuang22" start="20260617060000 +0800" stop="20260617063000 +0800">
+    <title>鳥來伯與十三姨</title>
+    <description>鳥來伯，個性平和，雜貨店老闆。觀念保守念舊，期望子女們都能出人頭地，因自尊心強常委屈自己；淑女，鳥來伯之妻，大事小事瑣事一手包辦，是一位堅忍愛家的標準台灣女性；鳥來嬤，家中的首席長者，個性強悍，死愛面子。看鳥家人如何努力經營著老舊的雜貨店以維持生計，同時也維持著家庭的團結與和諧…</description>
+  </programme>
+  <programme channel="litv-xinchuang22" start="20260617063000 +0800" stop="20260617070000 +0800">
+    <title>鳥來伯與十三姨</title>
+    <description>鳥來伯，個性平和，雜貨店老闆。觀念保守念舊，期望子女們都能出人頭地，因自尊心強常委屈自己；淑女，鳥來伯之妻，大事小事瑣事一手包辦，是一位堅忍愛家的標準台灣女性；鳥來嬤，家中的首席長者，個性強悍，死愛面子。看鳥家人如何努力經營著老舊的雜貨店以維持生計，同時也維持著家庭的團結與和諧…</description>
+  </programme>
+  <programme channel="litv-xinchuang22" start="20260617070000 +0800" stop="20260617080000 +0800">
+    <title>冰火五重天</title>
+    <description>主持人白冰冰藉著每位來賓的小故事，帶領大家發現、了解及解讀社會的各種現象，並延伸至與觀眾切身相關的話題。</description>
+  </programme>
+  <programme channel="litv-xinchuang22" start="20260617080000 +0800" stop="20260617090000 +0800">
+    <title>冰火五重天</title>
+    <description>主持人白冰冰藉著每位來賓的小故事，帶領大家發現、了解及解讀社會的各種現象，並延伸至與觀眾切身相關的話題。</description>
+  </programme>
+  <programme channel="litv-xinchuang22" start="20260617090000 +0800" stop="20260617103000 +0800">
+    <title>藍色水玲瓏</title>
+    <description>推出全新三大系列，分別為陰陽有情天、夜迷離及神秘記事簿，劇情有動人的人世間的親情，至死不渝的男女情愛，天理報應的因果事件等，這些充斥在社會上的愛恨情仇，令人匪夷所思的事件，帶來另一種不同的詮釋角度。</description>
+  </programme>
+  <programme channel="litv-xinchuang22" start="20260617103000 +0800" stop="20260617120000 +0800">
+    <title>藍色水玲瓏</title>
+    <description>推出全新三大系列，分別為陰陽有情天、夜迷離及神秘記事簿，劇情有動人的人世間的親情，至死不渝的男女情愛，天理報應的因果事件等，這些充斥在社會上的愛恨情仇，令人匪夷所思的事件，帶來另一種不同的詮釋角度。</description>
+  </programme>
+  <programme channel="litv-xinchuang22" start="20260617120000 +0800" stop="20260617130000 +0800">
+    <title>關鍵時刻</title>
+    <description>行政院勞工委員會勞工安全衛生研究所製作的3D立體動畫「關鍵時刻」，於第十八屆世界職業安全衛生大會榮獲國際安全衛生影片首獎，大會並以「非常創新的手法」盛讚得獎單位-行政院勞委會勞工安全衛生研究所，對於職場安全衛生教育宣導所做出的貢獻。</description>
+  </programme>
+  <programme channel="litv-xinchuang22" start="20260617130000 +0800" stop="20260617140000 +0800">
+    <title>台灣啟示錄</title>
+    <description>為您統整介紹台灣社會近年來重大案件與名人軼事的始末，以及相關的新聞分析與報導。</description>
+  </programme>
+  <programme channel="litv-xinchuang22" start="20260617140000 +0800" stop="20260617150000 +0800">
+    <title>台灣啟示錄</title>
+    <description>為您統整介紹台灣社會近年來重大案件與名人軼事的始末，以及相關的新聞分析與報導。</description>
+  </programme>
+  <programme channel="litv-xinchuang22" start="20260617150000 +0800" stop="20260617160000 +0800">
+    <title>包青天</title>
+    <description>仁宗皇帝在位期間，包拯（金超群）升任開封府府尹執掌京畿，剛直耿介、鐵面無私、明察秋毫、斷案如神，百姓愛戴敬仰尊稱為“包青天”。並有公孫策（范鴻軒）與南俠展昭（何家勁）一文一武兩員大將，使得包拯屢破奇案屢建奇功。</description>
+  </programme>
   <channel id="litv-xinchuang01">
     <display-name>龍華卡通台</display-name>
   </channel>
-  <programme channel="litv-xinchuang01" start="20260612020000 +0800" stop="20260612023000 +0800">
-    <title>哈皮樂奇鬧翻天#38</title>
-    <description>哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612023000 +0800" stop="20260612030000 +0800">
-    <title>哈皮樂奇鬧翻天#39</title>
-    <description>哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612030000 +0800" stop="20260612033000 +0800">
-    <title>百變校巴</title>
-    <description>劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612033000 +0800" stop="20260612040000 +0800">
-    <title>百變校巴</title>
-    <description>劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612040000 +0800" stop="20260612043000 +0800">
-    <title>小木偶皮諾丘與朋友們</title>
-    <description>固執的小木偶皮諾丘，還有他的朋友－－海盜布偶芙莉達和小蟋蟀吉米尼，隨時都準備好出發去冒險！只要有朋友一起，任何地方都不算遠，任何挑戰都難不倒他們！</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612043000 +0800" stop="20260612050000 +0800">
-    <title>小木偶皮諾丘與朋友們</title>
-    <description>固執的小木偶皮諾丘，還有他的朋友－－海盜布偶芙莉達和小蟋蟀吉米尼，隨時都準備好出發去冒險！只要有朋友一起，任何地方都不算遠，任何挑戰都難不倒他們！</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612050000 +0800" stop="20260612053000 +0800">
-    <title>哈皮樂奇鬧翻天#38</title>
-    <description>哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612053000 +0800" stop="20260612060000 +0800">
-    <title>哈皮樂奇鬧翻天#39</title>
-    <description>哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612060000 +0800" stop="20260612063000 +0800">
-    <title>百變校巴</title>
-    <description>劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612063000 +0800" stop="20260612070000 +0800">
-    <title>百變校巴</title>
-    <description>劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612070000 +0800" stop="20260612073000 +0800">
-    <title>小木偶皮諾丘與朋友們</title>
-    <description>固執的小木偶皮諾丘，還有他的朋友－－海盜布偶芙莉達和小蟋蟀吉米尼，隨時都準備好出發去冒險！只要有朋友一起，任何地方都不算遠，任何挑戰都難不倒他們！</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612073000 +0800" stop="20260612080000 +0800">
-    <title>小木偶皮諾丘與朋友們</title>
-    <description>固執的小木偶皮諾丘，還有他的朋友－－海盜布偶芙莉達和小蟋蟀吉米尼，隨時都準備好出發去冒險！只要有朋友一起，任何地方都不算遠，任何挑戰都難不倒他們！</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612080000 +0800" stop="20260612083000 +0800">
-    <title>哈皮樂奇鬧翻天#38</title>
-    <description>哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612083000 +0800" stop="20260612090000 +0800">
-    <title>哈皮樂奇鬧翻天#39</title>
-    <description>哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612090000 +0800" stop="20260612093000 +0800">
-    <title>百變校巴</title>
-    <description>劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612093000 +0800" stop="20260612100000 +0800">
-    <title>百變校巴</title>
-    <description>劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612100000 +0800" stop="20260612103000 +0800">
-    <title>小木偶皮諾丘與朋友們</title>
-    <description>固執的小木偶皮諾丘，還有他的朋友－－海盜布偶芙莉達和小蟋蟀吉米尼，隨時都準備好出發去冒險！只要有朋友一起，任何地方都不算遠，任何挑戰都難不倒他們！</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612103000 +0800" stop="20260612110000 +0800">
-    <title>小木偶皮諾丘與朋友們</title>
-    <description>固執的小木偶皮諾丘，還有他的朋友－－海盜布偶芙莉達和小蟋蟀吉米尼，隨時都準備好出發去冒險！只要有朋友一起，任何地方都不算遠，任何挑戰都難不倒他們！</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612110000 +0800" stop="20260612113000 +0800">
-    <title>哈皮樂奇鬧翻天#38</title>
-    <description>哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612113000 +0800" stop="20260612120000 +0800">
-    <title>哈皮樂奇鬧翻天#39</title>
-    <description>哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612120000 +0800" stop="20260612123000 +0800">
-    <title>百變校巴</title>
-    <description>劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612123000 +0800" stop="20260612130000 +0800">
-    <title>百變校巴</title>
-    <description>劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612130000 +0800" stop="20260612133000 +0800">
-    <title>小木偶皮諾丘與朋友們</title>
-    <description>固執的小木偶皮諾丘，還有他的朋友－－海盜布偶芙莉達和小蟋蟀吉米尼，隨時都準備好出發去冒險！只要有朋友一起，任何地方都不算遠，任何挑戰都難不倒他們！</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612133000 +0800" stop="20260612140000 +0800">
-    <title>小木偶皮諾丘與朋友們</title>
-    <description>固執的小木偶皮諾丘，還有他的朋友－－海盜布偶芙莉達和小蟋蟀吉米尼，隨時都準備好出發去冒險！只要有朋友一起，任何地方都不算遠，任何挑戰都難不倒他們！</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612140000 +0800" stop="20260612143000 +0800">
-    <title>哈皮樂奇鬧翻天#38</title>
-    <description>哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612143000 +0800" stop="20260612150000 +0800">
-    <title>哈皮樂奇鬧翻天#39</title>
-    <description>哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612150000 +0800" stop="20260612153000 +0800">
-    <title>百變校巴</title>
-    <description>劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612153000 +0800" stop="20260612160000 +0800">
-    <title>百變校巴</title>
-    <description>劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612160000 +0800" stop="20260612163000 +0800">
-    <title>小木偶皮諾丘與朋友們</title>
-    <description>固執的小木偶皮諾丘，還有他的朋友－－海盜布偶芙莉達和小蟋蟀吉米尼，隨時都準備好出發去冒險！只要有朋友一起，任何地方都不算遠，任何挑戰都難不倒他們！</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612163000 +0800" stop="20260612170000 +0800">
-    <title>小木偶皮諾丘與朋友們</title>
-    <description>固執的小木偶皮諾丘，還有他的朋友－－海盜布偶芙莉達和小蟋蟀吉米尼，隨時都準備好出發去冒險！只要有朋友一起，任何地方都不算遠，任何挑戰都難不倒他們！</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612170000 +0800" stop="20260612173000 +0800">
-    <title>哈皮樂奇鬧翻天#40</title>
-    <description>哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612173000 +0800" stop="20260612180000 +0800">
-    <title>哈皮樂奇鬧翻天#41</title>
-    <description>哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612180000 +0800" stop="20260612183000 +0800">
-    <title>百變校巴</title>
-    <description>劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612183000 +0800" stop="20260612190000 +0800">
-    <title>百變校巴</title>
-    <description>劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612190000 +0800" stop="20260612193000 +0800">
-    <title>小木偶皮諾丘與朋友們</title>
-    <description>固執的小木偶皮諾丘，還有他的朋友－－海盜布偶芙莉達和小蟋蟀吉米尼，隨時都準備好出發去冒險！只要有朋友一起，任何地方都不算遠，任何挑戰都難不倒他們！</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612193000 +0800" stop="20260612200000 +0800">
-    <title>小木偶皮諾丘與朋友們</title>
-    <description>固執的小木偶皮諾丘，還有他的朋友－－海盜布偶芙莉達和小蟋蟀吉米尼，隨時都準備好出發去冒險！只要有朋友一起，任何地方都不算遠，任何挑戰都難不倒他們！</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612200000 +0800" stop="20260612203000 +0800">
-    <title>哈皮樂奇鬧翻天#40</title>
-    <description>哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612203000 +0800" stop="20260612210000 +0800">
-    <title>哈皮樂奇鬧翻天#41</title>
-    <description>哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612210000 +0800" stop="20260612213000 +0800">
-    <title>百變校巴</title>
-    <description>劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612213000 +0800" stop="20260612220000 +0800">
-    <title>百變校巴</title>
-    <description>劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612220000 +0800" stop="20260612223000 +0800">
-    <title>小木偶皮諾丘與朋友們</title>
-    <description>固執的小木偶皮諾丘，還有他的朋友－－海盜布偶芙莉達和小蟋蟀吉米尼，隨時都準備好出發去冒險！只要有朋友一起，任何地方都不算遠，任何挑戰都難不倒他們！</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612223000 +0800" stop="20260612230000 +0800">
-    <title>小木偶皮諾丘與朋友們</title>
-    <description>固執的小木偶皮諾丘，還有他的朋友－－海盜布偶芙莉達和小蟋蟀吉米尼，隨時都準備好出發去冒險！只要有朋友一起，任何地方都不算遠，任何挑戰都難不倒他們！</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612230000 +0800" stop="20260612233000 +0800">
-    <title>哈皮樂奇鬧翻天#40</title>
-    <description>哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260612233000 +0800" stop="20260613000000 +0800">
-    <title>哈皮樂奇鬧翻天#41</title>
-    <description>哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260613000000 +0800" stop="20260613003000 +0800">
-    <title>彼得與狼奇遇記</title>
-    <description>擅長解決問題的小學生彼得，在路上救了一隻狼後，意外展開穿越時空的奇幻冒險！勇者與惡龍、精靈與半人馬、複製人與隱形人……彼得與狼的精采奇遇，就此展開！</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260613003000 +0800" stop="20260613010000 +0800">
-    <title>彼得與狼奇遇記</title>
-    <description>擅長解決問題的小學生彼得，在路上救了一隻狼後，意外展開穿越時空的奇幻冒險！勇者與惡龍、精靈與半人馬、複製人與隱形人……彼得與狼的精采奇遇，就此展開！</description>
-  </programme>
-  <programme channel="litv-xinchuang01" start="20260613010000 +0800" stop="20260613013000 +0800">
-    <title>月月、阿奇與小墨：森林保衛隊GO</title>
-    <description>當小動物們需要幫助，貓頭鷹月月、河狸阿奇和章魚小墨組成的森林保衛隊就會出動，結合海陸空視角制定完美計劃！因為幫助他人不只是對的事，也是有趣的事！森林保衛隊GO！</description>
-  </programme>
   <programme channel="litv-xinchuang01" start="20260613013000 +0800" stop="20260613020000 +0800">
     <title>月月、阿奇與小墨：森林保衛隊GO</title>
     <description>當小動物們需要幫助，貓頭鷹月月、河狸阿奇和章魚小墨組成的森林保衛隊就會出動，結合海陸空視角制定完美計劃！因為幫助他人不只是對的事，也是有趣的事！森林保衛隊GO！</description>
@@ -42972,101 +42848,201 @@
     <title>百變校巴</title>
     <description>劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</description>
   </programme>
+  <programme channel="litv-xinchuang01" start="20260616160000 +0800" stop="20260616163000 +0800">
+    <title>小木偶皮諾丘與朋友們</title>
+    <description>固執的小木偶皮諾丘，還有他的朋友－－海盜布偶芙莉達和小蟋蟀吉米尼，隨時都準備好出發去冒險！只要有朋友一起，任何地方都不算遠，任何挑戰都難不倒他們！</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260616163000 +0800" stop="20260616170000 +0800">
+    <title>小木偶皮諾丘與朋友們</title>
+    <description>固執的小木偶皮諾丘，還有他的朋友－－海盜布偶芙莉達和小蟋蟀吉米尼，隨時都準備好出發去冒險！只要有朋友一起，任何地方都不算遠，任何挑戰都難不倒他們！</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260616170000 +0800" stop="20260616173000 +0800">
+    <title>哈皮樂奇鬧翻天#44</title>
+    <description>哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260616173000 +0800" stop="20260616180000 +0800">
+    <title>哈皮樂奇鬧翻天#45</title>
+    <description>哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260616180000 +0800" stop="20260616183000 +0800">
+    <title>百變校巴</title>
+    <description>劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260616183000 +0800" stop="20260616190000 +0800">
+    <title>百變校巴</title>
+    <description>劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260616190000 +0800" stop="20260616193000 +0800">
+    <title>小木偶皮諾丘與朋友們</title>
+    <description>固執的小木偶皮諾丘，還有他的朋友－－海盜布偶芙莉達和小蟋蟀吉米尼，隨時都準備好出發去冒險！只要有朋友一起，任何地方都不算遠，任何挑戰都難不倒他們！</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260616193000 +0800" stop="20260616200000 +0800">
+    <title>小木偶皮諾丘與朋友們</title>
+    <description>固執的小木偶皮諾丘，還有他的朋友－－海盜布偶芙莉達和小蟋蟀吉米尼，隨時都準備好出發去冒險！只要有朋友一起，任何地方都不算遠，任何挑戰都難不倒他們！</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260616200000 +0800" stop="20260616203000 +0800">
+    <title>哈皮樂奇鬧翻天#44</title>
+    <description>哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260616203000 +0800" stop="20260616210000 +0800">
+    <title>哈皮樂奇鬧翻天#45</title>
+    <description>哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260616210000 +0800" stop="20260616213000 +0800">
+    <title>百變校巴</title>
+    <description>劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260616213000 +0800" stop="20260616220000 +0800">
+    <title>百變校巴</title>
+    <description>劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260616220000 +0800" stop="20260616223000 +0800">
+    <title>小木偶皮諾丘與朋友們</title>
+    <description>固執的小木偶皮諾丘，還有他的朋友－－海盜布偶芙莉達和小蟋蟀吉米尼，隨時都準備好出發去冒險！只要有朋友一起，任何地方都不算遠，任何挑戰都難不倒他們！</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260616223000 +0800" stop="20260616230000 +0800">
+    <title>小木偶皮諾丘與朋友們</title>
+    <description>固執的小木偶皮諾丘，還有他的朋友－－海盜布偶芙莉達和小蟋蟀吉米尼，隨時都準備好出發去冒險！只要有朋友一起，任何地方都不算遠，任何挑戰都難不倒他們！</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260616230000 +0800" stop="20260616233000 +0800">
+    <title>哈皮樂奇鬧翻天#44</title>
+    <description>哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260616233000 +0800" stop="20260617000000 +0800">
+    <title>哈皮樂奇鬧翻天#45</title>
+    <description>哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260617000000 +0800" stop="20260617003000 +0800">
+    <title>百變校巴</title>
+    <description>劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260617003000 +0800" stop="20260617010000 +0800">
+    <title>百變校巴</title>
+    <description>劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260617010000 +0800" stop="20260617013000 +0800">
+    <title>小木偶皮諾丘與朋友們</title>
+    <description>固執的小木偶皮諾丘，還有他的朋友－－海盜布偶芙莉達和小蟋蟀吉米尼，隨時都準備好出發去冒險！只要有朋友一起，任何地方都不算遠，任何挑戰都難不倒他們！</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260617013000 +0800" stop="20260617020000 +0800">
+    <title>小木偶皮諾丘與朋友們</title>
+    <description>固執的小木偶皮諾丘，還有他的朋友－－海盜布偶芙莉達和小蟋蟀吉米尼，隨時都準備好出發去冒險！只要有朋友一起，任何地方都不算遠，任何挑戰都難不倒他們！</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260617020000 +0800" stop="20260617023000 +0800">
+    <title>哈皮樂奇鬧翻天#44</title>
+    <description>哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260617023000 +0800" stop="20260617030000 +0800">
+    <title>哈皮樂奇鬧翻天#45</title>
+    <description>哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260617030000 +0800" stop="20260617033000 +0800">
+    <title>百變校巴</title>
+    <description>劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260617033000 +0800" stop="20260617040000 +0800">
+    <title>百變校巴</title>
+    <description>劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260617040000 +0800" stop="20260617043000 +0800">
+    <title>小木偶皮諾丘與朋友們</title>
+    <description>固執的小木偶皮諾丘，還有他的朋友－－海盜布偶芙莉達和小蟋蟀吉米尼，隨時都準備好出發去冒險！只要有朋友一起，任何地方都不算遠，任何挑戰都難不倒他們！</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260617043000 +0800" stop="20260617050000 +0800">
+    <title>小木偶皮諾丘與朋友們</title>
+    <description>固執的小木偶皮諾丘，還有他的朋友－－海盜布偶芙莉達和小蟋蟀吉米尼，隨時都準備好出發去冒險！只要有朋友一起，任何地方都不算遠，任何挑戰都難不倒他們！</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260617050000 +0800" stop="20260617053000 +0800">
+    <title>哈皮樂奇鬧翻天#44</title>
+    <description>哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260617053000 +0800" stop="20260617060000 +0800">
+    <title>哈皮樂奇鬧翻天#45</title>
+    <description>哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260617060000 +0800" stop="20260617063000 +0800">
+    <title>百變校巴</title>
+    <description>劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260617063000 +0800" stop="20260617070000 +0800">
+    <title>百變校巴</title>
+    <description>劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260617070000 +0800" stop="20260617073000 +0800">
+    <title>小木偶皮諾丘與朋友們</title>
+    <description>固執的小木偶皮諾丘，還有他的朋友－－海盜布偶芙莉達和小蟋蟀吉米尼，隨時都準備好出發去冒險！只要有朋友一起，任何地方都不算遠，任何挑戰都難不倒他們！</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260617073000 +0800" stop="20260617080000 +0800">
+    <title>小木偶皮諾丘與朋友們</title>
+    <description>固執的小木偶皮諾丘，還有他的朋友－－海盜布偶芙莉達和小蟋蟀吉米尼，隨時都準備好出發去冒險！只要有朋友一起，任何地方都不算遠，任何挑戰都難不倒他們！</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260617080000 +0800" stop="20260617083000 +0800">
+    <title>哈皮樂奇鬧翻天#44</title>
+    <description>哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260617083000 +0800" stop="20260617090000 +0800">
+    <title>哈皮樂奇鬧翻天#45</title>
+    <description>哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260617090000 +0800" stop="20260617093000 +0800">
+    <title>百變校巴</title>
+    <description>劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260617093000 +0800" stop="20260617100000 +0800">
+    <title>百變校巴</title>
+    <description>劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260617100000 +0800" stop="20260617103000 +0800">
+    <title>小木偶皮諾丘與朋友們</title>
+    <description>固執的小木偶皮諾丘，還有他的朋友－－海盜布偶芙莉達和小蟋蟀吉米尼，隨時都準備好出發去冒險！只要有朋友一起，任何地方都不算遠，任何挑戰都難不倒他們！</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260617103000 +0800" stop="20260617110000 +0800">
+    <title>小木偶皮諾丘與朋友們</title>
+    <description>固執的小木偶皮諾丘，還有他的朋友－－海盜布偶芙莉達和小蟋蟀吉米尼，隨時都準備好出發去冒險！只要有朋友一起，任何地方都不算遠，任何挑戰都難不倒他們！</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260617110000 +0800" stop="20260617113000 +0800">
+    <title>哈皮樂奇鬧翻天#44</title>
+    <description>哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260617113000 +0800" stop="20260617120000 +0800">
+    <title>哈皮樂奇鬧翻天#45</title>
+    <description>哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260617120000 +0800" stop="20260617123000 +0800">
+    <title>百變校巴</title>
+    <description>劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260617123000 +0800" stop="20260617130000 +0800">
+    <title>百變校巴</title>
+    <description>劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260617130000 +0800" stop="20260617133000 +0800">
+    <title>小木偶皮諾丘與朋友們</title>
+    <description>固執的小木偶皮諾丘，還有他的朋友－－海盜布偶芙莉達和小蟋蟀吉米尼，隨時都準備好出發去冒險！只要有朋友一起，任何地方都不算遠，任何挑戰都難不倒他們！</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260617133000 +0800" stop="20260617140000 +0800">
+    <title>小木偶皮諾丘與朋友們</title>
+    <description>固執的小木偶皮諾丘，還有他的朋友－－海盜布偶芙莉達和小蟋蟀吉米尼，隨時都準備好出發去冒險！只要有朋友一起，任何地方都不算遠，任何挑戰都難不倒他們！</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260617140000 +0800" stop="20260617143000 +0800">
+    <title>哈皮樂奇鬧翻天#44</title>
+    <description>哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260617143000 +0800" stop="20260617150000 +0800">
+    <title>哈皮樂奇鬧翻天#45</title>
+    <description>哈皮和樂奇是鄰居，他們跟帕普和邦迪一起住在鄉下。哈皮和樂奇之間相處得很愉快，他們的生活充滿了搞笑和歡樂。</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260617150000 +0800" stop="20260617153000 +0800">
+    <title>百變校巴</title>
+    <description>劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</description>
+  </programme>
+  <programme channel="litv-xinchuang01" start="20260617153000 +0800" stop="20260617160000 +0800">
+    <title>百變校巴</title>
+    <description>劇情敘述陽光森林幼兒園的人工智能校巴歌德與小朋友們的故事。每當小朋友陷入麻煩，百變校巴都會變身消防車、警車、救護車、救援艇或是飛機，趕到現場出手相助。隨著故事的發展，小朋友們也會從這過程中學會更多安全教育與情緒管理等知識。</description>
+  </programme>
   <channel id="litv-xinchuang12">
     <display-name>龍華偶像台</display-name>
   </channel>
-  <programme channel="litv-xinchuang12" start="20260612020000 +0800" stop="20260612030000 +0800">
-    <title>加油吧 ! 河娜#19</title>
-    <description>講述是以補習街為背景，「獨自飲酒的男女」為主題的電視劇描述看明星講師的臉色，為補習班業績戰戰兢兢的老闆，以及為吸引學生而花招百出的講師們之間故事。</description>
-  </programme>
-  <programme channel="litv-xinchuang12" start="20260612030000 +0800" stop="20260612040000 +0800">
-    <title>風起西州#11</title>
-    <description>風起霓裳續集。庫狄琉璃與裴行儉婚後琴瑟和鳴，夫唱婦隨。後裴行儉被貶。琉璃陪伴丈夫遠赴西州上任，與當地世子麴崇裕相識的故事。</description>
-  </programme>
-  <programme channel="litv-xinchuang12" start="20260612040000 +0800" stop="20260612050000 +0800">
-    <title>被告人#17</title>
-    <description>首爾中央地方檢察廳王牌檢察官朴政宇，和他的妻子一同慶祝女兒夏燕六歲生日的這一夜，他變成司法史上第一位殺死妻女的嫌犯檢察官，更糟糕的是他對於這一連串的事情都失去記憶…那一夜到底發生了什麼事呢？</description>
-  </programme>
-  <programme channel="litv-xinchuang12" start="20260612050000 +0800" stop="20260612060000 +0800">
-    <title>被告人#18</title>
-    <description>首爾中央地方檢察廳王牌檢察官朴政宇，和他的妻子一同慶祝女兒夏燕六歲生日的這一夜，他變成司法史上第一位殺死妻女的嫌犯檢察官，更糟糕的是他對於這一連串的事情都失去記憶…那一夜到底發生了什麼事呢？</description>
-  </programme>
-  <programme channel="litv-xinchuang12" start="20260612060000 +0800" stop="20260612070000 +0800">
-    <title>好好生活#37</title>
-    <description>《好好生活》由陳銘章、陳世嶧執導，林雨申、蔡文靜領銜主演，鄒廷威、姜妍主演的都市歡脫治癒輕喜劇。講述了吳憂領證當天因為車禍放了男友鴿子，男友分手出國，吳憂傷心寄情工作，卻與「大魔王」何西亞擦出火花，兩人鬥智斗勇成為歡喜冤家的故事。</description>
-  </programme>
-  <programme channel="litv-xinchuang12" start="20260612070000 +0800" stop="20260612080000 +0800">
-    <title>好好生活#38</title>
-    <description>《好好生活》由陳銘章、陳世嶧執導，林雨申、蔡文靜領銜主演，鄒廷威、姜妍主演的都市歡脫治癒輕喜劇。講述了吳憂領證當天因為車禍放了男友鴿子，男友分手出國，吳憂傷心寄情工作，卻與「大魔王」何西亞擦出火花，兩人鬥智斗勇成為歡喜冤家的故事。</description>
-  </programme>
-  <programme channel="litv-xinchuang12" start="20260612080000 +0800" stop="20260612090000 +0800">
-    <title>加油吧 ! 河娜#19</title>
-    <description>講述是以補習街為背景，「獨自飲酒的男女」為主題的電視劇描述看明星講師的臉色，為補習班業績戰戰兢兢的老闆，以及為吸引學生而花招百出的講師們之間故事。</description>
-  </programme>
-  <programme channel="litv-xinchuang12" start="20260612090000 +0800" stop="20260612100000 +0800">
-    <title>被告人#17</title>
-    <description>首爾中央地方檢察廳王牌檢察官朴政宇，和他的妻子一同慶祝女兒夏燕六歲生日的這一夜，他變成司法史上第一位殺死妻女的嫌犯檢察官，更糟糕的是他對於這一連串的事情都失去記憶…那一夜到底發生了什麼事呢？</description>
-  </programme>
-  <programme channel="litv-xinchuang12" start="20260612100000 +0800" stop="20260612110000 +0800">
-    <title>被告人#18</title>
-    <description>首爾中央地方檢察廳王牌檢察官朴政宇，和他的妻子一同慶祝女兒夏燕六歲生日的這一夜，他變成司法史上第一位殺死妻女的嫌犯檢察官，更糟糕的是他對於這一連串的事情都失去記憶…那一夜到底發生了什麼事呢？</description>
-  </programme>
-  <programme channel="litv-xinchuang12" start="20260612110000 +0800" stop="20260612120000 +0800">
-    <title>風起西州#11</title>
-    <description>風起霓裳續集。庫狄琉璃與裴行儉婚後琴瑟和鳴，夫唱婦隨。後裴行儉被貶。琉璃陪伴丈夫遠赴西州上任，與當地世子麴崇裕相識的故事。</description>
-  </programme>
-  <programme channel="litv-xinchuang12" start="20260612120000 +0800" stop="20260612130000 +0800">
-    <title>好好生活#37</title>
-    <description>《好好生活》由陳銘章、陳世嶧執導，林雨申、蔡文靜領銜主演，鄒廷威、姜妍主演的都市歡脫治癒輕喜劇。講述了吳憂領證當天因為車禍放了男友鴿子，男友分手出國，吳憂傷心寄情工作，卻與「大魔王」何西亞擦出火花，兩人鬥智斗勇成為歡喜冤家的故事。</description>
-  </programme>
-  <programme channel="litv-xinchuang12" start="20260612130000 +0800" stop="20260612140000 +0800">
-    <title>好好生活#38</title>
-    <description>《好好生活》由陳銘章、陳世嶧執導，林雨申、蔡文靜領銜主演，鄒廷威、姜妍主演的都市歡脫治癒輕喜劇。講述了吳憂領證當天因為車禍放了男友鴿子，男友分手出國，吳憂傷心寄情工作，卻與「大魔王」何西亞擦出火花，兩人鬥智斗勇成為歡喜冤家的故事。</description>
-  </programme>
-  <programme channel="litv-xinchuang12" start="20260612140000 +0800" stop="20260612150000 +0800">
-    <title>加油吧 ! 河娜#18</title>
-    <description>講述是以補習街為背景，「獨自飲酒的男女」為主題的電視劇描述看明星講師的臉色，為補習班業績戰戰兢兢的老闆，以及為吸引學生而花招百出的講師們之間故事。</description>
-  </programme>
-  <programme channel="litv-xinchuang12" start="20260612150000 +0800" stop="20260612160000 +0800">
-    <title>加油吧 ! 河娜#19</title>
-    <description>講述是以補習街為背景，「獨自飲酒的男女」為主題的電視劇描述看明星講師的臉色，為補習班業績戰戰兢兢的老闆，以及為吸引學生而花招百出的講師們之間故事。</description>
-  </programme>
-  <programme channel="litv-xinchuang12" start="20260612160000 +0800" stop="20260612170000 +0800">
-    <title>被告人#19</title>
-    <description>首爾中央地方檢察廳王牌檢察官朴政宇，和他的妻子一同慶祝女兒夏燕六歲生日的這一夜，他變成司法史上第一位殺死妻女的嫌犯檢察官，更糟糕的是他對於這一連串的事情都失去記憶…那一夜到底發生了什麼事呢？</description>
-  </programme>
-  <programme channel="litv-xinchuang12" start="20260612170000 +0800" stop="20260612180000 +0800">
-    <title>被告人#20</title>
-    <description>首爾中央地方檢察廳王牌檢察官朴政宇，和他的妻子一同慶祝女兒夏燕六歲生日的這一夜，他變成司法史上第一位殺死妻女的嫌犯檢察官，更糟糕的是他對於這一連串的事情都失去記憶…那一夜到底發生了什麼事呢？</description>
-  </programme>
-  <programme channel="litv-xinchuang12" start="20260612180000 +0800" stop="20260612190000 +0800">
-    <title>好好生活#39</title>
-    <description>《好好生活》由陳銘章、陳世嶧執導，林雨申、蔡文靜領銜主演，鄒廷威、姜妍主演的都市歡脫治癒輕喜劇。講述了吳憂領證當天因為車禍放了男友鴿子，男友分手出國，吳憂傷心寄情工作，卻與「大魔王」何西亞擦出火花，兩人鬥智斗勇成為歡喜冤家的故事。</description>
-  </programme>
-  <programme channel="litv-xinchuang12" start="20260612190000 +0800" stop="20260612200000 +0800">
-    <title>好好生活#40(完)</title>
-    <description>《好好生活》由陳銘章、陳世嶧執導，林雨申、蔡文靜領銜主演，鄒廷威、姜妍主演的都市歡脫治癒輕喜劇。講述了吳憂領證當天因為車禍放了男友鴿子，男友分手出國，吳憂傷心寄情工作，卻與「大魔王」何西亞擦出火花，兩人鬥智斗勇成為歡喜冤家的故事。</description>
-  </programme>
-  <programme channel="litv-xinchuang12" start="20260612200000 +0800" stop="20260612210000 +0800">
-    <title>加油吧 ! 河娜#20</title>
-    <description>講述是以補習街為背景，「獨自飲酒的男女」為主題的電視劇描述看明星講師的臉色，為補習班業績戰戰兢兢的老闆，以及為吸引學生而花招百出的講師們之間故事。</description>
-  </programme>
-  <programme channel="litv-xinchuang12" start="20260612210000 +0800" stop="20260612220000 +0800">
-    <title>風起西州#12</title>
-    <description>風起霓裳續集。庫狄琉璃與裴行儉婚後琴瑟和鳴，夫唱婦隨。後裴行儉被貶。琉璃陪伴丈夫遠赴西州上任，與當地世子麴崇裕相識的故事。</description>
-  </programme>
-  <programme channel="litv-xinchuang12" start="20260612220000 +0800" stop="20260612230000 +0800">
-    <title>好好生活#39</title>
-    <description>《好好生活》由陳銘章、陳世嶧執導，林雨申、蔡文靜領銜主演，鄒廷威、姜妍主演的都市歡脫治癒輕喜劇。講述了吳憂領證當天因為車禍放了男友鴿子，男友分手出國，吳憂傷心寄情工作，卻與「大魔王」何西亞擦出火花，兩人鬥智斗勇成為歡喜冤家的故事。</description>
-  </programme>
-  <programme channel="litv-xinchuang12" start="20260612230000 +0800" stop="20260613000000 +0800">
-    <title>好好生活#40(完)</title>
-    <description>《好好生活》由陳銘章、陳世嶧執導，林雨申、蔡文靜領銜主演，鄒廷威、姜妍主演的都市歡脫治癒輕喜劇。講述了吳憂領證當天因為車禍放了男友鴿子，男友分手出國，吳憂傷心寄情工作，卻與「大魔王」何西亞擦出火花，兩人鬥智斗勇成為歡喜冤家的故事。</description>
-  </programme>
-  <programme channel="litv-xinchuang12" start="20260613000000 +0800" stop="20260613010000 +0800">
-    <title>完全省錢戀愛手冊#14</title>
-    <description>不追求戀愛的超節儉上班族簡可可（郭書瑤）卻碰上花錢如流水的金牌業務王海闊（林子閎）。而可可的好友孫佳莉（陳語安）這位夢想創業的小資女，卻遇上呆萌大學生李元崇（黃柏峰），價值觀天差地別的他們該如何在愛情與麵包中做選擇…</description>
-  </programme>
   <programme channel="litv-xinchuang12" start="20260613010000 +0800" stop="20260613020000 +0800">
     <title>完全省錢戀愛手冊#15</title>
     <description>不追求戀愛的超節儉上班族簡可可（郭書瑤）卻碰上花錢如流水的金牌業務王海闊（林子閎）。而可可的好友孫佳莉（陳語安）這位夢想創業的小資女，卻遇上呆萌大學生李元崇（黃柏峰），價值觀天差地別的他們該如何在愛情與麵包中做選擇…</description>
@@ -43431,101 +43407,105 @@
     <title>加油吧 ! 河娜#21</title>
     <description>講述是以補習街為背景，「獨自飲酒的男女」為主題的電視劇描述看明星講師的臉色，為補習班業績戰戰兢兢的老闆，以及為吸引學生而花招百出的講師們之間故事。</description>
   </programme>
+  <programme channel="litv-xinchuang12" start="20260616160000 +0800" stop="20260616170000 +0800">
+    <title>被告人#23</title>
+    <description>首爾中央地方檢察廳王牌檢察官朴政宇，和他的妻子一同慶祝女兒夏燕六歲生日的這一夜，他變成司法史上第一位殺死妻女的嫌犯檢察官，更糟糕的是他對於這一連串的事情都失去記憶…那一夜到底發生了什麼事呢？</description>
+  </programme>
+  <programme channel="litv-xinchuang12" start="20260616170000 +0800" stop="20260616180000 +0800">
+    <title>被告人#24</title>
+    <description>首爾中央地方檢察廳王牌檢察官朴政宇，和他的妻子一同慶祝女兒夏燕六歲生日的這一夜，他變成司法史上第一位殺死妻女的嫌犯檢察官，更糟糕的是他對於這一連串的事情都失去記憶…那一夜到底發生了什麼事呢？</description>
+  </programme>
+  <programme channel="litv-xinchuang12" start="20260616180000 +0800" stop="20260616190000 +0800">
+    <title>戀人的謊言#3</title>
+    <description>舒菲和林菲從小一起長大，不僅是好姐妹更是好閨蜜。奇然學長喜歡林菲，但林菲對奇然沒有感覺，暗戀奇然的舒菲悄悄借用林菲的名字和奇然書信來往，畢業後，姐妹兩個同事同時進入購物電視台上班，意外發現自己的上司居然是學長奇然，奇然依然鍾情於林菲，舒菲暗戀的心情破碎...</description>
+  </programme>
+  <programme channel="litv-xinchuang12" start="20260616190000 +0800" stop="20260616200000 +0800">
+    <title>戀人的謊言#4</title>
+    <description>舒菲和林菲從小一起長大，不僅是好姐妹更是好閨蜜。奇然學長喜歡林菲，但林菲對奇然沒有感覺，暗戀奇然的舒菲悄悄借用林菲的名字和奇然書信來往，畢業後，姐妹兩個同事同時進入購物電視台上班，意外發現自己的上司居然是學長奇然，奇然依然鍾情於林菲，舒菲暗戀的心情破碎...</description>
+  </programme>
+  <programme channel="litv-xinchuang12" start="20260616200000 +0800" stop="20260616210000 +0800">
+    <title>加油吧 ! 河娜#22</title>
+    <description>講述是以補習街為背景，「獨自飲酒的男女」為主題的電視劇描述看明星講師的臉色，為補習班業績戰戰兢兢的老闆，以及為吸引學生而花招百出的講師們之間故事。</description>
+  </programme>
+  <programme channel="litv-xinchuang12" start="20260616210000 +0800" stop="20260616220000 +0800">
+    <title>風起西州#14</title>
+    <description>風起霓裳續集。庫狄琉璃與裴行儉婚後琴瑟和鳴，夫唱婦隨。後裴行儉被貶。琉璃陪伴丈夫遠赴西州上任，與當地世子麴崇裕相識的故事。</description>
+  </programme>
+  <programme channel="litv-xinchuang12" start="20260616220000 +0800" stop="20260616230000 +0800">
+    <title>戀人的謊言#3</title>
+    <description>舒菲和林菲從小一起長大，不僅是好姐妹更是好閨蜜。奇然學長喜歡林菲，但林菲對奇然沒有感覺，暗戀奇然的舒菲悄悄借用林菲的名字和奇然書信來往，畢業後，姐妹兩個同事同時進入購物電視台上班，意外發現自己的上司居然是學長奇然，奇然依然鍾情於林菲，舒菲暗戀的心情破碎...</description>
+  </programme>
+  <programme channel="litv-xinchuang12" start="20260616230000 +0800" stop="20260617000000 +0800">
+    <title>戀人的謊言#4</title>
+    <description>舒菲和林菲從小一起長大，不僅是好姐妹更是好閨蜜。奇然學長喜歡林菲，但林菲對奇然沒有感覺，暗戀奇然的舒菲悄悄借用林菲的名字和奇然書信來往，畢業後，姐妹兩個同事同時進入購物電視台上班，意外發現自己的上司居然是學長奇然，奇然依然鍾情於林菲，舒菲暗戀的心情破碎...</description>
+  </programme>
+  <programme channel="litv-xinchuang12" start="20260617000000 +0800" stop="20260617010000 +0800">
+    <title>被告人#23</title>
+    <description>首爾中央地方檢察廳王牌檢察官朴政宇，和他的妻子一同慶祝女兒夏燕六歲生日的這一夜，他變成司法史上第一位殺死妻女的嫌犯檢察官，更糟糕的是他對於這一連串的事情都失去記憶…那一夜到底發生了什麼事呢？</description>
+  </programme>
+  <programme channel="litv-xinchuang12" start="20260617010000 +0800" stop="20260617020000 +0800">
+    <title>被告人#24</title>
+    <description>首爾中央地方檢察廳王牌檢察官朴政宇，和他的妻子一同慶祝女兒夏燕六歲生日的這一夜，他變成司法史上第一位殺死妻女的嫌犯檢察官，更糟糕的是他對於這一連串的事情都失去記憶…那一夜到底發生了什麼事呢？</description>
+  </programme>
+  <programme channel="litv-xinchuang12" start="20260617020000 +0800" stop="20260617030000 +0800">
+    <title>加油吧 ! 河娜#22</title>
+    <description>講述是以補習街為背景，「獨自飲酒的男女」為主題的電視劇描述看明星講師的臉色，為補習班業績戰戰兢兢的老闆，以及為吸引學生而花招百出的講師們之間故事。</description>
+  </programme>
+  <programme channel="litv-xinchuang12" start="20260617030000 +0800" stop="20260617040000 +0800">
+    <title>風起西州#14</title>
+    <description>風起霓裳續集。庫狄琉璃與裴行儉婚後琴瑟和鳴，夫唱婦隨。後裴行儉被貶。琉璃陪伴丈夫遠赴西州上任，與當地世子麴崇裕相識的故事。</description>
+  </programme>
+  <programme channel="litv-xinchuang12" start="20260617040000 +0800" stop="20260617050000 +0800">
+    <title>被告人#23</title>
+    <description>首爾中央地方檢察廳王牌檢察官朴政宇，和他的妻子一同慶祝女兒夏燕六歲生日的這一夜，他變成司法史上第一位殺死妻女的嫌犯檢察官，更糟糕的是他對於這一連串的事情都失去記憶…那一夜到底發生了什麼事呢？</description>
+  </programme>
+  <programme channel="litv-xinchuang12" start="20260617050000 +0800" stop="20260617060000 +0800">
+    <title>被告人#24</title>
+    <description>首爾中央地方檢察廳王牌檢察官朴政宇，和他的妻子一同慶祝女兒夏燕六歲生日的這一夜，他變成司法史上第一位殺死妻女的嫌犯檢察官，更糟糕的是他對於這一連串的事情都失去記憶…那一夜到底發生了什麼事呢？</description>
+  </programme>
+  <programme channel="litv-xinchuang12" start="20260617060000 +0800" stop="20260617070000 +0800">
+    <title>戀人的謊言#3</title>
+    <description>舒菲和林菲從小一起長大，不僅是好姐妹更是好閨蜜。奇然學長喜歡林菲，但林菲對奇然沒有感覺，暗戀奇然的舒菲悄悄借用林菲的名字和奇然書信來往，畢業後，姐妹兩個同事同時進入購物電視台上班，意外發現自己的上司居然是學長奇然，奇然依然鍾情於林菲，舒菲暗戀的心情破碎...</description>
+  </programme>
+  <programme channel="litv-xinchuang12" start="20260617070000 +0800" stop="20260617080000 +0800">
+    <title>戀人的謊言#4</title>
+    <description>舒菲和林菲從小一起長大，不僅是好姐妹更是好閨蜜。奇然學長喜歡林菲，但林菲對奇然沒有感覺，暗戀奇然的舒菲悄悄借用林菲的名字和奇然書信來往，畢業後，姐妹兩個同事同時進入購物電視台上班，意外發現自己的上司居然是學長奇然，奇然依然鍾情於林菲，舒菲暗戀的心情破碎...</description>
+  </programme>
+  <programme channel="litv-xinchuang12" start="20260617080000 +0800" stop="20260617090000 +0800">
+    <title>加油吧 ! 河娜#22</title>
+    <description>講述是以補習街為背景，「獨自飲酒的男女」為主題的電視劇描述看明星講師的臉色，為補習班業績戰戰兢兢的老闆，以及為吸引學生而花招百出的講師們之間故事。</description>
+  </programme>
+  <programme channel="litv-xinchuang12" start="20260617090000 +0800" stop="20260617100000 +0800">
+    <title>被告人#23</title>
+    <description>首爾中央地方檢察廳王牌檢察官朴政宇，和他的妻子一同慶祝女兒夏燕六歲生日的這一夜，他變成司法史上第一位殺死妻女的嫌犯檢察官，更糟糕的是他對於這一連串的事情都失去記憶…那一夜到底發生了什麼事呢？</description>
+  </programme>
+  <programme channel="litv-xinchuang12" start="20260617100000 +0800" stop="20260617110000 +0800">
+    <title>被告人#24</title>
+    <description>首爾中央地方檢察廳王牌檢察官朴政宇，和他的妻子一同慶祝女兒夏燕六歲生日的這一夜，他變成司法史上第一位殺死妻女的嫌犯檢察官，更糟糕的是他對於這一連串的事情都失去記憶…那一夜到底發生了什麼事呢？</description>
+  </programme>
+  <programme channel="litv-xinchuang12" start="20260617110000 +0800" stop="20260617120000 +0800">
+    <title>風起西州#14</title>
+    <description>風起霓裳續集。庫狄琉璃與裴行儉婚後琴瑟和鳴，夫唱婦隨。後裴行儉被貶。琉璃陪伴丈夫遠赴西州上任，與當地世子麴崇裕相識的故事。</description>
+  </programme>
+  <programme channel="litv-xinchuang12" start="20260617120000 +0800" stop="20260617130000 +0800">
+    <title>戀人的謊言#3</title>
+    <description>舒菲和林菲從小一起長大，不僅是好姐妹更是好閨蜜。奇然學長喜歡林菲，但林菲對奇然沒有感覺，暗戀奇然的舒菲悄悄借用林菲的名字和奇然書信來往，畢業後，姐妹兩個同事同時進入購物電視台上班，意外發現自己的上司居然是學長奇然，奇然依然鍾情於林菲，舒菲暗戀的心情破碎...</description>
+  </programme>
+  <programme channel="litv-xinchuang12" start="20260617130000 +0800" stop="20260617140000 +0800">
+    <title>戀人的謊言#4</title>
+    <description>舒菲和林菲從小一起長大，不僅是好姐妹更是好閨蜜。奇然學長喜歡林菲，但林菲對奇然沒有感覺，暗戀奇然的舒菲悄悄借用林菲的名字和奇然書信來往，畢業後，姐妹兩個同事同時進入購物電視台上班，意外發現自己的上司居然是學長奇然，奇然依然鍾情於林菲，舒菲暗戀的心情破碎...</description>
+  </programme>
+  <programme channel="litv-xinchuang12" start="20260617140000 +0800" stop="20260617150000 +0800">
+    <title>加油吧 ! 河娜#21</title>
+    <description>講述是以補習街為背景，「獨自飲酒的男女」為主題的電視劇描述看明星講師的臉色，為補習班業績戰戰兢兢的老闆，以及為吸引學生而花招百出的講師們之間故事。</description>
+  </programme>
+  <programme channel="litv-xinchuang12" start="20260617150000 +0800" stop="20260617160000 +0800">
+    <title>加油吧 ! 河娜#22</title>
+    <description>講述是以補習街為背景，「獨自飲酒的男女」為主題的電視劇描述看明星講師的臉色，為補習班業績戰戰兢兢的老闆，以及為吸引學生而花招百出的講師們之間故事。</description>
+  </programme>
   <channel id="litv-xinchuang11">
     <display-name>龍華日韓台</display-name>
   </channel>
-  <programme channel="litv-xinchuang11" start="20260612020000 +0800" stop="20260612030000 +0800">
-    <title>幽靈醫生#14</title>
-    <description>醫學院教授兼胸腔外科名醫車英民（Rain）醫術高超卻個性勢利，與手術理論滿分的暖男住院醫高勝卓（金汎）處處看不對眼。沒想到英民卻忽然車禍昏迷而靈魂出竅，附身到勝卓身上變成幽靈醫生，互相嫌棄的兩人只得共用一具身體…</description>
-  </programme>
-  <programme channel="litv-xinchuang11" start="20260612030000 +0800" stop="20260612040000 +0800">
-    <title>你的世界我們懂#6</title>
-    <description>鄭堅強和李家雲育有三個孩子，長女天希、次子天偉和幼子天才。天才小時候被驗出是智障兒，夫妻兩人歷盡艱苦，把孩子拉拔長大。天希和天偉也幫忙父母照顧弟弟。這天天才走進一家金店，遞上字條指自己要搶劫……。</description>
-  </programme>
-  <programme channel="litv-xinchuang11" start="20260612040000 +0800" stop="20260612050000 +0800">
-    <title>白夜童話#96</title>
-    <description>從小被母親拋棄的白夜（朴荷娜）與哥哥白英俊相依為命，她雖然和導演張和嚴（姜恩卓）兩情相悅，卻為了向生母英荷復仇，而決定嫁給英荷的繼子趙羅丹（金民修）。於是，一場以電視台藝能局為背景，四個家庭相互牽扯的復仇劇就此展開…</description>
-  </programme>
-  <programme channel="litv-xinchuang11" start="20260612050000 +0800" stop="20260612060000 +0800">
-    <title>白夜童話#97</title>
-    <description>從小被母親拋棄的白夜（朴荷娜）與哥哥白英俊相依為命，她雖然和導演張和嚴（姜恩卓）兩情相悅，卻為了向生母英荷復仇，而決定嫁給英荷的繼子趙羅丹（金民修）。於是，一場以電視台藝能局為背景，四個家庭相互牽扯的復仇劇就此展開…</description>
-  </programme>
-  <programme channel="litv-xinchuang11" start="20260612060000 +0800" stop="20260612070000 +0800">
-    <title>不屈的兒媳#52</title>
-    <description>滿月堂是政府認證具有三百年歷史的傳統宗族，但這個家庭有個共同的遺憾：男人都不長命！尤其是長孫洪玖與英心結婚十年卻膝下無子女就車禍身亡，滿月堂的女人們是該守著三百年的大宅院終老一生？還是應該勇於追求屬於自己的幸福？</description>
-  </programme>
-  <programme channel="litv-xinchuang11" start="20260612070000 +0800" stop="20260612080000 +0800">
-    <title>不屈的兒媳#53</title>
-    <description>滿月堂是政府認證具有三百年歷史的傳統宗族，但這個家庭有個共同的遺憾：男人都不長命！尤其是長孫洪玖與英心結婚十年卻膝下無子女就車禍身亡，滿月堂的女人們是該守著三百年的大宅院終老一生？還是應該勇於追求屬於自己的幸福？</description>
-  </programme>
-  <programme channel="litv-xinchuang11" start="20260612080000 +0800" stop="20260612090000 +0800">
-    <title>白夜童話#96</title>
-    <description>從小被母親拋棄的白夜（朴荷娜）與哥哥白英俊相依為命，她雖然和導演張和嚴（姜恩卓）兩情相悅，卻為了向生母英荷復仇，而決定嫁給英荷的繼子趙羅丹（金民修）。於是，一場以電視台藝能局為背景，四個家庭相互牽扯的復仇劇就此展開…</description>
-  </programme>
-  <programme channel="litv-xinchuang11" start="20260612090000 +0800" stop="20260612100000 +0800">
-    <title>白夜童話#97</title>
-    <description>從小被母親拋棄的白夜（朴荷娜）與哥哥白英俊相依為命，她雖然和導演張和嚴（姜恩卓）兩情相悅，卻為了向生母英荷復仇，而決定嫁給英荷的繼子趙羅丹（金民修）。於是，一場以電視台藝能局為背景，四個家庭相互牽扯的復仇劇就此展開…</description>
-  </programme>
-  <programme channel="litv-xinchuang11" start="20260612100000 +0800" stop="20260612110000 +0800">
-    <title>幽靈醫生#13</title>
-    <description>醫學院教授兼胸腔外科名醫車英民（Rain）醫術高超卻個性勢利，與手術理論滿分的暖男住院醫高勝卓（金汎）處處看不對眼。沒想到英民卻忽然車禍昏迷而靈魂出竅，附身到勝卓身上變成幽靈醫生，互相嫌棄的兩人只得共用一具身體…</description>
-  </programme>
-  <programme channel="litv-xinchuang11" start="20260612110000 +0800" stop="20260612120000 +0800">
-    <title>幽靈醫生#14</title>
-    <description>醫學院教授兼胸腔外科名醫車英民（Rain）醫術高超卻個性勢利，與手術理論滿分的暖男住院醫高勝卓（金汎）處處看不對眼。沒想到英民卻忽然車禍昏迷而靈魂出竅，附身到勝卓身上變成幽靈醫生，互相嫌棄的兩人只得共用一具身體…</description>
-  </programme>
-  <programme channel="litv-xinchuang11" start="20260612120000 +0800" stop="20260612130000 +0800">
-    <title>不屈的兒媳#52</title>
-    <description>滿月堂是政府認證具有三百年歷史的傳統宗族，但這個家庭有個共同的遺憾：男人都不長命！尤其是長孫洪玖與英心結婚十年卻膝下無子女就車禍身亡，滿月堂的女人們是該守著三百年的大宅院終老一生？還是應該勇於追求屬於自己的幸福？</description>
-  </programme>
-  <programme channel="litv-xinchuang11" start="20260612130000 +0800" stop="20260612140000 +0800">
-    <title>不屈的兒媳#53</title>
-    <description>滿月堂是政府認證具有三百年歷史的傳統宗族，但這個家庭有個共同的遺憾：男人都不長命！尤其是長孫洪玖與英心結婚十年卻膝下無子女就車禍身亡，滿月堂的女人們是該守著三百年的大宅院終老一生？還是應該勇於追求屬於自己的幸福？</description>
-  </programme>
-  <programme channel="litv-xinchuang11" start="20260612140000 +0800" stop="20260612150000 +0800">
-    <title>味之道#32</title>
-    <description>廚神秦奮幼年逃避戰亂來到新加坡，艱苦奮鬥後繼承家族餐館「無雙樓」。他收下四名徒弟南花、西紅、東白和北發，並傳授他們各自的獨門廚藝。南花因意外昏迷，餐飲集團「花花食界」由其妻子陳惠瑛掌管，二兒子若風最終成為總裁。</description>
-  </programme>
-  <programme channel="litv-xinchuang11" start="20260612150000 +0800" stop="20260612160000 +0800">
-    <title>味之道#33</title>
-    <description>廚神秦奮幼年逃避戰亂來到新加坡，艱苦奮鬥後繼承家族餐館「無雙樓」。他收下四名徒弟南花、西紅、東白和北發，並傳授他們各自的獨門廚藝。南花因意外昏迷，餐飲集團「花花食界」由其妻子陳惠瑛掌管，二兒子若風最終成為總裁。</description>
-  </programme>
-  <programme channel="litv-xinchuang11" start="20260612160000 +0800" stop="20260612170000 +0800">
-    <title>你的世界我們懂#7</title>
-    <description>鄭堅強和李家雲育有三個孩子，長女天希、次子天偉和幼子天才。天才小時候被驗出是智障兒，夫妻兩人歷盡艱苦，把孩子拉拔長大。天希和天偉也幫忙父母照顧弟弟。這天天才走進一家金店，遞上字條指自己要搶劫……。</description>
-  </programme>
-  <programme channel="litv-xinchuang11" start="20260612170000 +0800" stop="20260612180000 +0800">
-    <title>白夜童話#98</title>
-    <description>從小被母親拋棄的白夜（朴荷娜）與哥哥白英俊相依為命，她雖然和導演張和嚴（姜恩卓）兩情相悅，卻為了向生母英荷復仇，而決定嫁給英荷的繼子趙羅丹（金民修）。於是，一場以電視台藝能局為背景，四個家庭相互牽扯的復仇劇就此展開…</description>
-  </programme>
-  <programme channel="litv-xinchuang11" start="20260612180000 +0800" stop="20260612190000 +0800">
-    <title>白夜童話#99</title>
-    <description>從小被母親拋棄的白夜（朴荷娜）與哥哥白英俊相依為命，她雖然和導演張和嚴（姜恩卓）兩情相悅，卻為了向生母英荷復仇，而決定嫁給英荷的繼子趙羅丹（金民修）。於是，一場以電視台藝能局為背景，四個家庭相互牽扯的復仇劇就此展開…</description>
-  </programme>
-  <programme channel="litv-xinchuang11" start="20260612190000 +0800" stop="20260612200000 +0800">
-    <title>幽靈醫生#15</title>
-    <description>醫學院教授兼胸腔外科名醫車英民（Rain）醫術高超卻個性勢利，與手術理論滿分的暖男住院醫高勝卓（金汎）處處看不對眼。沒想到英民卻忽然車禍昏迷而靈魂出竅，附身到勝卓身上變成幽靈醫生，互相嫌棄的兩人只得共用一具身體…</description>
-  </programme>
-  <programme channel="litv-xinchuang11" start="20260612200000 +0800" stop="20260612210000 +0800">
-    <title>不屈的兒媳#54</title>
-    <description>滿月堂是政府認證具有三百年歷史的傳統宗族，但這個家庭有個共同的遺憾：男人都不長命！尤其是長孫洪玖與英心結婚十年卻膝下無子女就車禍身亡，滿月堂的女人們是該守著三百年的大宅院終老一生？還是應該勇於追求屬於自己的幸福？</description>
-  </programme>
-  <programme channel="litv-xinchuang11" start="20260612210000 +0800" stop="20260612220000 +0800">
-    <title>不屈的兒媳#55</title>
-    <description>滿月堂是政府認證具有三百年歷史的傳統宗族，但這個家庭有個共同的遺憾：男人都不長命！尤其是長孫洪玖與英心結婚十年卻膝下無子女就車禍身亡，滿月堂的女人們是該守著三百年的大宅院終老一生？還是應該勇於追求屬於自己的幸福？</description>
-  </programme>
-  <programme channel="litv-xinchuang11" start="20260612220000 +0800" stop="20260612230000 +0800">
-    <title>幽靈醫生#15</title>
-    <description>醫學院教授兼胸腔外科名醫車英民（Rain）醫術高超卻個性勢利，與手術理論滿分的暖男住院醫高勝卓（金汎）處處看不對眼。沒想到英民卻忽然車禍昏迷而靈魂出竅，附身到勝卓身上變成幽靈醫生，互相嫌棄的兩人只得共用一具身體…</description>
-  </programme>
-  <programme channel="litv-xinchuang11" start="20260612230000 +0800" stop="20260613000000 +0800">
-    <title>你的世界我們懂#7</title>
-    <description>鄭堅強和李家雲育有三個孩子，長女天希、次子天偉和幼子天才。天才小時候被驗出是智障兒，夫妻兩人歷盡艱苦，把孩子拉拔長大。天希和天偉也幫忙父母照顧弟弟。這天天才走進一家金店，遞上字條指自己要搶劫……。</description>
-  </programme>
-  <programme channel="litv-xinchuang11" start="20260613000000 +0800" stop="20260613010000 +0800">
-    <title>粉紅色口紅#52</title>
-    <description>佳恩（朴恩惠）是個像百合般純潔的女人，但卻在感情路上不順遂。她經歷了三個男人、三段婚姻，在尋找愛情的過程中，她是否能幸福並得到真愛？</description>
-  </programme>
   <programme channel="litv-xinchuang11" start="20260613010000 +0800" stop="20260613020000 +0800">
     <title>粉紅色口紅#53</title>
     <description>佳恩（朴恩惠）是個像百合般純潔的女人，但卻在感情路上不順遂。她經歷了三個男人、三段婚姻，在尋找愛情的過程中，她是否能幸福並得到真愛？</description>
@@ -43898,49 +43878,105 @@
     <title>味之道#37</title>
     <description>廚神秦奮幼年逃避戰亂來到新加坡，艱苦奮鬥後繼承家族餐館「無雙樓」。他收下四名徒弟南花、西紅、東白和北發，並傳授他們各自的獨門廚藝。南花因意外昏迷，餐飲集團「花花食界」由其妻子陳惠瑛掌管，二兒子若風最終成為總裁。</description>
   </programme>
+  <programme channel="litv-xinchuang11" start="20260616160000 +0800" stop="20260616170000 +0800">
+    <title>你的世界我們懂#9</title>
+    <description>鄭堅強和李家雲育有三個孩子，長女天希、次子天偉和幼子天才。天才小時候被驗出是智障兒，夫妻兩人歷盡艱苦，把孩子拉拔長大。天希和天偉也幫忙父母照顧弟弟。這天天才走進一家金店，遞上字條指自己要搶劫……。</description>
+  </programme>
+  <programme channel="litv-xinchuang11" start="20260616170000 +0800" stop="20260616180000 +0800">
+    <title>白夜童話#102</title>
+    <description>從小被母親拋棄的白夜（朴荷娜）與哥哥白英俊相依為命，她雖然和導演張和嚴（姜恩卓）兩情相悅，卻為了向生母英荷復仇，而決定嫁給英荷的繼子趙羅丹（金民修）。於是，一場以電視台藝能局為背景，四個家庭相互牽扯的復仇劇就此展開…</description>
+  </programme>
+  <programme channel="litv-xinchuang11" start="20260616180000 +0800" stop="20260616190000 +0800">
+    <title>白夜童話#103(完)</title>
+    <description>從小被母親拋棄的白夜（朴荷娜）與哥哥白英俊相依為命，她雖然和導演張和嚴（姜恩卓）兩情相悅，卻為了向生母英荷復仇，而決定嫁給英荷的繼子趙羅丹（金民修）。於是，一場以電視台藝能局為背景，四個家庭相互牽扯的復仇劇就此展開…</description>
+  </programme>
+  <programme channel="litv-xinchuang11" start="20260616190000 +0800" stop="20260616200000 +0800">
+    <title>幽靈醫生#17</title>
+    <description>醫學院教授兼胸腔外科名醫車英民（Rain）醫術高超卻個性勢利，與手術理論滿分的暖男住院醫高勝卓（金汎）處處看不對眼。沒想到英民卻忽然車禍昏迷而靈魂出竅，附身到勝卓身上變成幽靈醫生，互相嫌棄的兩人只得共用一具身體…</description>
+  </programme>
+  <programme channel="litv-xinchuang11" start="20260616200000 +0800" stop="20260616210000 +0800">
+    <title>不屈的兒媳#58</title>
+    <description>滿月堂是政府認證具有三百年歷史的傳統宗族，但這個家庭有個共同的遺憾：男人都不長命！尤其是長孫洪玖與英心結婚十年卻膝下無子女就車禍身亡，滿月堂的女人們是該守著三百年的大宅院終老一生？還是應該勇於追求屬於自己的幸福？</description>
+  </programme>
+  <programme channel="litv-xinchuang11" start="20260616210000 +0800" stop="20260616220000 +0800">
+    <title>不屈的兒媳#59</title>
+    <description>滿月堂是政府認證具有三百年歷史的傳統宗族，但這個家庭有個共同的遺憾：男人都不長命！尤其是長孫洪玖與英心結婚十年卻膝下無子女就車禍身亡，滿月堂的女人們是該守著三百年的大宅院終老一生？還是應該勇於追求屬於自己的幸福？</description>
+  </programme>
+  <programme channel="litv-xinchuang11" start="20260616220000 +0800" stop="20260616230000 +0800">
+    <title>幽靈醫生#17</title>
+    <description>醫學院教授兼胸腔外科名醫車英民（Rain）醫術高超卻個性勢利，與手術理論滿分的暖男住院醫高勝卓（金汎）處處看不對眼。沒想到英民卻忽然車禍昏迷而靈魂出竅，附身到勝卓身上變成幽靈醫生，互相嫌棄的兩人只得共用一具身體…</description>
+  </programme>
+  <programme channel="litv-xinchuang11" start="20260616230000 +0800" stop="20260617000000 +0800">
+    <title>你的世界我們懂#9</title>
+    <description>鄭堅強和李家雲育有三個孩子，長女天希、次子天偉和幼子天才。天才小時候被驗出是智障兒，夫妻兩人歷盡艱苦，把孩子拉拔長大。天希和天偉也幫忙父母照顧弟弟。這天天才走進一家金店，遞上字條指自己要搶劫……。</description>
+  </programme>
+  <programme channel="litv-xinchuang11" start="20260617000000 +0800" stop="20260617010000 +0800">
+    <title>味之道#36</title>
+    <description>廚神秦奮幼年逃避戰亂來到新加坡，艱苦奮鬥後繼承家族餐館「無雙樓」。他收下四名徒弟南花、西紅、東白和北發，並傳授他們各自的獨門廚藝。南花因意外昏迷，餐飲集團「花花食界」由其妻子陳惠瑛掌管，二兒子若風最終成為總裁。</description>
+  </programme>
+  <programme channel="litv-xinchuang11" start="20260617010000 +0800" stop="20260617020000 +0800">
+    <title>味之道#37</title>
+    <description>廚神秦奮幼年逃避戰亂來到新加坡，艱苦奮鬥後繼承家族餐館「無雙樓」。他收下四名徒弟南花、西紅、東白和北發，並傳授他們各自的獨門廚藝。南花因意外昏迷，餐飲集團「花花食界」由其妻子陳惠瑛掌管，二兒子若風最終成為總裁。</description>
+  </programme>
+  <programme channel="litv-xinchuang11" start="20260617020000 +0800" stop="20260617030000 +0800">
+    <title>幽靈醫生#17</title>
+    <description>醫學院教授兼胸腔外科名醫車英民（Rain）醫術高超卻個性勢利，與手術理論滿分的暖男住院醫高勝卓（金汎）處處看不對眼。沒想到英民卻忽然車禍昏迷而靈魂出竅，附身到勝卓身上變成幽靈醫生，互相嫌棄的兩人只得共用一具身體…</description>
+  </programme>
+  <programme channel="litv-xinchuang11" start="20260617030000 +0800" stop="20260617040000 +0800">
+    <title>你的世界我們懂#9</title>
+    <description>鄭堅強和李家雲育有三個孩子，長女天希、次子天偉和幼子天才。天才小時候被驗出是智障兒，夫妻兩人歷盡艱苦，把孩子拉拔長大。天希和天偉也幫忙父母照顧弟弟。這天天才走進一家金店，遞上字條指自己要搶劫……。</description>
+  </programme>
+  <programme channel="litv-xinchuang11" start="20260617040000 +0800" stop="20260617050000 +0800">
+    <title>白夜童話#102</title>
+    <description>從小被母親拋棄的白夜（朴荷娜）與哥哥白英俊相依為命，她雖然和導演張和嚴（姜恩卓）兩情相悅，卻為了向生母英荷復仇，而決定嫁給英荷的繼子趙羅丹（金民修）。於是，一場以電視台藝能局為背景，四個家庭相互牽扯的復仇劇就此展開…</description>
+  </programme>
+  <programme channel="litv-xinchuang11" start="20260617050000 +0800" stop="20260617060000 +0800">
+    <title>白夜童話#103(完)</title>
+    <description>從小被母親拋棄的白夜（朴荷娜）與哥哥白英俊相依為命，她雖然和導演張和嚴（姜恩卓）兩情相悅，卻為了向生母英荷復仇，而決定嫁給英荷的繼子趙羅丹（金民修）。於是，一場以電視台藝能局為背景，四個家庭相互牽扯的復仇劇就此展開…</description>
+  </programme>
+  <programme channel="litv-xinchuang11" start="20260617060000 +0800" stop="20260617070000 +0800">
+    <title>不屈的兒媳#58</title>
+    <description>滿月堂是政府認證具有三百年歷史的傳統宗族，但這個家庭有個共同的遺憾：男人都不長命！尤其是長孫洪玖與英心結婚十年卻膝下無子女就車禍身亡，滿月堂的女人們是該守著三百年的大宅院終老一生？還是應該勇於追求屬於自己的幸福？</description>
+  </programme>
+  <programme channel="litv-xinchuang11" start="20260617070000 +0800" stop="20260617080000 +0800">
+    <title>不屈的兒媳#59</title>
+    <description>滿月堂是政府認證具有三百年歷史的傳統宗族，但這個家庭有個共同的遺憾：男人都不長命！尤其是長孫洪玖與英心結婚十年卻膝下無子女就車禍身亡，滿月堂的女人們是該守著三百年的大宅院終老一生？還是應該勇於追求屬於自己的幸福？</description>
+  </programme>
+  <programme channel="litv-xinchuang11" start="20260617080000 +0800" stop="20260617090000 +0800">
+    <title>白夜童話#102</title>
+    <description>從小被母親拋棄的白夜（朴荷娜）與哥哥白英俊相依為命，她雖然和導演張和嚴（姜恩卓）兩情相悅，卻為了向生母英荷復仇，而決定嫁給英荷的繼子趙羅丹（金民修）。於是，一場以電視台藝能局為背景，四個家庭相互牽扯的復仇劇就此展開…</description>
+  </programme>
+  <programme channel="litv-xinchuang11" start="20260617090000 +0800" stop="20260617100000 +0800">
+    <title>白夜童話#103(完)</title>
+    <description>從小被母親拋棄的白夜（朴荷娜）與哥哥白英俊相依為命，她雖然和導演張和嚴（姜恩卓）兩情相悅，卻為了向生母英荷復仇，而決定嫁給英荷的繼子趙羅丹（金民修）。於是，一場以電視台藝能局為背景，四個家庭相互牽扯的復仇劇就此展開…</description>
+  </programme>
+  <programme channel="litv-xinchuang11" start="20260617100000 +0800" stop="20260617110000 +0800">
+    <title>幽靈醫生#16</title>
+    <description>醫學院教授兼胸腔外科名醫車英民（Rain）醫術高超卻個性勢利，與手術理論滿分的暖男住院醫高勝卓（金汎）處處看不對眼。沒想到英民卻忽然車禍昏迷而靈魂出竅，附身到勝卓身上變成幽靈醫生，互相嫌棄的兩人只得共用一具身體…</description>
+  </programme>
+  <programme channel="litv-xinchuang11" start="20260617110000 +0800" stop="20260617120000 +0800">
+    <title>幽靈醫生#17</title>
+    <description>醫學院教授兼胸腔外科名醫車英民（Rain）醫術高超卻個性勢利，與手術理論滿分的暖男住院醫高勝卓（金汎）處處看不對眼。沒想到英民卻忽然車禍昏迷而靈魂出竅，附身到勝卓身上變成幽靈醫生，互相嫌棄的兩人只得共用一具身體…</description>
+  </programme>
+  <programme channel="litv-xinchuang11" start="20260617120000 +0800" stop="20260617130000 +0800">
+    <title>不屈的兒媳#58</title>
+    <description>滿月堂是政府認證具有三百年歷史的傳統宗族，但這個家庭有個共同的遺憾：男人都不長命！尤其是長孫洪玖與英心結婚十年卻膝下無子女就車禍身亡，滿月堂的女人們是該守著三百年的大宅院終老一生？還是應該勇於追求屬於自己的幸福？</description>
+  </programme>
+  <programme channel="litv-xinchuang11" start="20260617130000 +0800" stop="20260617140000 +0800">
+    <title>不屈的兒媳#59</title>
+    <description>滿月堂是政府認證具有三百年歷史的傳統宗族，但這個家庭有個共同的遺憾：男人都不長命！尤其是長孫洪玖與英心結婚十年卻膝下無子女就車禍身亡，滿月堂的女人們是該守著三百年的大宅院終老一生？還是應該勇於追求屬於自己的幸福？</description>
+  </programme>
+  <programme channel="litv-xinchuang11" start="20260617140000 +0800" stop="20260617150000 +0800">
+    <title>味之道#38</title>
+    <description>廚神秦奮幼年逃避戰亂來到新加坡，艱苦奮鬥後繼承家族餐館「無雙樓」。他收下四名徒弟南花、西紅、東白和北發，並傳授他們各自的獨門廚藝。南花因意外昏迷，餐飲集團「花花食界」由其妻子陳惠瑛掌管，二兒子若風最終成為總裁。</description>
+  </programme>
+  <programme channel="litv-xinchuang11" start="20260617150000 +0800" stop="20260617160000 +0800">
+    <title>味之道#39</title>
+    <description>廚神秦奮幼年逃避戰亂來到新加坡，艱苦奮鬥後繼承家族餐館「無雙樓」。他收下四名徒弟南花、西紅、東白和北發，並傳授他們各自的獨門廚藝。南花因意外昏迷，餐飲集團「花花食界」由其妻子陳惠瑛掌管，二兒子若風最終成為總裁。</description>
+  </programme>
   <channel id="litv-xinchuang03">
     <display-name>龍華電影台</display-name>
   </channel>
-  <programme channel="litv-xinchuang03" start="20260612005000 +0800" stop="20260612031000 +0800">
-    <title>愛的禮讚Salut d'Amour</title>
-    <description>在超市工作脾氣暴躁的爺爺-成七(朴根瀅)住在一座即將進行都市更新的小鎮，每天除了忍受超市老闆長壽不斷遊說他同意城鎮再造計劃外，過著除了工作外毫無變化的獨居生活。直到認識了與單親媽媽-敏貞一同開設花店的奶奶-金妮(尹汝貞)，與金妮一起，他有了許多意想不到的新奇體驗…</description>
-  </programme>
-  <programme channel="litv-xinchuang03" start="20260612031000 +0800" stop="20260612052500 +0800">
-    <title>我們全家不太熟</title>
-    <description>有一天，威力、大胖和啞牙回到家中，發現一個裝滿現金的信封，他們便把錢花光光。此時，好友卡卡帶了一個嬰兒回家，原來那些錢是卡卡準備要付給保母的費用。無力償還的威力、大胖與啞牙，只好硬著頭皮接下保母工作，打工賺奶粉錢，但這也讓他們人生有了其他的體驗。</description>
-  </programme>
-  <programme channel="litv-xinchuang03" start="20260612052500 +0800" stop="20260612080000 +0800">
-    <title>雞排英雄</title>
-    <description>阿華，「台」得很帥的青春少年兄，身為「八八八夜市」的自治會長，他將夜市打理得有聲有色。某個平靜天，八八八的土地無預警被建商收購，建商利用政商勾結，剝奪他們微薄的權利。阿華率領著八八八，誓死奮戰到底…</description>
-  </programme>
-  <programme channel="litv-xinchuang03" start="20260612080000 +0800" stop="20260612101500 +0800">
-    <title>從你的全世界路過I Belonged to You</title>
-    <description>收聽率最差的DJ陳末（鄧超）、全城最傻的豬頭（岳雲鵬），跟全城最純的茅十八，三人每天橫衝直撞，以為可以自在生活，結果都遇到人生最大的轉捩點。陳末與神秘的么雞（張天愛）相遇，豬頭辦了最慘的婚禮，茅十八則面臨悲傷的別離，失去所有的人們弄丟自己的出路，直到聽見來自世界的一段語音…</description>
-  </programme>
-  <programme channel="litv-xinchuang03" start="20260612101500 +0800" stop="20260612123500 +0800">
-    <title>賭俠1999The Conman</title>
-    <description>King（劉德華）頭腦靈活，機智過人，憑著其銳利的眼光、十足的把握在賭場叱吒一時。某日，King在賭場出老千被人拆穿，失手殺人被判入獄，造成妻離子散。出獄後，有化骨龍（張家輝）在其左右，重出江湖…</description>
-  </programme>
-  <programme channel="litv-xinchuang03" start="20260612123500 +0800" stop="20260612143500 +0800">
-    <title>東方禿鷹</title>
-    <description>美軍陸戰隊於越南撤軍時，未能及時毀滅2080號軍火庫，為免引起軍事及政治上的尷尬和損失，美國國防部策劃"東方禿鷹"軍事行動，派遣一批華裔刑事重犯，以居留權和二十萬美元作酬勞，執行摧毀軍火庫的亡命任務…</description>
-  </programme>
-  <programme channel="litv-xinchuang03" start="20260612143500 +0800" stop="20260612162500 +0800">
-    <title>法海-白蛇傳說The Sorcerer and the White Snake</title>
-    <description>驅魔大師法海（李連杰），眼見世間群魔亂舞，以其精深的禪修與法術，懷著替天行道精神，一路降妖伏魔，他為救許仙而與白蛇的纏鬥，則呈現出人生為情而苦、而惱、而傷的貪嗔癡！</description>
-  </programme>
-  <programme channel="litv-xinchuang03" start="20260612162500 +0800" stop="20260612190000 +0800">
-    <title>非誠勿擾2If you are the one 2</title>
-    <description>笑笑對於猛烈追求的秦奮一直無法從「好感」跨入「愛情」，對於愛情充滿疑惑。戀人未滿的窘境得怎麼突破？這對愛情冤家開始玩起「同居試婚」的遊戲，抱持著「熬過了就肯定可以長久」的愛情觀，給彼此丟出最刁鑽的難題，然而他們真的可以通過愛情的考驗嗎？難道應驗了那句愛情名言：分手才是戀愛的開始？</description>
-  </programme>
-  <programme channel="litv-xinchuang03" start="20260612190000 +0800" stop="20260612210000 +0800">
-    <title>警察故事3之超級警察</title>
-    <description>陳家駒（成龍）為使服刑中的豹強，供出國際走私集團的首腦身份，與中國女公安（楊紫瓊）合作。兩人成功取得豹強信任，前往泰國會見集團首腦。首腦見二人身手不凡，十分相識，他們一同前赴吉隆坡營救其被綁架的妻子，可是最後關頭，成、楊臥底身份被揭穿，被逼與犯罪集團展開連番惡鬥。</description>
-  </programme>
-  <programme channel="litv-xinchuang03" start="20260612210000 +0800" stop="20260612232000 +0800">
-    <title>血滴子The Guillotines</title>
-    <description>清朝雍正皇帝（文章）為剷除異己，創立以血滴子為兵器的特種部隊「血滴子」。時至乾隆年間，反清復明組織”牧人”日漸強大，首領「天狼」（黃曉明）更是武功高強、無所不能，嚴重威脅乾隆盛世，血滴子隊長「冷」（阮經天）奉命率領部隊剷除，血滴子天團即將面對史上最強宿敵…</description>
-  </programme>
   <programme channel="litv-xinchuang03" start="20260612232000 +0800" stop="20260613014500 +0800">
     <title>危機航線High Forces</title>
     <description>國際安保專家高皓軍（劉德華）和失明的女兒小軍，搭乘五星級超豪華客機A380的國際首航。豈料，途中遭遇暴徒劫機，無差別射殺的恐怖手段，讓豪華機艙瞬間變成密閉煉獄。劫匪頭目（屈楚蕭）以全機800餘人的生命作為籌碼威脅，小軍的媽媽傅源（劉濤）也身陷危險之中，這場失控的危機該如何化解？</description>
@@ -44111,49 +44147,52 @@
     <title>蘇乞兒之武功蓋世Drunken Fist</title>
     <description>本名蘇燦的蘇乞兒（許明虎）出生於軍官家庭，自幼酷愛武術。一次進京趕武，卻遭禁毒陷害，家破人亡後流浪街頭，靠着乞討和幫人賣菜勉強糊口。清朝末年，「廣東十虎」之一的蘇乞兒決戰斧頭幫與江湖大盜，最後創立門派…</description>
   </programme>
+  <programme channel="litv-xinchuang03" start="20260616143500 +0800" stop="20260616164000 +0800">
+    <title>家有囍事2009</title>
+    <description>余宅一家四口，長女兼女強人余珠（吳君如），抱著女權至上的單身主義，再加上「長女未嫁，弟妹不能嫁娶」家規，令幼男余寶（鄭中基）無法戀愛。他唯有找愛情治療師—情聖曹迪克（古天樂）出馬，希望令余珠相信愛情，卻惹一串瘋狂的三角關係！</description>
+  </programme>
+  <programme channel="litv-xinchuang03" start="20260616164000 +0800" stop="20260616190500 +0800">
+    <title>我吃了那男孩一整年的早餐My Best Friend's Breakfast</title>
+    <description>高二的項微心（李沐）視吃為人生最重要也是最療癒的事，而她第一次跟學長陶宥全（周興哲）相遇，就是在學校的福利社。隔天，她在游泳池邊看見陶宥全想和劈腿的女友分手卻分不掉，遂靈機一動，拿著校花閨蜜方琦然（何思靜）當藉口，讓陶宥全分手成功。那天之後，方琦然開始收到兩份追求者送的示愛早餐…</description>
+  </programme>
+  <programme channel="litv-xinchuang03" start="20260616190500 +0800" stop="20260616210000 +0800">
+    <title>控制Gone Girl</title>
+    <description>尼克（班艾佛列克）在結婚五周年紀念日當天發現妻子愛咪（蘿莎蒙派克）忽然失蹤，媒體因愛咪身分特殊而關注此案，尼克也藉此呼籲大家協尋，但警方卻在他家中發現可疑線索，推論愛咪可能已遭尼克殺害。然而事實的真相卻出乎所有人意外…</description>
+  </programme>
+  <programme channel="litv-xinchuang03" start="20260616210000 +0800" stop="20260616231500 +0800">
+    <title>金不厭詐Everybody has money</title>
+    <description>小毛夫妻在金門開設民宿餐廳，卻碰上新冠肺炎、小三通暫時關閉，於是邀了一幫兄弟來到金門祝賀順便幫忙宣傳，在參觀旅遊時，意外遇上新世代年輕網紅，一群連手機都不太會用的中年大叔們居然誤入了網紅直播。新世代與中世代的碰撞，會鬧出什麼笑話？</description>
+  </programme>
+  <programme channel="litv-xinchuang03" start="20260616231500 +0800" stop="20260617012500 +0800">
+    <title>倩女幽魂2:人間道A Chinese Ghost Story Ⅱ</title>
+    <description>在一朝政混亂，民生困苦的朝代，寧采臣與好友燕赤霞分手後，路過一個市集，無故被陷入獄，幸得通天博士諸葛臥龍相助逃獄成功。後來更與道士一葉知秋相交，但孰不知國師竟是妖精幻化所成。</description>
+  </programme>
+  <programme channel="litv-xinchuang03" start="20260617012500 +0800" stop="20260617032500 +0800">
+    <title>天馬茶房</title>
+    <description>台灣光復前二年，王進勇剛從日本留學返台，經人介紹時常進出當時台北名辯士詹天馬所開《天馬茶房》。在天馬茶房中，當時台北音樂家、美術家時常聚集談天說地、創作歌曲。王進勇在劇團認識當時新人劇團的台柱-林暖玉，兩人一見鍾情。當時台北新畫劇蓬勃發展，一首首韻律動聽，流傳久遠的歌曲逐次發表。</description>
+  </programme>
+  <programme channel="litv-xinchuang03" start="20260617032500 +0800" stop="20260617053000 +0800">
+    <title>頭號嫌犯</title>
+  </programme>
+  <programme channel="litv-xinchuang03" start="20260617053000 +0800" stop="20260617074000 +0800">
+    <title>至尊36計之偷天換日Perfect Exchange</title>
+    <description>神偷文迪（劉德華）潛入魯賓遜家偷取債卷，意外發現女屍一具，原來該女屍竟是Joe的妻子，Joe欲藉此將殺妻罪名嫁禍給文迪。混亂中，文迪之助手肥雞被Joe射殺，而文迪則逃脫。Joe指稱文迪為殺害其妻子的兇手，但文迪使計迫法官將自己判刑三年，並獲得命案的不在場證明…</description>
+  </programme>
+  <programme channel="litv-xinchuang03" start="20260617074000 +0800" stop="20260617095000 +0800">
+    <title>正宗絕代雙驕Handsome Siblings</title>
+    <description>移花宮主（張敏）誓要殺盡惡人谷十大惡人為使命，但十大惡人有恩於丈夫燕南天，夫妻反目。燕攜子小魚兒（劉德華）往惡人谷，並得十大惡人授武予小魚兒，另宮主亦收養一女嬰花無缺（林青霞），彼此立下十八年後再戰之約…</description>
+  </programme>
+  <programme channel="litv-xinchuang03" start="20260617095000 +0800" stop="20260617125000 +0800">
+    <title>痞子英雄首部曲:全面開戰BLACK  WHITE EPISODE 1:THE DAWN OF ASSAULT</title>
+    <description>劇情起始於海港城發生了一起運鈔車搶案，南區分局重案特勤組警員吳英雄（趙又廷）執行逮捕搶案犯人的勤務，但因正義過頭、一辦案即差點砸毀全城，最後因運鈔車翻車爆炸而被媒體評成「搞砸任務」。就在短短36個小時內，海港城將面臨全城毀滅的危機，吳英雄與徐達夫必須聯手力挽狂瀾、解救海港城…</description>
+  </programme>
+  <programme channel="litv-xinchuang03" start="20260617125000 +0800" stop="20260617152500 +0800">
+    <title>痞子英雄:黎明再起Black  White:The Dawn of Justice</title>
+    <description>吳英雄 (趙又廷)，南區分局重案特勤組刑警；陳真 (林更新)，一名聰明理性過了頭的東區分局天才刑警。三個月前的一起離奇死亡案件，陳真發現現場留下的線索都不是真正的證據，而這計劃的開端和公路攻擊事件大有相關...</description>
+  </programme>
   <channel id="litv-xinchuang21">
     <display-name>龍華經典台</display-name>
   </channel>
-  <programme channel="litv-xinchuang21" start="20260612020000 +0800" stop="20260612060000 +0800">
-    <title>收播aka:系統測試</title>
-    <description>目前無播出節目。</description>
-  </programme>
-  <programme channel="litv-xinchuang21" start="20260612060000 +0800" stop="20260612070000 +0800">
-    <title>老子傳奇#33</title>
-    <description>以聖人老子一生的傳奇經歷，和周朝末年亂世之紛爭的百年歷史，作為兩條主線貫穿， 將老子博大精深的道德思想顯化，使人們能從中感悟大道之真諦，體會為人之根本，行事之準則。</description>
-  </programme>
-  <programme channel="litv-xinchuang21" start="20260612070000 +0800" stop="20260612083500 +0800">
-    <title>我是泰灣人</title>
-    <description>泰國新娘金玉原本以為她和國科（安鈞燦）的婚姻，能在神明的祝福下獲得一世的幸福美滿，但不幸的插曲意外發生了，國科被不良少年毆打成殘，兩人的婚姻就像璀璨舞台謝幕一般，融入了黑暗。國科因為身體殘障，無法工作也無法自理生活，金玉便毅然辭掉紡織廠的工作，兼做代工，一心一意地照顧國科…</description>
-  </programme>
-  <programme channel="litv-xinchuang21" start="20260612083500 +0800" stop="20260612114500 +0800">
-    <title>巴頓將軍</title>
-    <description>二戰中期，當德軍元帥沙漠之狐隆美爾橫掃北非之際，為了扭轉局勢，美方指派巴頓接任英美聯軍的美軍指揮官。這位治軍嚴謹特立獨行的將軍，一舉將隆美爾趕出北非，造成德國極大的震撼；然而巴頓藐視命令、為求勝仗不顧部下死活的行事風格，在日後的西西里戰役造成盟軍極大傷亡才獲得慘勝，隨即遭到解職…</description>
-  </programme>
-  <programme channel="litv-xinchuang21" start="20260612114500 +0800" stop="20260612133500 +0800">
-    <title>十兄弟</title>
-    <description>紀巧兒（郭可盈）不小心吞下了10粒晶石後，未婚產下千里眼、順風耳、大力三等各懷異能的十兄弟，而被逐出家門，幸得愛慕巧兒的大蝦（林文龍）收留。然而十兄弟古怪的外貌及超能力，卻不斷地帶來麻煩，還被中央專員及險大帥處處利用…</description>
-  </programme>
-  <programme channel="litv-xinchuang21" start="20260612133500 +0800" stop="20260612154500 +0800">
-    <title>登陸安齊奧</title>
-    <description>1944年二戰盟軍關鍵的義大利戰役鵝卵石行動，決定在羅馬南邊的安齊奧登陸，搶灘卻出乎意料的輕而易舉。負責領軍的萊斯里將軍懷疑有詐，遂命令全軍挖戰壕固守，殊不知德軍早將軍力移出。戰地記者迪克駕吉普車長驅直入羅馬，立刻趕回告知羅馬已是空城，但將軍仍投鼠忌器…</description>
-  </programme>
-  <programme channel="litv-xinchuang21" start="20260612154500 +0800" stop="20260612181000 +0800">
-    <title>四海Only Fools Rush In</title>
-    <description>從小與奶奶相依為命的阿耀（劉昊然），夢想能找一份與所熱愛的摩托車有關的工作。為了追求打工妹周歡頌，阿耀結識了他的哥哥周歡歌，並加入了他的車隊。一次意外讓阿耀與歡頌背負巨款債務，兩人不得不離鄉背井前往城市打拚，渴望互相取暖卻又想各自獨立的兩人，即將迎接一場未知旅途…</description>
-  </programme>
-  <programme channel="litv-xinchuang21" start="20260612181000 +0800" stop="20260612200000 +0800">
-    <title>摩斯拉</title>
-    <description>因為在輻射汙染區發生船難，而意外發現原以為是無人島的神秘小島：嬰兒島。當調查隊在島上遭遇危險時，幸得到兩名身高只有30公分的小美人搭救，然而貪婪的人類卻將之捉走並公開表演。嬰兒島上的守護神摩斯拉前往日本搭救，人類動用原子熱能砲射擊在東京鐵塔下結繭的摩斯拉…</description>
-  </programme>
-  <programme channel="litv-xinchuang21" start="20260612200000 +0800" stop="20260612210000 +0800">
-    <title>老子傳奇#33</title>
-    <description>以聖人老子一生的傳奇經歷，和周朝末年亂世之紛爭的百年歷史，作為兩條主線貫穿， 將老子博大精深的道德思想顯化，使人們能從中感悟大道之真諦，體會為人之根本，行事之準則。</description>
-  </programme>
-  <programme channel="litv-xinchuang21" start="20260612210000 +0800" stop="20260612232500 +0800">
-    <title>非誠勿擾2If you are the one 2</title>
-    <description>笑笑對於猛烈追求的秦奮一直無法從「好感」跨入「愛情」，對於愛情充滿疑惑。戀人未滿的窘境得怎麼突破？這對愛情冤家開始玩起「同居試婚」的遊戲，抱持著「熬過了就肯定可以長久」的愛情觀，給彼此丟出最刁鑽的難題，然而他們真的可以通過愛情的考驗嗎？難道應驗了那句愛情名言：分手才是戀愛的開始？</description>
-  </programme>
   <programme channel="litv-xinchuang21" start="20260612232500 +0800" stop="20260613020000 +0800">
     <title>戰略大作戰</title>
     <description>二戰盟軍在法國南部遭遇德軍頑強抵抗，美軍偵察前鋒部隊擄獲一名德軍情報局上校。為長官背黑鍋而被拔除中尉官階的士兵凱利，灌醉上校後套出德軍藏匿大筆金條要後送柏林，於是開始招兵買馬說服隊上弟兄長官，準備利用即將到來的三天假期，進行一場神不知鬼不覺的敵後奪寶大作戰！</description>
@@ -44310,101 +44349,53 @@
     <title>赤狐書生Soul Snatcher</title>
     <description>清貧書生王子進（陳立農）赴京考試，途中遇上下凡取丹的小狐妖白十三（李現）。白十三刻意親近王子進，目的是騙取王子進的感情，讓王子進甘願捨命，任憑白十三取其丹，這樣才能晉升狐仙。沒想到在取丹路上，一人一狐竟成了莫逆之交。歷盡萬險後，白十三必須在友情與成仙之間作出終極抉擇…</description>
   </programme>
+  <programme channel="litv-xinchuang21" start="20260616150500 +0800" stop="20260616171500 +0800">
+    <title>爆破死亡谷</title>
+    <description>二戰後期，已節節敗退的納粹德國為求反敗為勝，希特勒下令全力發展秘密報復性武器。倫敦方面由於情報有限，軍方於是啟動十字弓計畫，選派具語言與科學專長的人員訓練為特工，潛入德國地下工廠蒐集情資。當一連串的未知武器輪番來襲、造成英國軍民一片恐慌，盟軍的一切希望就寄託在這些特工身上！</description>
+  </programme>
+  <programme channel="litv-xinchuang21" start="20260616171500 +0800" stop="20260616190000 +0800">
+    <title>新少林五祖</title>
+    <description>少林俗家弟子洪熙官（李連杰），因參與對抗朝廷活動，慘遭滿門抄斬，幸得幼子文定避過大難。與子浪跡天涯。八年後，少林至善禪師獲明朝藏寶圖，為防朝廷前來搶奪，將圖交於年幼的五祖背上，並密函通知洪務必護送五祖前往天地會，可惜洪未到，官兵已攻上少林…</description>
+  </programme>
+  <programme channel="litv-xinchuang21" start="20260616190000 +0800" stop="20260616210000 +0800">
+    <title>老子傳奇老子李耳傳</title>
+    <description>以聖人老子一生的傳奇經歷，和周朝末年亂世之紛爭的百年歷史，作為兩條主線貫穿， 將老子博大精深的道德思想顯化，使人們能從中感悟大道之真諦，體會為人之根本，行事之準則。</description>
+  </programme>
+  <programme channel="litv-xinchuang21" start="20260616210000 +0800" stop="20260616225000 +0800">
+    <title>紅色警報</title>
+    <description>1941年12月30日，蘇聯小分隊維亞濟馬慘遭實力懸殊之德軍攻擊，但是這群默默無名的小兵都抱持著死守陣地、報效國家的決心。傳說紅色幽靈在偉大的衛國戰爭中以進入動物身體的方式，讓德國軍隊嚇得魂飛破膽，是每個士兵都希望擁有的力量。</description>
+  </programme>
+  <programme channel="litv-xinchuang21" start="20260616225000 +0800" stop="20260617002500 +0800">
+    <title>地球攻擊命令：哥吉拉對蓋剛</title>
+    <description>怪獸島上沉睡的哥吉拉意外甦醒後，被某兒童樂園人員抓走，原來他們是披著人類軀殼的蟲型外星人，因原生星球汙染而欲佔領地球，並喚來宇宙怪獸王者基多拉與改造生化獸蓋剛大肆破壞；而地球最終守護神哥吉拉也正帶著安基拉斯從怪獸島出發…</description>
+  </programme>
+  <programme channel="litv-xinchuang21" start="20260617002500 +0800" stop="20260617020000 +0800">
+    <title>黃飛鴻對黃飛鴻</title>
+    <description>黃飛鴻（譚詠麟）憑一招“佛山無影腳”戰勝石堅後，本以為可卸下寶芝林傳人及一代宗師的虛名，怎料經過此役，佛山居民視他如神明，更有各地民眾蜂擁而來。某日，省城謝老爺（黃秋生）誠邀黃飛鴻及徒弟等人前赴廣州為災民籌款，鴻初拒絕，但被徒弟豬肉榮(曾志偉) 說服，並由榮假冒鴻，應付一切。</description>
+  </programme>
+  <programme channel="litv-xinchuang21" start="20260617020000 +0800" stop="20260617060000 +0800">
+    <title>收播aka:系統測試</title>
+    <description>目前無播出節目。</description>
+  </programme>
+  <programme channel="litv-xinchuang21" start="20260617060000 +0800" stop="20260617080000 +0800">
+    <title>老子傳奇老子李耳傳</title>
+    <description>以聖人老子一生的傳奇經歷，和周朝末年亂世之紛爭的百年歷史，作為兩條主線貫穿， 將老子博大精深的道德思想顯化，使人們能從中感悟大道之真諦，體會為人之根本，行事之準則。</description>
+  </programme>
+  <programme channel="litv-xinchuang21" start="20260617080000 +0800" stop="20260617095500 +0800">
+    <title>蓬門碧玉紅顏淚This Property Is Condemned</title>
+    <description>改編自田納西威廉斯劇作。經濟大蕭條時期，鐵路公司員工歐文（勞勃瑞福）前往一密西西比小鎮，奉命解僱大批工人而成為小鎮公敵。當他愛上旅館千金艾娃（娜妲麗華）後，又遭強勢的老闆娘棒打鴛鴦。引來眾怒的這對情侶因而決定私奔…</description>
+  </programme>
+  <programme channel="litv-xinchuang21" start="20260617095500 +0800" stop="20260617114000 +0800">
+    <title>前線狙擊手</title>
+    <description>1943年末，納粹派出訓練有素的狙擊手進入到前線，帶來了破壞和死亡，被圍困的蘇聯士兵已經堅守保衛了國家兩年。年輕又天賦異稟的獵人葉戈爾受到徵召挺身對抗入侵者，雖然年輕又缺乏戰鬥經驗，葉戈爾仍以過人的技能和勇氣，證明自己在前線有能力扮演扭轉戰局、至關重要的角色。</description>
+  </programme>
+  <programme channel="litv-xinchuang21" start="20260617114000 +0800" stop="20260617143500 +0800">
+    <title>血染雪山堡</title>
+    <description>二戰中期盟軍重要人物－美國卡納比將軍，座機在德奧邊界墜毀被俘，就近被囚禁在阿爾卑斯山中地勢險惡的鷹堡。英國軍情六處特納上校立即派遣以特工史密斯少校為首、與美軍謝弗中尉等精通德語的七人突擊隊，假扮德軍深入敵營搶救。但在空降時通訊士意外喪命，不久又有兩名成員離奇身亡…</description>
+  </programme>
   <channel id="litv-xinchuang18">
     <display-name>龍華戲劇台</display-name>
   </channel>
-  <programme channel="litv-xinchuang18" start="20260612020000 +0800" stop="20260612030000 +0800">
-    <title>六龍飛天#29</title>
-    <description>以朝鮮建國初期為背景，以開國太祖李成桂（千虎珍）、太宗李芳遠（劉亞仁）、太祖策士鄭道傳（金明民）、芳遠的情人焚伊（申世景）、焚伊的哥哥李方地（卞耀漢）、以及芳遠的心腹無恤（尹鈞相）為中心，描述六名主人公的野心、慾望與成功。</description>
-  </programme>
-  <programme channel="litv-xinchuang18" start="20260612030000 +0800" stop="20260612040000 +0800">
-    <title>六龍飛天#30</title>
-    <description>以朝鮮建國初期為背景，以開國太祖李成桂（千虎珍）、太宗李芳遠（劉亞仁）、太祖策士鄭道傳（金明民）、芳遠的情人焚伊（申世景）、焚伊的哥哥李方地（卞耀漢）、以及芳遠的心腹無恤（尹鈞相）為中心，描述六名主人公的野心、慾望與成功。</description>
-  </programme>
-  <programme channel="litv-xinchuang18" start="20260612040000 +0800" stop="20260612050000 +0800">
-    <title>六龍飛天#31</title>
-    <description>以朝鮮建國初期為背景，以開國太祖李成桂（千虎珍）、太宗李芳遠（劉亞仁）、太祖策士鄭道傳（金明民）、芳遠的情人焚伊（申世景）、焚伊的哥哥李方地（卞耀漢）、以及芳遠的心腹無恤（尹鈞相）為中心，描述六名主人公的野心、慾望與成功。</description>
-  </programme>
-  <programme channel="litv-xinchuang18" start="20260612050000 +0800" stop="20260612060000 +0800">
-    <title>六龍飛天#32</title>
-    <description>以朝鮮建國初期為背景，以開國太祖李成桂（千虎珍）、太宗李芳遠（劉亞仁）、太祖策士鄭道傳（金明民）、芳遠的情人焚伊（申世景）、焚伊的哥哥李方地（卞耀漢）、以及芳遠的心腹無恤（尹鈞相）為中心，描述六名主人公的野心、慾望與成功。</description>
-  </programme>
-  <programme channel="litv-xinchuang18" start="20260612060000 +0800" stop="20260612070000 +0800">
-    <title>神鵰俠侶#45</title>
-    <description>楊過（任賢齊）原是個小混混，相依為命的母親去世後，結識了大俠郭靖（孫興）和黃蓉（夏文汐）夫婦，開始他坎坷又充滿傳奇的一生。桀驁不馴的楊過並不受黃蓉疼愛，被郭靖送去全真教習武後受到嚴苛折磨，直到楊過拜古墓派傳人小龍女（吳倩蓮）為師，在楊過的感染下，小龍女漸漸卸下防備，袒露真心…。</description>
-  </programme>
-  <programme channel="litv-xinchuang18" start="20260612070000 +0800" stop="20260612080000 +0800">
-    <title>神鵰俠侶#46</title>
-    <description>楊過（任賢齊）原是個小混混，相依為命的母親去世後，結識了大俠郭靖（孫興）和黃蓉（夏文汐）夫婦，開始他坎坷又充滿傳奇的一生。桀驁不馴的楊過並不受黃蓉疼愛，被郭靖送去全真教習武後受到嚴苛折磨，直到楊過拜古墓派傳人小龍女（吳倩蓮）為師，在楊過的感染下，小龍女漸漸卸下防備，袒露真心…。</description>
-  </programme>
-  <programme channel="litv-xinchuang18" start="20260612080000 +0800" stop="20260612090000 +0800">
-    <title>護寶聯盟#5</title>
-    <description>1900年，八國聯軍進北京，到處蒐羅奇珍異寶。愛國志士唐瓊從列強手中搶回了一批價值連城的文物，本想交給清政府，但腐敗的清政府官員差點私吞了那批文物，並且追殺唐瓊。為了更好地保護好文物，唐瓊在臨死前將藏寶圖一分為二，分別藏在一部古書的上、下兩部分，分別交給了封納新、賀台煙保管。</description>
-  </programme>
-  <programme channel="litv-xinchuang18" start="20260612090000 +0800" stop="20260612100000 +0800">
-    <title>護寶聯盟#6</title>
-    <description>1900年，八國聯軍進北京，到處蒐羅奇珍異寶。愛國志士唐瓊從列強手中搶回了一批價值連城的文物，本想交給清政府，但腐敗的清政府官員差點私吞了那批文物，並且追殺唐瓊。為了更好地保護好文物，唐瓊在臨死前將藏寶圖一分為二，分別藏在一部古書的上、下兩部分，分別交給了封納新、賀台煙保管。</description>
-  </programme>
-  <programme channel="litv-xinchuang18" start="20260612100000 +0800" stop="20260612110000 +0800">
-    <title>天下長河#29</title>
-    <description>中國大陸拍攝的歷史電視連續劇。其以清朝康熙（羅晉）在位期間水利專家陳潢（尹昉）與安徽巡撫靳輔（黃志忠）的黃河治理事跡為背景。該劇由張挺編劇、導演， 羅晉、尹昉、黃志忠主演。</description>
-  </programme>
-  <programme channel="litv-xinchuang18" start="20260612110000 +0800" stop="20260612120000 +0800">
-    <title>天下長河#30</title>
-    <description>中國大陸拍攝的歷史電視連續劇。其以清朝康熙（羅晉）在位期間水利專家陳潢（尹昉）與安徽巡撫靳輔（黃志忠）的黃河治理事跡為背景。該劇由張挺編劇、導演， 羅晉、尹昉、黃志忠主演。</description>
-  </programme>
-  <programme channel="litv-xinchuang18" start="20260612120000 +0800" stop="20260612130000 +0800">
-    <title>朱元璋#31</title>
-    <description>元朝末年，天下大亂。朱元璋（胡軍）自幼父母雙亡，淪為乞丐，後又遁入空門。他走投無路，參加了義軍，從此南北征戰，一步步走上了中國歷史的舞台。</description>
-  </programme>
-  <programme channel="litv-xinchuang18" start="20260612130000 +0800" stop="20260612140000 +0800">
-    <title>朱元璋#32</title>
-    <description>元朝末年，天下大亂。朱元璋（胡軍）自幼父母雙亡，淪為乞丐，後又遁入空門。他走投無路，參加了義軍，從此南北征戰，一步步走上了中國歷史的舞台。</description>
-  </programme>
-  <programme channel="litv-xinchuang18" start="20260612140000 +0800" stop="20260612150000 +0800">
-    <title>灼灼風流#5</title>
-    <description>江南首富庶女慕灼華（景甜）立志考取功名，為此苦讀詩書赴京科考，而結識驍勇善戰的定王劉衍（馮紹峰）。劉衍起初雖然懷疑慕灼華，但仍尊重她的遠大志向，願意讓灼華有施展才華的機會，兩人一同輔佐新帝，最終成就河清海晏盛世…</description>
-  </programme>
-  <programme channel="litv-xinchuang18" start="20260612150000 +0800" stop="20260612160000 +0800">
-    <title>灼灼風流#6</title>
-    <description>江南首富庶女慕灼華（景甜）立志考取功名，為此苦讀詩書赴京科考，而結識驍勇善戰的定王劉衍（馮紹峰）。劉衍起初雖然懷疑慕灼華，但仍尊重她的遠大志向，願意讓灼華有施展才華的機會，兩人一同輔佐新帝，最終成就河清海晏盛世…</description>
-  </programme>
-  <programme channel="litv-xinchuang18" start="20260612160000 +0800" stop="20260612170000 +0800">
-    <title>天下長河#31</title>
-    <description>中國大陸拍攝的歷史電視連續劇。其以清朝康熙（羅晉）在位期間水利專家陳潢（尹昉）與安徽巡撫靳輔（黃志忠）的黃河治理事跡為背景。該劇由張挺編劇、導演， 羅晉、尹昉、黃志忠主演。</description>
-  </programme>
-  <programme channel="litv-xinchuang18" start="20260612170000 +0800" stop="20260612180000 +0800">
-    <title>天下長河#32</title>
-    <description>中國大陸拍攝的歷史電視連續劇。其以清朝康熙（羅晉）在位期間水利專家陳潢（尹昉）與安徽巡撫靳輔（黃志忠）的黃河治理事跡為背景。該劇由張挺編劇、導演， 羅晉、尹昉、黃志忠主演。</description>
-  </programme>
-  <programme channel="litv-xinchuang18" start="20260612180000 +0800" stop="20260612190000 +0800">
-    <title>朱元璋#33</title>
-    <description>元朝末年，天下大亂。朱元璋（胡軍）自幼父母雙亡，淪為乞丐，後又遁入空門。他走投無路，參加了義軍，從此南北征戰，一步步走上了中國歷史的舞台。</description>
-  </programme>
-  <programme channel="litv-xinchuang18" start="20260612190000 +0800" stop="20260612200000 +0800">
-    <title>朱元璋#34</title>
-    <description>元朝末年，天下大亂。朱元璋（胡軍）自幼父母雙亡，淪為乞丐，後又遁入空門。他走投無路，參加了義軍，從此南北征戰，一步步走上了中國歷史的舞台。</description>
-  </programme>
-  <programme channel="litv-xinchuang18" start="20260612200000 +0800" stop="20260612210000 +0800">
-    <title>灼灼風流#7</title>
-    <description>江南首富庶女慕灼華（景甜）立志考取功名，為此苦讀詩書赴京科考，而結識驍勇善戰的定王劉衍（馮紹峰）。劉衍起初雖然懷疑慕灼華，但仍尊重她的遠大志向，願意讓灼華有施展才華的機會，兩人一同輔佐新帝，最終成就河清海晏盛世…</description>
-  </programme>
-  <programme channel="litv-xinchuang18" start="20260612210000 +0800" stop="20260612220000 +0800">
-    <title>灼灼風流#8</title>
-    <description>江南首富庶女慕灼華（景甜）立志考取功名，為此苦讀詩書赴京科考，而結識驍勇善戰的定王劉衍（馮紹峰）。劉衍起初雖然懷疑慕灼華，但仍尊重她的遠大志向，願意讓灼華有施展才華的機會，兩人一同輔佐新帝，最終成就河清海晏盛世…</description>
-  </programme>
-  <programme channel="litv-xinchuang18" start="20260612220000 +0800" stop="20260612230000 +0800">
-    <title>護寶聯盟#7</title>
-    <description>1900年，八國聯軍進北京，到處蒐羅奇珍異寶。愛國志士唐瓊從列強手中搶回了一批價值連城的文物，本想交給清政府，但腐敗的清政府官員差點私吞了那批文物，並且追殺唐瓊。為了更好地保護好文物，唐瓊在臨死前將藏寶圖一分為二，分別藏在一部古書的上、下兩部分，分別交給了封納新、賀台煙保管。</description>
-  </programme>
-  <programme channel="litv-xinchuang18" start="20260612230000 +0800" stop="20260613000000 +0800">
-    <title>護寶聯盟#8</title>
-    <description>1900年，八國聯軍進北京，到處蒐羅奇珍異寶。愛國志士唐瓊從列強手中搶回了一批價值連城的文物，本想交給清政府，但腐敗的清政府官員差點私吞了那批文物，並且追殺唐瓊。為了更好地保護好文物，唐瓊在臨死前將藏寶圖一分為二，分別藏在一部古書的上、下兩部分，分別交給了封納新、賀台煙保管。</description>
-  </programme>
-  <programme channel="litv-xinchuang18" start="20260613000000 +0800" stop="20260613010000 +0800">
-    <title>大秦賦#73</title>
-    <description>以秦朝首位皇帝秦始皇與呂不韋、李斯等人物故事為主軸，講述秦國殲滅六國、一統天下的過程，來展現秦國成長為中國第一個王朝的恢弘歷史。</description>
-  </programme>
   <programme channel="litv-xinchuang18" start="20260613010000 +0800" stop="20260613020000 +0800">
     <title>大秦賦#74</title>
     <description>以秦朝首位皇帝秦始皇與呂不韋、李斯等人物故事為主軸，講述秦國殲滅六國、一統天下的過程，來展現秦國成長為中國第一個王朝的恢弘歷史。</description>
@@ -44769,57 +44760,105 @@
     <title>灼灼風流#10</title>
     <description>江南首富庶女慕灼華（景甜）立志考取功名，為此苦讀詩書赴京科考，而結識驍勇善戰的定王劉衍（馮紹峰）。劉衍起初雖然懷疑慕灼華，但仍尊重她的遠大志向，願意讓灼華有施展才華的機會，兩人一同輔佐新帝，最終成就河清海晏盛世…</description>
   </programme>
+  <programme channel="litv-xinchuang18" start="20260616160000 +0800" stop="20260616170000 +0800">
+    <title>天下長河#35</title>
+    <description>中國大陸拍攝的歷史電視連續劇。其以清朝康熙（羅晉）在位期間水利專家陳潢（尹昉）與安徽巡撫靳輔（黃志忠）的黃河治理事跡為背景。該劇由張挺編劇、導演， 羅晉、尹昉、黃志忠主演。</description>
+  </programme>
+  <programme channel="litv-xinchuang18" start="20260616170000 +0800" stop="20260616180000 +0800">
+    <title>天下長河#36</title>
+    <description>中國大陸拍攝的歷史電視連續劇。其以清朝康熙（羅晉）在位期間水利專家陳潢（尹昉）與安徽巡撫靳輔（黃志忠）的黃河治理事跡為背景。該劇由張挺編劇、導演， 羅晉、尹昉、黃志忠主演。</description>
+  </programme>
+  <programme channel="litv-xinchuang18" start="20260616180000 +0800" stop="20260616190000 +0800">
+    <title>朱元璋#37</title>
+    <description>元朝末年，天下大亂。朱元璋（胡軍）自幼父母雙亡，淪為乞丐，後又遁入空門。他走投無路，參加了義軍，從此南北征戰，一步步走上了中國歷史的舞台。</description>
+  </programme>
+  <programme channel="litv-xinchuang18" start="20260616190000 +0800" stop="20260616200000 +0800">
+    <title>朱元璋#38</title>
+    <description>元朝末年，天下大亂。朱元璋（胡軍）自幼父母雙亡，淪為乞丐，後又遁入空門。他走投無路，參加了義軍，從此南北征戰，一步步走上了中國歷史的舞台。</description>
+  </programme>
+  <programme channel="litv-xinchuang18" start="20260616200000 +0800" stop="20260616210000 +0800">
+    <title>灼灼風流#11</title>
+    <description>江南首富庶女慕灼華（景甜）立志考取功名，為此苦讀詩書赴京科考，而結識驍勇善戰的定王劉衍（馮紹峰）。劉衍起初雖然懷疑慕灼華，但仍尊重她的遠大志向，願意讓灼華有施展才華的機會，兩人一同輔佐新帝，最終成就河清海晏盛世…</description>
+  </programme>
+  <programme channel="litv-xinchuang18" start="20260616210000 +0800" stop="20260616220000 +0800">
+    <title>灼灼風流#12</title>
+    <description>江南首富庶女慕灼華（景甜）立志考取功名，為此苦讀詩書赴京科考，而結識驍勇善戰的定王劉衍（馮紹峰）。劉衍起初雖然懷疑慕灼華，但仍尊重她的遠大志向，願意讓灼華有施展才華的機會，兩人一同輔佐新帝，最終成就河清海晏盛世…</description>
+  </programme>
+  <programme channel="litv-xinchuang18" start="20260616220000 +0800" stop="20260616230000 +0800">
+    <title>護寶聯盟#11</title>
+    <description>1900年，八國聯軍進北京，到處蒐羅奇珍異寶。愛國志士唐瓊從列強手中搶回了一批價值連城的文物，本想交給清政府，但腐敗的清政府官員差點私吞了那批文物，並且追殺唐瓊。為了更好地保護好文物，唐瓊在臨死前將藏寶圖一分為二，分別藏在一部古書的上、下兩部分，分別交給了封納新、賀台煙保管。</description>
+  </programme>
+  <programme channel="litv-xinchuang18" start="20260616230000 +0800" stop="20260617000000 +0800">
+    <title>護寶聯盟#12</title>
+    <description>1900年，八國聯軍進北京，到處蒐羅奇珍異寶。愛國志士唐瓊從列強手中搶回了一批價值連城的文物，本想交給清政府，但腐敗的清政府官員差點私吞了那批文物，並且追殺唐瓊。為了更好地保護好文物，唐瓊在臨死前將藏寶圖一分為二，分別藏在一部古書的上、下兩部分，分別交給了封納新、賀台煙保管。</description>
+  </programme>
+  <programme channel="litv-xinchuang18" start="20260617000000 +0800" stop="20260617010000 +0800">
+    <title>朱元璋#37</title>
+    <description>元朝末年，天下大亂。朱元璋（胡軍）自幼父母雙亡，淪為乞丐，後又遁入空門。他走投無路，參加了義軍，從此南北征戰，一步步走上了中國歷史的舞台。</description>
+  </programme>
+  <programme channel="litv-xinchuang18" start="20260617010000 +0800" stop="20260617020000 +0800">
+    <title>朱元璋#38</title>
+    <description>元朝末年，天下大亂。朱元璋（胡軍）自幼父母雙亡，淪為乞丐，後又遁入空門。他走投無路，參加了義軍，從此南北征戰，一步步走上了中國歷史的舞台。</description>
+  </programme>
+  <programme channel="litv-xinchuang18" start="20260617020000 +0800" stop="20260617030000 +0800">
+    <title>六龍飛天#41</title>
+    <description>以朝鮮建國初期為背景，以開國太祖李成桂（千虎珍）、太宗李芳遠（劉亞仁）、太祖策士鄭道傳（金明民）、芳遠的情人焚伊（申世景）、焚伊的哥哥李方地（卞耀漢）、以及芳遠的心腹無恤（尹鈞相）為中心，描述六名主人公的野心、慾望與成功。</description>
+  </programme>
+  <programme channel="litv-xinchuang18" start="20260617030000 +0800" stop="20260617040000 +0800">
+    <title>六龍飛天#42</title>
+    <description>以朝鮮建國初期為背景，以開國太祖李成桂（千虎珍）、太宗李芳遠（劉亞仁）、太祖策士鄭道傳（金明民）、芳遠的情人焚伊（申世景）、焚伊的哥哥李方地（卞耀漢）、以及芳遠的心腹無恤（尹鈞相）為中心，描述六名主人公的野心、慾望與成功。</description>
+  </programme>
+  <programme channel="litv-xinchuang18" start="20260617040000 +0800" stop="20260617050000 +0800">
+    <title>六龍飛天#43</title>
+    <description>以朝鮮建國初期為背景，以開國太祖李成桂（千虎珍）、太宗李芳遠（劉亞仁）、太祖策士鄭道傳（金明民）、芳遠的情人焚伊（申世景）、焚伊的哥哥李方地（卞耀漢）、以及芳遠的心腹無恤（尹鈞相）為中心，描述六名主人公的野心、慾望與成功。</description>
+  </programme>
+  <programme channel="litv-xinchuang18" start="20260617050000 +0800" stop="20260617060000 +0800">
+    <title>六龍飛天#44</title>
+    <description>以朝鮮建國初期為背景，以開國太祖李成桂（千虎珍）、太宗李芳遠（劉亞仁）、太祖策士鄭道傳（金明民）、芳遠的情人焚伊（申世景）、焚伊的哥哥李方地（卞耀漢）、以及芳遠的心腹無恤（尹鈞相）為中心，描述六名主人公的野心、慾望與成功。</description>
+  </programme>
+  <programme channel="litv-xinchuang18" start="20260617060000 +0800" stop="20260617070000 +0800">
+    <title>Talk一杯#2</title>
+    <description>深度訪談、暢飲暢聊！主持人鄭偉柏帶您了解最新的娛樂大小事，職業運動、文化娛樂、多元優質內容一次滿足。</description>
+  </programme>
+  <programme channel="litv-xinchuang18" start="20260617070000 +0800" stop="20260617080000 +0800">
+    <title>台灣傳奇#2</title>
+    <description>民視製播古裝單元劇2.0版，改編台灣民間傳說，並不時邀請專家學者或民眾演出，由郭美珠以押韻口白主持，解說故事劇情串講。也有書法家寫俗諺、律師解釋法律條例等單元，介紹台灣風俗民情及鄉土文化，劇情蘊含勸戒世人向善意味。</description>
+  </programme>
+  <programme channel="litv-xinchuang18" start="20260617080000 +0800" stop="20260617090000 +0800">
+    <title>護寶聯盟#11</title>
+    <description>1900年，八國聯軍進北京，到處蒐羅奇珍異寶。愛國志士唐瓊從列強手中搶回了一批價值連城的文物，本想交給清政府，但腐敗的清政府官員差點私吞了那批文物，並且追殺唐瓊。為了更好地保護好文物，唐瓊在臨死前將藏寶圖一分為二，分別藏在一部古書的上、下兩部分，分別交給了封納新、賀台煙保管。</description>
+  </programme>
+  <programme channel="litv-xinchuang18" start="20260617090000 +0800" stop="20260617100000 +0800">
+    <title>護寶聯盟#12</title>
+    <description>1900年，八國聯軍進北京，到處蒐羅奇珍異寶。愛國志士唐瓊從列強手中搶回了一批價值連城的文物，本想交給清政府，但腐敗的清政府官員差點私吞了那批文物，並且追殺唐瓊。為了更好地保護好文物，唐瓊在臨死前將藏寶圖一分為二，分別藏在一部古書的上、下兩部分，分別交給了封納新、賀台煙保管。</description>
+  </programme>
+  <programme channel="litv-xinchuang18" start="20260617100000 +0800" stop="20260617110000 +0800">
+    <title>天下長河#35</title>
+    <description>中國大陸拍攝的歷史電視連續劇。其以清朝康熙（羅晉）在位期間水利專家陳潢（尹昉）與安徽巡撫靳輔（黃志忠）的黃河治理事跡為背景。該劇由張挺編劇、導演， 羅晉、尹昉、黃志忠主演。</description>
+  </programme>
+  <programme channel="litv-xinchuang18" start="20260617110000 +0800" stop="20260617120000 +0800">
+    <title>天下長河#36</title>
+    <description>中國大陸拍攝的歷史電視連續劇。其以清朝康熙（羅晉）在位期間水利專家陳潢（尹昉）與安徽巡撫靳輔（黃志忠）的黃河治理事跡為背景。該劇由張挺編劇、導演， 羅晉、尹昉、黃志忠主演。</description>
+  </programme>
+  <programme channel="litv-xinchuang18" start="20260617120000 +0800" stop="20260617130000 +0800">
+    <title>朱元璋#37</title>
+    <description>元朝末年，天下大亂。朱元璋（胡軍）自幼父母雙亡，淪為乞丐，後又遁入空門。他走投無路，參加了義軍，從此南北征戰，一步步走上了中國歷史的舞台。</description>
+  </programme>
+  <programme channel="litv-xinchuang18" start="20260617130000 +0800" stop="20260617140000 +0800">
+    <title>朱元璋#38</title>
+    <description>元朝末年，天下大亂。朱元璋（胡軍）自幼父母雙亡，淪為乞丐，後又遁入空門。他走投無路，參加了義軍，從此南北征戰，一步步走上了中國歷史的舞台。</description>
+  </programme>
+  <programme channel="litv-xinchuang18" start="20260617140000 +0800" stop="20260617150000 +0800">
+    <title>灼灼風流#11</title>
+    <description>江南首富庶女慕灼華（景甜）立志考取功名，為此苦讀詩書赴京科考，而結識驍勇善戰的定王劉衍（馮紹峰）。劉衍起初雖然懷疑慕灼華，但仍尊重她的遠大志向，願意讓灼華有施展才華的機會，兩人一同輔佐新帝，最終成就河清海晏盛世…</description>
+  </programme>
+  <programme channel="litv-xinchuang18" start="20260617150000 +0800" stop="20260617160000 +0800">
+    <title>灼灼風流#12</title>
+    <description>江南首富庶女慕灼華（景甜）立志考取功名，為此苦讀詩書赴京科考，而結識驍勇善戰的定王劉衍（馮紹峰）。劉衍起初雖然懷疑慕灼華，但仍尊重她的遠大志向，願意讓灼華有施展才華的機會，兩人一同輔佐新帝，最終成就河清海晏盛世…</description>
+  </programme>
   <channel id="litv-xinchuang02">
     <display-name>龍華洋片台</display-name>
   </channel>
-  <programme channel="litv-xinchuang02" start="20260612021500 +0800" stop="20260612040000 +0800">
-    <title>屍控日誌</title>
-    <description>一場病毒爆發導致人類瀕臨滅絕，轉變成食人殭屍攻佔地球...倖存的他發現一本舊日記記錄了最後安全庇護所的地圖，在尋找最後淨土的冒險旅程中，他與夥伴很清楚意識到：在死者中，倖存者已成為更大的威脅…</description>
-  </programme>
-  <programme channel="litv-xinchuang02" start="20260612040000 +0800" stop="20260612060000 +0800">
-    <title>犬系戀人A Good Day to Be a Dog</title>
-    <description>同名網漫改編。高中國文老師韓海娜（朴圭瑛）因家族繼承的詛咒，跟異性接吻就會在午夜變成小狗，要變成狗時跟那個異性再親一次才能變回來。偏偏海娜喝醉後誤親的數學老師陳書元（車銀優）超級怕狗，兩人就此展開一段奇幻羅曼史…</description>
-  </programme>
-  <programme channel="litv-xinchuang02" start="20260612060000 +0800" stop="20260612075000 +0800">
-    <title>進擊的地才</title>
-    <description>艾莉絲是位追求極致的大一新生，為了考出更高分反復參加考試。加入學校輕艇隊後，她不惜任何代價打敗隊友、進入專業隊伍代表學校參加比賽。與此同時，眾人都擔心她的身體和精神狀態，求勝心切的艾莉絲能否成功得到自己想要的一切？</description>
-  </programme>
-  <programme channel="litv-xinchuang02" start="20260612075000 +0800" stop="20260612094000 +0800">
-    <title>獵殺遊戲Final Round</title>
-    <description>由羅倫佐拉瑪斯與克拉克強森領銜主演。泰勒（羅倫佐拉瑪斯）是一位業餘的拳手，平日除了在健身房與朋友切武藝之外，同時經營一間修車廠，生活過得自在悠閒。某日，卻意外遭人綁架，成為一場獵殺行動獵物…</description>
-  </programme>
-  <programme channel="litv-xinchuang02" start="20260612094000 +0800" stop="20260612112000 +0800">
-    <title>凜冬謀殺案Winter Ridge</title>
-    <description>為了照顧車禍陷入昏迷的妻子，警探萊恩（馬特胡金斯）幾乎是心力交瘁，連警局的工作也荒廢了。某日，鎮上傳出罹患阿茲海默症的長者遭到謀殺的消息，而這名嫌疑犯似乎就是衝撞妻子的肇逃駕駛。究竟兇手謀殺患者們的背後有何意義？而萊恩又能否為妻子討回公道？</description>
-  </programme>
-  <programme channel="litv-xinchuang02" start="20260612112000 +0800" stop="20260612134500 +0800">
-    <title>極地先鋒Amundsen</title>
-    <description>舉世聞名的極地探險家阿蒙森，致力於探索人類未知的世界。即使忍受飢餓、渾身凍瘡，他還是憑藉堅強的意志力，成為史上首位征服南極的人。璀璨的成就讓他留名千古，甚至連月球的山脈都以他來命名。不過作為一個男人，阿蒙森的故事卻不止於此，透過他的弟弟與妻子的不同視角，阿蒙森的爭議人生逐一揭曉…</description>
-  </programme>
-  <programme channel="litv-xinchuang02" start="20260612134500 +0800" stop="20260612154000 +0800">
-    <title>倒數救援戰</title>
-    <description>聖戰分子發動襲擊後，唯一倖存的黨羽哈姆札抓住桑提作為人質，桑提意外成了恐怖分子，他穿著炸彈背心穿梭在馬德里的格蘭大道，情報機構、緊急應變小組，甚至媒體，全都動員起來設法拯救他的性命，這場驚心動魄的資源部署，卻迎來了意想不到的結果。</description>
-  </programme>
-  <programme channel="litv-xinchuang02" start="20260612154000 +0800" stop="20260612173000 +0800">
-    <title>喜劇天團：勞萊與哈台Stan  Ollie</title>
-    <description>一胖一瘦的「勞萊與哈台」，曾是世界上最受歡迎的喜劇雙人組，但隨著時間推移，這個「喜劇天團」的人氣卻逐漸下滑。面對這樣的狀況，他們決定展開巡迴演出，試圖力挽狂瀾。不料此時，哈台（約翰萊利）的健康出現警訊，而他與搭檔勞萊（史帝夫庫根）之間的矛盾也逐漸浮出檯面…</description>
-  </programme>
-  <programme channel="litv-xinchuang02" start="20260612173000 +0800" stop="20260612190000 +0800">
-    <title>美聲歌雞Turu, the Wacky Hen</title>
-    <description>圖魯是一隻相貌古怪且不會下蛋的母雞，因此遭到其他母雞的嘲笑。老奶奶伊莎貝爾將圖魯帶到自己的農場，竟意外發現圖魯的獨特天賦：她不僅能夠跟人類說話，還有著美麗的動人歌聲。。某天，伊莎貝爾從屋頂上摔下來而且失去了記憶，隨後被救護車送往醫院；想念老奶奶的圖魯決定踏上旅程尋找她珍貴的好友！</description>
-  </programme>
-  <programme channel="litv-xinchuang02" start="20260612190000 +0800" stop="20260612210000 +0800">
-    <title>罪惡對決</title>
-    <description>1970年代，芬巴墨菲（連恩尼遜）獨自隱居偏遠的海濱小鎮，只是在他看似恬淡的日常中，竟藏著連鄰居都不曉得的陰暗面。於此同時，為了躲避追緝，一支愛爾蘭共和軍小組也來到這個的小鎮藏身。當芬巴發現其同夥曾對一名當地女孩施暴後，便迫使他決定在金盆洗手之前執行他的「最後一次任務」…</description>
-  </programme>
-  <programme channel="litv-xinchuang02" start="20260612210000 +0800" stop="20260612224500 +0800">
-    <title>魔女神兵Season of the Witch</title>
-    <description>十四世紀，返鄉的十字軍遭黑死病侵襲，教會將疫情認定為黑魔法，遂命貝爾曼（尼可拉斯凱吉）率領幾位騎士，押送一位以女巫罪名定讞的女子，到深山的修道院進行驅魔儀式。但與女孩這一路的相處，卻令貝爾曼開始質疑這項怪力亂神的任務…</description>
-  </programme>
-  <programme channel="litv-xinchuang02" start="20260612224500 +0800" stop="20260613002000 +0800">
-    <title>絕命3小時</title>
-    <description>曾是歷史地標的堡高醫院，因長久疏於維護早已荒廢，如今面臨即將拆除的命運。某幫派在醫院中藏了九千萬，消息傳開後，有兩個敵對黑幫正虎視眈眈，想要找出這筆贓款，未料卻被拆除工人麥可搶先發現。如今距離建物爆破拆除僅剩三個小時，隨著時間一分一秒過去，究竟這筆錢會被誰奪走呢？</description>
-  </programme>
   <programme channel="litv-xinchuang02" start="20260613002000 +0800" stop="20260613023500 +0800">
     <title>槍擊瑪麗蓮</title>
     <description>父親過世後，懷抱畫家夢的麥可繼任為紐約黑手黨老大，大老們表面上看似平靜，實則不然。另一方面，藝評約翰的畫廊發生爆炸案，一夕之間債台高築，更和女友莎拉大吵一架。此時，一名「送貨員」帶著安迪沃荷的名畫《粉紅瑪麗蓮》來到紐約，各路人馬蠢蠢欲動。未料，莎拉竟遭人綁架，贖金正是這幅名畫…</description>
@@ -45011,5 +45050,57 @@
   <programme channel="litv-xinchuang02" start="20260616135500 +0800" stop="20260616154500 +0800">
     <title>庫德行動</title>
     <description>完成大學學業後回到家鄉，錫昂親眼目睹村莊遭到焚燒和一系列的暴行，最終導致他加入了庫德族人的抵抗運動，並在與土耳其軍隊的衝突中受到嚴重傷害。</description>
+  </programme>
+  <programme channel="litv-xinchuang02" start="20260616154500 +0800" stop="20260616171500 +0800">
+    <title>飛天魔毯Up and Away</title>
+    <description>少年阿賈一心嚮往到世界各地探險，但爸爸卻要他繼承手藝當裁縫師。神秘的鄰居爺爺以找回失散已久的孫女作為交換，出借飛翔魔毯給阿賈去實現夢想。帶著好友山羊拉雅，阿賈登毯高飛、飛向廣大未知的世界，經歷了精彩刺激的奇幻歷險，體會了友情與親情的難能可貴。</description>
+  </programme>
+  <programme channel="litv-xinchuang02" start="20260616171500 +0800" stop="20260616185500 +0800">
+    <title>我出去醫下</title>
+    <description>前無國界醫生賽吉是唯一一位會在聖誕夜出診的醫生，他跟美食外送員馬利克發生了車禍。雖然被撞的是馬利克，但卻引發了賽吉的坐骨神經痛，情急之下，馬利克只好代替賽吉登門看診。於是他戴上AirPods，透過賽吉的隔空電話指導，搖身一變成為超瞎醫生...</description>
+  </programme>
+  <programme channel="litv-xinchuang02" start="20260616185500 +0800" stop="20260616210000 +0800">
+    <title>獵空計畫</title>
+    <description>在俄國政府的決定下，中校歐列格和上尉康斯坦丁共同被派駐至敘利亞的空軍基地執行任務。性格截然不同的兩人，在戰場上合作無間、立下功勳。未料，在一次摧毀敵方火箭發射器的行動中，他們不慎掉入敵方的陷阱，駕駛的戰機慘遭擊墜，靠著彈射逃生的兩人，雖然逃過一劫但也性命垂危…</description>
+  </programme>
+  <programme channel="litv-xinchuang02" start="20260616210000 +0800" stop="20260616230500 +0800">
+    <title>終極殺機</title>
+    <description>莎莫在汽車事故中倖存下來卻失去記憶，但腦海中卻開始浮現尚未發生的綁架和謀殺片段，混亂的記憶所帶來的不安，讓她無法信任周遭的人，一段遺失的記憶更讓莎莫成為被追殺的標靶。</description>
+  </programme>
+  <programme channel="litv-xinchuang02" start="20260616230500 +0800" stop="20260617003000 +0800">
+    <title>深海巨獸Eye of the Beast</title>
+    <description>所有傳說都其來有自。在一個平靜的湖畔小城，由於附近居民長期濫捕造成湖裡的漁獲量減少，躲在湖中的巨型烏賊因缺乏食物來源，為了生存，開始把人類當成獵物！一位科學家發現此事後向大家提出警訊，但卻沒人相信淡水湖中會有巨型烏賊…</description>
+  </programme>
+  <programme channel="litv-xinchuang02" start="20260617003000 +0800" stop="20260617022000 +0800">
+    <title>女戰士Boudica</title>
+    <description>西元60年，凱爾特戰士布狄卡（歐嘉柯瑞蘭寇）與丈夫普拉蘇塔古斯共同統治著繁榮進步的愛西尼部落。丈夫去世後，王國無男嗣，羅馬人乘機奪取了她的土地和財產。陷入絕望的布狄卡決心復仇，她成功號召凱爾特與不列顛諸部落，聯手對抗入侵的羅馬帝國，掀起了一場前所未有的史詩戰爭…</description>
+  </programme>
+  <programme channel="litv-xinchuang02" start="20260617022000 +0800" stop="20260617040000 +0800">
+    <title>血戰狼人堡</title>
+    <description>鎮上接連發生失蹤與死亡案件，勇敢的村民組成偵查小隊前往黑暗森林中的城堡，人狼戰鬥一觸即發……</description>
+  </programme>
+  <programme channel="litv-xinchuang02" start="20260617040000 +0800" stop="20260617060000 +0800">
+    <title>犬系戀人A Good Day to Be a Dog</title>
+    <description>同名網漫改編。高中國文老師韓海娜（朴圭瑛）因家族繼承的詛咒，跟異性接吻就會在午夜變成小狗，要變成狗時跟那個異性再親一次才能變回來。偏偏海娜喝醉後誤親的數學老師陳書元（車銀優）超級怕狗，兩人就此展開一段奇幻羅曼史…</description>
+  </programme>
+  <programme channel="litv-xinchuang02" start="20260617060000 +0800" stop="20260617075000 +0800">
+    <title>被遺忘的幸福What They Had</title>
+    <description>因為患了阿茲海默症的母親在暴風雪中失蹤，布莉姬（希拉蕊史旺）連忙帶女兒趕回老家探望。十分自責的布莉姬，夾在主張把母親送去療養院的哥哥和希望把妻子留在家中照顧的爸爸之間，因而感到無所適從。隨著母親病情惡化，家人之間的關係也愈來愈劍拔弩張，使得照顧母親的責任變得更加艱難…</description>
+  </programme>
+  <programme channel="litv-xinchuang02" start="20260617075000 +0800" stop="20260617094500 +0800">
+    <title>舞力重擊2High Strung Free Dance</title>
+    <description>才華洋溢的年輕編舞家桑德爾，為了籌備一齣眾所矚目的百老匯新劇，找來了天賦異稟的現代舞舞者芭洛和技巧非凡的創新鋼琴家查理。然而，過程中三人之間微妙的平衡逐漸起了變化，查理愛上了芭洛，而桑德爾也把芭洛視為自己的謬思女神，三人之間的情感和對立一觸即發，一場激情澎湃的舞蹈大戰即將展開…</description>
+  </programme>
+  <programme channel="litv-xinchuang02" start="20260617094500 +0800" stop="20260617115000 +0800">
+    <title>異類崛起Risen</title>
+    <description>一顆隕石墜落在農業小鎮，周遭空氣開始產生毒性，所有的動植物和人類紛紛死亡。國土安全部緊急徵召外星生物學家蘿倫，負責尋找這起神祕事件的答案。此時，一棵異世巨樹從隕石撞擊的地點生長出來；原來這顆隕石是被送往地球尋找新家的實驗種子，巨樹是為了在地球上創造適合居住的環境，進而展開殖民…</description>
+  </programme>
+  <programme channel="litv-xinchuang02" start="20260617115000 +0800" stop="20260617134000 +0800">
+    <title>午夜密令Six Minutes To Midnight</title>
+    <description>1939年夏天英德之間緊張情勢日益高漲，情報員米勒（艾迪依薩）臥底進入位於英國南岸專收納粹高官女兒的女子學院調查教師失蹤案。當學生在岸邊發現老師的屍體之際，米勒偷聽到體育老師要將學生祕密送回德國，卻因被發現遭栽贓為殺人犯…</description>
+  </programme>
+  <programme channel="litv-xinchuang02" start="20260617134000 +0800" stop="20260617155000 +0800">
+    <title>潛艦追緝</title>
+    <description>尚特雷以超敏銳的聽覺，讓海軍弟兄們免於無數次的潛艦危機。然而在敘利亞海域的任務中，卻出現他此生從未聽過也無法分辨的聲軌。隨著聲音漸漸逼近，竟讓潛艦暴露了行蹤，引爆了深海危機！與此同時，法國與俄羅斯的國際情勢一觸即發，一顆朝向法國而來的核彈，即將成為引爆第三次世界大戰的導火線！</description>
   </programme>
 </tv>
