@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv date="20260808000115 +0800" Author="Doubebly">
+<tv date="20260808233641 +0800" Author="Doubebly">
   <channel id="CWIN">
     <display-name>SUPER FREE (免費)</display-name>
   </channel>
@@ -2180,7 +2180,7 @@
   </programme>
   <programme channel="J" start="20260808193500 +0800" stop="20260808200000 +0800">
     <title>東張西望[粵]</title>
-    <desc>《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。</desc>
+    <desc>號稱啟德居屋樓王的屋苑，被業主投訴電梯故障、停電、停車場出現漏水瀑布……有住戶猜測屋苑屬組裝合成導致嚴重滲漏，房署有何回應？家長給初生幼兒選購即食食品要留神！先後有家長發現內有異物？葵涌一冷凍倉竟變毒氣倉？原來雪櫃故障，令數百隻「豬殼 」頓變腐肉，惡臭瀰漫數層樓……《愛.回家之開心速遞》眾演員在商場與劇迷歡聚看結局，流露不捨之情！拍攝中的《女神配對計劃2》同樣充滿愛，兩位8月生日的女神獲驚喜慶生。</desc>
   </programme>
   <programme channel="J" start="20260808200000 +0800" stop="20260808203000 +0800">
     <title>香港系列之細間始終你好[粵]</title>
@@ -2220,7 +2220,7 @@
   </programme>
   <programme channel="J" start="20260809010500 +0800" stop="20260809013500 +0800">
     <title>東張西望[粵]</title>
-    <desc>《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。</desc>
+    <desc>號稱啟德居屋樓王的屋苑，被業主投訴電梯故障、停電、停車場出現漏水瀑布……有住戶猜測屋苑屬組裝合成導致嚴重滲漏，房署有何回應？家長給初生幼兒選購即食食品要留神！先後有家長發現內有異物？葵涌一冷凍倉竟變毒氣倉？原來雪櫃故障，令數百隻「豬殼 」頓變腐肉，惡臭瀰漫數層樓……《愛.回家之開心速遞》眾演員在商場與劇迷歡聚看結局，流露不捨之情！拍攝中的《女神配對計劃2》同樣充滿愛，兩位8月生日的女神獲驚喜慶生。</desc>
   </programme>
   <programme channel="J" start="20260809013500 +0800" stop="20260809020500 +0800">
     <title>豪遊咖啡[粵]</title>
@@ -8292,31 +8292,119 @@ From money woes to health problems, strife with the teenagers and love life trou
     <desc></desc>
   </programme>
   <programme channel="DTV" start="20260808070000 +0800" stop="20260808090000 +0800">
-    <title>頻道尚未提供當日節目表</title>
+    <title>看東方</title>
     <desc></desc>
   </programme>
-  <programme channel="DTV" start="20260808090000 +0800" stop="20260808120000 +0800">
-    <title>頻道尚未提供當日節目表</title>
+  <programme channel="DTV" start="20260808090000 +0800" stop="20260808100100 +0800">
+    <title>《一路前行》精編(7)——淨海</title>
     <desc></desc>
   </programme>
-  <programme channel="DTV" start="20260808120000 +0800" stop="20260808150000 +0800">
-    <title>頻道尚未提供當日節目表</title>
+  <programme channel="DTV" start="20260808100100 +0800" stop="20260808111100 +0800">
+    <title>《媽媽咪呀》第九季(4)</title>
     <desc></desc>
   </programme>
-  <programme channel="DTV" start="20260808150000 +0800" stop="20260808180000 +0800">
-    <title>頻道尚未提供當日節目表</title>
+  <programme channel="DTV" start="20260808111100 +0800" stop="20260808113600 +0800">
+    <title>《名醫話養生》(36):阻斷肝癌癌變,中西醫各有一手</title>
     <desc></desc>
   </programme>
-  <programme channel="DTV" start="20260808180000 +0800" stop="20260808210000 +0800">
-    <title>頻道尚未提供當日節目表</title>
+  <programme channel="DTV" start="20260808113600 +0800" stop="20260808120100 +0800">
+    <title>下一站(衛視文件化)(232):滬上桃花源</title>
     <desc></desc>
   </programme>
-  <programme channel="DTV" start="20260808210000 +0800" stop="20260809000000 +0800">
-    <title>頻道尚未提供當日節目表</title>
+  <programme channel="DTV" start="20260808120100 +0800" stop="20260808122800 +0800">
+    <title>中國考古報導(119)</title>
     <desc></desc>
   </programme>
-  <programme channel="DTV" start="20260809000000 +0800" stop="20260809030000 +0800">
-    <title>頻道尚未提供當日節目表</title>
+  <programme channel="DTV" start="20260808122800 +0800" stop="20260808130800 +0800">
+    <title>雙城記854別讓教育受困</title>
+    <desc></desc>
+  </programme>
+  <programme channel="DTV" start="20260808130800 +0800" stop="20260808135900 +0800">
+    <title>《未來中國》精編(8)</title>
+    <desc></desc>
+  </programme>
+  <programme channel="DTV" start="20260808135900 +0800" stop="20260808150000 +0800">
+    <title>《一路前行》精編(7)——淨海</title>
+    <desc></desc>
+  </programme>
+  <programme channel="DTV" start="20260808150000 +0800" stop="20260808161000 +0800">
+    <title>因 Ai 相約(4)</title>
+    <desc></desc>
+  </programme>
+  <programme channel="DTV" start="20260808161000 +0800" stop="20260808172100 +0800">
+    <title>《媽媽咪呀》第九季(4)</title>
+    <desc></desc>
+  </programme>
+  <programme channel="DTV" start="20260808172100 +0800" stop="20260808174600 +0800">
+    <title>下一站(衛視文件化)(232):滬上桃花源</title>
+    <desc></desc>
+  </programme>
+  <programme channel="DTV" start="20260808174600 +0800" stop="20260808180000 +0800">
+    <title>探秘中國民居之美—徽州古民居</title>
+    <desc></desc>
+  </programme>
+  <programme channel="DTV" start="20260808180000 +0800" stop="20260808185800 +0800">
+    <title>東方新聞</title>
+    <desc></desc>
+  </programme>
+  <programme channel="DTV" start="20260808185800 +0800" stop="20260808195900 +0800">
+    <title>《一路前行》精編(7)——淨海</title>
+    <desc></desc>
+  </programme>
+  <programme channel="DTV" start="20260808195900 +0800" stop="20260808205000 +0800">
+    <title>《未來中國》精編(8)</title>
+    <desc></desc>
+  </programme>
+  <programme channel="DTV" start="20260808205000 +0800" stop="20260808214100 +0800">
+    <title>《未來中國》精編(9)</title>
+    <desc></desc>
+  </programme>
+  <programme channel="DTV" start="20260808214100 +0800" stop="20260808221100 +0800">
+    <title>《加油!小店》——人間煙火季(5)精編</title>
+    <desc></desc>
+  </programme>
+  <programme channel="DTV" start="20260808221100 +0800" stop="20260808232100 +0800">
+    <title>因 Ai 相約(4)</title>
+    <desc></desc>
+  </programme>
+  <programme channel="DTV" start="20260808232100 +0800" stop="20260809002200 +0800">
+    <title>《一路前行》精編(7)——淨海</title>
+    <desc></desc>
+  </programme>
+  <programme channel="DTV" start="20260809002200 +0800" stop="20260809011300 +0800">
+    <title>《未來中國》精編(9)</title>
+    <desc></desc>
+  </programme>
+  <programme channel="DTV" start="20260809011300 +0800" stop="20260809021100 +0800">
+    <title>東方新聞(4K)</title>
+    <desc></desc>
+  </programme>
+  <programme channel="DTV" start="20260809021100 +0800" stop="20260809021300 +0800">
+    <title>形象片:上海,靈感之城</title>
+    <desc></desc>
+  </programme>
+  <programme channel="DTV" start="20260809021300 +0800" stop="20260809024300 +0800">
+    <title>家國萬裡(1)</title>
+    <desc></desc>
+  </programme>
+  <programme channel="DTV" start="20260809024300 +0800" stop="20260809035900 +0800">
+    <title>極限挑戰寶藏行-和美鄉村季(8)</title>
+    <desc></desc>
+  </programme>
+  <programme channel="DTV" start="20260809035900 +0800" stop="20260809050000 +0800">
+    <title>《一路前行》精編(7)——淨海</title>
+    <desc></desc>
+  </programme>
+  <programme channel="DTV" start="20260809050000 +0800" stop="20260809050300 +0800">
+    <title>形象片:上海,靈感之城</title>
+    <desc></desc>
+  </programme>
+  <programme channel="DTV" start="20260809050300 +0800" stop="20260809052800 +0800">
+    <title>愛上海(4K)(80):走進張國立眼中「西部歌王」的《情歌》</title>
+    <desc></desc>
+  </programme>
+  <programme channel="DTV" start="20260809052800 +0800" stop="20260809055300 +0800">
+    <title>下一站(衛視文件化)(232):滬上桃花源</title>
     <desc></desc>
   </programme>
   <channel id="CC4">
@@ -9996,7 +10084,7 @@ From money woes to health problems, strife with the teenagers and love life trou
   </programme>
   <programme channel="CJAZ" start="20260808143000 +0800" stop="20260808150000 +0800">
     <title>Counting the Cost</title>
-    <desc>Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc>Can the U.S. slow Chinas robotics and tech rise?</desc>
   </programme>
   <programme channel="CJAZ" start="20260808150000 +0800" stop="20260808160000 +0800">
     <title>Newshour</title>
@@ -10044,7 +10132,7 @@ From money woes to health problems, strife with the teenagers and love life trou
   </programme>
   <programme channel="CJAZ" start="20260808223000 +0800" stop="20260808230000 +0800">
     <title>Counting the Cost</title>
-    <desc>Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc>Can the U.S. slow Chinas robotics and tech rise?</desc>
   </programme>
   <programme channel="CJAZ" start="20260808230000 +0800" stop="20260809000000 +0800">
     <title>Newshour</title>
@@ -10075,8 +10163,8 @@ From money woes to health problems, strife with the teenagers and love life trou
     <desc>Up-to-date news and analysis from around the world.</desc>
   </programme>
   <programme channel="CJAZ" start="20260809033000 +0800" stop="20260809040000 +0800">
-    <title>Program to be Announced</title>
-    <desc></desc>
+    <title>A Changing World?</title>
+    <desc>Ro Khanna joins Sreenivasan Jain on U.S. support for Israel, foreign policy failures, and Washingtons global credibility.</desc>
   </programme>
   <programme channel="CJAZ" start="20260809040000 +0800" stop="20260809043000 +0800">
     <title>News Live</title>
@@ -10084,7 +10172,7 @@ From money woes to health problems, strife with the teenagers and love life trou
   </programme>
   <programme channel="CJAZ" start="20260809043000 +0800" stop="20260809050000 +0800">
     <title>The Bottom Line</title>
-    <desc>Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc>After visiting the West Bank, former president of Ireland Mary Robinson says Israel is trying to make Palestine disappear.</desc>
   </programme>
   <channel id="CF24">
     <display-name>France 24</display-name>
@@ -11643,7 +11731,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme channel="TEST" start="20260808193500 +0800" stop="20260808200000 +0800">
     <title>東張西望[粵]</title>
-    <desc>《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。</desc>
+    <desc>號稱啟德居屋樓王的屋苑，被業主投訴電梯故障、停電、停車場出現漏水瀑布……有住戶猜測屋苑屬組裝合成導致嚴重滲漏，房署有何回應？家長給初生幼兒選購即食食品要留神！先後有家長發現內有異物？葵涌一冷凍倉竟變毒氣倉？原來雪櫃故障，令數百隻「豬殼 」頓變腐肉，惡臭瀰漫數層樓……《愛.回家之開心速遞》眾演員在商場與劇迷歡聚看結局，流露不捨之情！拍攝中的《女神配對計劃2》同樣充滿愛，兩位8月生日的女神獲驚喜慶生。</desc>
   </programme>
   <programme channel="TEST" start="20260808200000 +0800" stop="20260808203000 +0800">
     <title>香港系列之細間始終你好[粵]</title>
@@ -11683,7 +11771,7 @@ with clarity, context and journalistic rigor. Each segment goes beyond the headl
   </programme>
   <programme channel="TEST" start="20260809010500 +0800" stop="20260809013500 +0800">
     <title>東張西望[粵]</title>
-    <desc>《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。</desc>
+    <desc>號稱啟德居屋樓王的屋苑，被業主投訴電梯故障、停電、停車場出現漏水瀑布……有住戶猜測屋苑屬組裝合成導致嚴重滲漏，房署有何回應？家長給初生幼兒選購即食食品要留神！先後有家長發現內有異物？葵涌一冷凍倉竟變毒氣倉？原來雪櫃故障，令數百隻「豬殼 」頓變腐肉，惡臭瀰漫數層樓……《愛.回家之開心速遞》眾演員在商場與劇迷歡聚看結局，流露不捨之情！拍攝中的《女神配對計劃2》同樣充滿愛，兩位8月生日的女神獲驚喜慶生。</desc>
   </programme>
   <programme channel="TEST" start="20260809013500 +0800" stop="20260809020500 +0800">
     <title>豪遊咖啡[粵]</title>
